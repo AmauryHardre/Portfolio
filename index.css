@@ -17,8 +17,8 @@ html, body {
 
 #siphons_collage {
 	position: absolute;
-	height: 25vh;
-	margin-left: 16vw;
+	height: 18vh;
+	margin-left: 18vw;
 	margin-top: 38vh;
 }
 
@@ -28,14 +28,14 @@ html, body {
 
 #siphons_contour {
 	position: absolute;
-	height: 25vh;
-	margin-left: 16vw;
+	height: 18vh;
+	margin-left: 18vw;
 	margin-top: 38vh;
 }
 
 #pandore_collage {
 	position: absolute;
-	height: 18vh;
+	height: 16vh;
 	margin-left: 36vw;
 	margin-top: 16vh;	
 }
@@ -46,11 +46,31 @@ html, body {
 
 #pandore_contour {
 	position: absolute;
-	height: 18vh;
+	height: 16vh;
 	margin-left: 36vw;
 	margin-top: 16vh;
 	
 }
+
+#eclipse_collage {
+	position: absolute;
+	height: 30vh;
+	margin-left: 60vw;
+	margin-top: 10vh;	
+}
+
+#eclipse_collage:hover{
+	opacity: 0;
+}
+
+#eclipse_contour {
+	position: absolute;
+	height: 30vh;
+	margin-left: 60vw;
+	margin-top: 10vh;	
+}
+
+
 
 #ah {
 	left: 5vh;
