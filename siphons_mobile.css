@@ -60,7 +60,7 @@ p{
 	margin-left: auto;
 	margin-right: auto;
     height:100vh;
-	margin-top: 20vh;
+	margin-top: 10vh;
 	margin-bottom: 10vh;
 }
 
@@ -77,7 +77,7 @@ p{
 	font-style: normal;
 	font-weight: normal;
 	font-size: 6vh;
-	color: rgba(232,232,232,1);
+	color: rgba(112,112,112,1);
 }
 
 
@@ -95,6 +95,47 @@ p{
 	font-size: 6vh;
 	color: rgba(112,112,112,1);
 }
+
+#en {
+	right: 5vh;
+	bottom: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 6vh;
+	color: rgba(112,112,112,1);
+}
+
+#en:hover{
+	color: #293785;
+	transition: 0.6s ease;
+}
+
+#fr {
+	right: 5vh;
+	bottom: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 6vh;
+	color: rgba(112,112,112,1);
+}
+
+#fr:hover{
+	color: #293785;
+	transition: 0.6s ease;
+}
+
 
 #ah:hover{
 	color: #293785;

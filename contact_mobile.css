@@ -5,39 +5,21 @@ html, body {
 
 }
 
-#eclipse_rendu_1 {
-	position: fixed;
-	width: auto;
-	max-height: 100vh;
-	left: 0%;
-	top: 0%;
-	overflow: visible;
-}
-
-#droite {
+#profil {
 	position: relative;
-	display: flex;
-	margin-left: 65vh;
-	max-width: 70vw;
-	
-
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    width: auto;
+	height: 100vh;
 }
-
-#eclipse_experimentations {
-	max-height: 80vh;
-	top: 10vh;
-	overflow: visible;
-	position: absolute;
-}
-
-#texte1 
+#a_propos 
 {
-	top: 35vh;
-	margin-left: 30vw;
-    min-width:  20vw;
-	max-width: 30vw;
-	position: absolute;
-	overflow: auto;
+	height:40vh;
+	margin-top: 10vh;
+	margin-left: 7vw;
+	position: relative;
+	margin-bottom: 0vh;
 }
 h1{
 	font-family: Segoe UI;
@@ -56,51 +38,36 @@ p{
 	font-weight: normal;
 	color: rgba(112,112,112,1);
 	top: 0;
-	font-size: 2vmin;
-	margin-right: 2vw
+	font-size: 3vh;
+	margin-right: 7vw
 }
 
-#eclipse_rendu_2 {
-	top: 100vh;
-	margin-top: 10;
-	max-height: 80vh;
-	overflow: visible;
-	position: absolute;
+#coordonnees {
+	height:40vh;
+	margin-top: 10vh;
+	margin-left: 7vw;
+	position: relative;
+	margin-bottom: 0vh;
 }
-
-#eclipse_usage_1 {
-	position: absolute;
-	width: auto;
-	max-height: 60vh;
-    margin-left: 0%;
-	top: 185vh;
-	overflow: visible;
+h2{
+	font-family: Segoe UI;
+	font-size: 6vh;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(112,112,112,1);
+	text-align: left;
 }
-
-#eclipse_rendu_3 {
-	position: absolute;
-	width: auto;
-	max-height: 60vh;
-    margin-left: 0%;
-	top: 250vh;
+p1{
+	position: relative;
 	overflow: visible;
-	margin-bottom: 10vh
-}
-
-#texte2 {
-	position: absolute;
-	min-width:  20vw;
-	max-width: 30vw;
-    margin-left: 30vw;
-	top: 275vh;
-	overflow: visible;
-	margin-bottom: 10vh;text-align: left;
+	text-align: left;
 	font-family: Segoe UI;
 	font-style: normal;
 	font-weight: normal;
 	color: rgba(112,112,112,1);
-	font-size: 2vmin;
-	
+	top: 0;
+	font-size: 3vh;
+	margin-right: 7vw
 }
 
 #ah {
@@ -114,7 +81,7 @@ p{
 	font-family: Segoe UI;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 8vh;
+	font-size: 6vh;
 	color: rgba(232,232,232,1);
 }
 
@@ -130,7 +97,7 @@ p{
 	font-family: Segoe UI;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 8vh;
+	font-size: 6vh;
 	color: rgba(112,112,112,1);
 }
 
@@ -145,7 +112,7 @@ p{
 	font-family: Segoe UI;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 8vh;
+	font-size: 6vh;
 	color: rgba(112,112,112,1);
 }
 
@@ -165,7 +132,7 @@ p{
 	font-family: Segoe UI;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 8vh;
+	font-size: 6vh;
 	color: rgba(112,112,112,1);
 }
 
@@ -173,7 +140,6 @@ p{
 	color: #293785;
 	transition: 0.6s ease;
 }
-
 
 #ah:hover{
 	color: #293785;
