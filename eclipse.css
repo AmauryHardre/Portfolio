@@ -23,17 +23,17 @@ html, body {
 
 }
 
-#eclipse_rendu_2 {
+#eclipse_experimentations {
 	max-height: 80vh;
 	top: 10vh;
 	overflow: visible;
 	position: absolute;
 }
 
-#Les_siphons_sont_des_pices_ess 
+#texte1 
 {
-	top: 175vh;
-	margin-left: 40vw;
+	top: 35vh;
+	margin-left: 30vw;
     min-width:  20vw;
 	max-width: 30vw;
 	position: absolute;
@@ -60,12 +60,20 @@ p{
 	margin-right: 2vw
 }
 
+#eclipse_rendu_2 {
+	top: 100vh;
+	margin-top: 10;
+	max-height: 80vh;
+	overflow: visible;
+	position: absolute;
+}
+
 #eclipse_usage_1 {
 	position: absolute;
 	width: auto;
 	max-height: 60vh;
     margin-left: 0%;
-	top: 100vh;
+	top: 185vh;
 	overflow: visible;
 }
 
@@ -74,9 +82,25 @@ p{
 	width: auto;
 	max-height: 60vh;
     margin-left: 0%;
-	top: 165vh;
+	top: 250vh;
 	overflow: visible;
 	margin-bottom: 10vh
+}
+
+#texte2 {
+	position: absolute;
+	min-width:  20vw;
+	max-width: 30vw;
+    margin-left: 30vw;
+	top: 275vh;
+	overflow: visible;
+	margin-bottom: 10vh;text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(112,112,112,1);
+	font-size: 2vmin;
+	
 }
 
 #ah {

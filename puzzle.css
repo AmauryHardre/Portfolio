@@ -5,7 +5,7 @@ html, body {
 
 }
 
-#pandore_rendu_1 {
+#puzzle_rendu_1 {
 	position: fixed;
 	width: auto;
 	max-height: 100vh;
@@ -23,19 +23,16 @@ html, body {
 
 }
 
-#pandore_rendu_2 {
-	top: 100vh;
-	margin-top: 10vh;
+#puzzle_recherches {
 	max-height: 80vh;
-	margin-bottom: 10vh;
+	top: 10vh;
 	overflow: visible;
 	position: absolute;
 }
 
-
-#texte1
+#texte 
 {
-	top: 35vh;
+	margin-top: 35vh;
 	margin-left: 30vw;
     min-width:  20vw;
 	max-width: 30vw;
@@ -63,35 +60,16 @@ p{
 	margin-right: 2vw
 }
 
-#pandore_situation_dessin {
+#puzzle_rendu_2 {
 	position: absolute;
 	width: auto;
-	max-height: 55vh;
-    margin-left: 0;
-	top: 28vh;
-	overflow: visible;
-	margin-bottom: 30vh;
-}
-
-#pandore_usage {
-	top: 180vh;
-	margin-top: 20vh;
 	max-height: 80vh;
-	margin-bottom: 10vh;
+    margin-left: 0%;
+	top: 100vh;
 	overflow: visible;
-	position: absolute;
+	margin-bottom: 10vh;
 }
 
-#pandore_usage_rendu_1 {
-	top: 180vh;
-	margin-top: 20vh;
-	margin-left: 30vw;
-	max-height: 80vh;
-	margin-bottom: 10vh;
-	overflow: visible;
-	position: absolute;
-
-}
 
 #ah {
 	left: 5vh;

@@ -54,6 +54,35 @@ p{
 	margin-right: 2vw
 }
 
+#coordonnees {
+	margin-top: 35vh;
+	margin-left: 30vw;
+    min-width:  20vw;
+	max-width: 30vw;
+	position: absolute;
+	overflow: auto;
+}
+h2{
+	font-family: Segoe UI;
+	font-size: 6vh;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(112,112,112,1);
+	text-align: left;
+}
+p1{
+	position: relative;
+	overflow: visible;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(112,112,112,1);
+	top: 0;
+	font-size: 2vmin;
+	margin-right: 2vw
+}
+
 #ah {
 	left: 5vh;
 	top: 3vh;
