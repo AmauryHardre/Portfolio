@@ -1,6 +1,7 @@
-@media (max-width: 640px) {
+@media ( max-width : 640px ){
 	* {
 		box-sizing: border-box;
+	}
 	}
 
 *{  margin: 0;
@@ -11,88 +12,67 @@ html, body {
 }
 
 #fond {
-    position: absolute;
-	align-items: center;
-	width: 60vw;
-	height: auto;
-    margin-top: 20vh;
-	margin-bottom: 20vh;
-	margin-left: 13.5vw;
-    margin-right: 13.5vw;
-	transform: rotate(45);
+ opacity: 0;
+ width: 1px;
+ height: auto;
 }
 
 #siphons_collage {
-	position: absolute;
-	height: 15vh;
-	margin-left: 20vw;
-	margin-top: 38vh;
-}
-
-#siphons_collage:hover{
-	opacity: 0;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    height:40vh;
+	margin-top: 20vh;
 }
 
 #siphons_contour {
-	position: absolute;
-	height: 15vh;
-	margin-left: 20vw;
-	margin-top: 38vh;
+	 position: absolute;
+	 opacity: 0;
+	 height:0px;
 }
 
 #pandore_collage {
-	position: absolute;
-	height: 16vh;
-	margin-left: 36vw;
-	margin-top: 16vh;	
-}
-
-#pandore_collage:hover{
-	opacity: 0;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    height:40vh;
+	margin-top: 20vh;	
 }
 
 #pandore_contour {
 	position: absolute;
-	height: 16vh;
-	margin-left: 36vw;
-	margin-top: 16vh;
+	 opacity: 0;
+	 height:0px;
 	
 }
 
 #eclipse_collage {
-	position: absolute;
-	height: 30vh;
-	margin-left: 60vw;
-	margin-top: 10vh;	
-}
-
-#eclipse_collage:hover{
-	opacity: 0;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    height:40vh;
+	margin-top: 20vh;	
 }
 
 #eclipse_contour {
 	position: absolute;
-	height: 30vh;
-	margin-left: 60vw;
-	margin-top: 10vh;	
+	 opacity: 0;
+	 height:0px;
 }
 
 #puzzle_collage {
-	position: absolute;
-	height: 20vh;
-	margin-left: 50vw;
-	margin-top: 50vh;	
-}
-
-#puzzle_collage:hover{
-	opacity: 0;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    height:40vh;
+	margin-top: 20vh;
+	margin-bottom: 20vh;
 }
 
 #puzzle_contour {
 	position: absolute;
-	height: 20vh;
-	margin-left: 50vw;
-	margin-top: 50vh;	
+	 opacity: 0;
+	 height:0px;	
 }
 
 #ah {
@@ -106,7 +86,7 @@ html, body {
 	font-family: Segoe UI;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 8vh;
+	font-size: 6vh;
 	color: rgba(112,112,112,1);
 }
 
@@ -122,7 +102,7 @@ html, body {
 	font-family: Segoe UI;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 8vh;
+	font-size: 6vh;
 	color: rgba(112,112,112,1);
 }
 
@@ -137,7 +117,7 @@ html, body {
 	font-family: Segoe UI;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 8vh;
+	font-size: 6vh;
 	color: rgba(112,112,112,1);
 }
 
