@@ -1,0 +1,150 @@
+*{  margin: 0;
+  padding: 0;}
+html, body {
+  height: 100vh;
+
+}
+
+#fond {
+    position: absolute;
+	align-items: center;
+	height: 60vh;
+    margin-top: 20vh;
+	margin-bottom: 20vh;
+	margin-left: 13.5vw;
+    margin-right: 13.5vw;
+}
+
+#siphons_collage {
+	position: absolute;
+	height: 15vh;
+	margin-left: 20vw;
+	margin-top: 38vh;
+}
+
+#siphons_collage:hover{
+	opacity: 0;
+}
+
+#siphons_contour {
+	position: absolute;
+	height: 15vh;
+	margin-left: 20vw;
+	margin-top: 38vh;
+}
+
+#pandore_collage {
+	position: absolute;
+	height: 16vh;
+	margin-left: 36vw;
+	margin-top: 16vh;	
+}
+
+#pandore_collage:hover{
+	opacity: 0;
+}
+
+#pandore_contour {
+	position: absolute;
+	height: 16vh;
+	margin-left: 36vw;
+	margin-top: 16vh;
+	
+}
+
+#eclipse_collage {
+	position: absolute;
+	height: 30vh;
+	margin-left: 60vw;
+	margin-top: 10vh;	
+}
+
+#eclipse_collage:hover{
+	opacity: 0;
+}
+
+#eclipse_contour {
+	position: absolute;
+	height: 30vh;
+	margin-left: 60vw;
+	margin-top: 10vh;	
+}
+
+#puzzle_collage {
+	position: absolute;
+	height: 20vh;
+	margin-left: 50vw;
+	margin-top: 50vh;	
+}
+
+#puzzle_collage:hover{
+	opacity: 0;
+}
+
+#puzzle_contour {
+	position: absolute;
+	height: 20vh;
+	margin-left: 50vw;
+	margin-top: 50vh;	
+}
+
+#ah {
+	left: 5vh;
+	top: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8vh;
+	color: rgba(112,112,112,1);
+}
+
+
+#Contact {
+	right: 5vh;
+	top: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8vh;
+	color: rgba(112,112,112,1);
+}
+
+#fr {
+	right: 5vh;
+	bottom: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8vh;
+	color: rgba(112,112,112,1);
+}
+
+#fr:hover{
+	color: #293785;
+	transition: 0.6s ease;
+}
+
+#ah:hover{
+	color: #293785;
+	transition: 0.6s ease;
+}
+
+#Contact:hover{
+	color: #293785;
+	transition: 0.6s ease;
+}
