@@ -1,8 +1,8 @@
 *{  margin: 0;
   padding: 0;}
-html, body {
-  height: 100vh;
 
+.scrollable-element {
+  scrollbar-width: none;
 }
 
 #profil {
@@ -10,8 +10,8 @@ html, body {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-    width: auto;
-	height: 100vh;
+    width: 100vw;
+	height: auto;
 }
 #a_propos 
 {
@@ -82,7 +82,7 @@ p1{
 	font-style: normal;
 	font-weight: normal;
 	font-size: 6vh;
-	color: rgba(232,232,232,1);
+	color: rgba(112,112,112,1);
 }
 
 

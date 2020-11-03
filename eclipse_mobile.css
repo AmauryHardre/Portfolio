@@ -100,7 +100,7 @@ p{
 }
 
 #ah {
-	left: 3vw;
+	left: 5vh;
 	top: 3vh;
 	position: fixed;
 	overflow: visible;
@@ -116,7 +116,7 @@ p{
 
 
 #Contact {
-	right: 3vw;
+	right: 5vh;
 	top: 3vh;
 	position: fixed;
 	overflow: visible;
@@ -131,7 +131,7 @@ p{
 }
 
 #en {
-	right: 3vw;
+	right: 5vh;
 	bottom: 3vh;
 	position: fixed;
 	overflow: visible;
@@ -151,7 +151,7 @@ p{
 }
 
 #fr {
-	right: 3vw;
+	right: 5vh;
 	bottom: 3vh;
 	position: fixed;
 	overflow: visible;

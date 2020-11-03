@@ -1,8 +1,8 @@
 *{  margin: 0;
   padding: 0;}
-html, body {
-  height: 100vh;
 
+.scrollable-element {
+  scrollbar-width: none;
 }
 
 #siphons_ensemble_photo {
@@ -10,8 +10,8 @@ html, body {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-    width: auto;
-	height: 100vh;
+    width: 100vw;
+	height: auto;
 }
 
 #siphons_lampe_photo_1 {
@@ -59,7 +59,8 @@ p{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-    height:100vh;
+    width: 100vw;
+	height: auto;
 	margin-top: 10vh;
 	margin-bottom: 10vh;
 }
