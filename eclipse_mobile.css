@@ -1,8 +1,8 @@
 *{  margin: 0;
   padding: 0;}
 
-::-webkit-scrollbar { 
-display: none; 
+body {
+    overflow-y:hidden;
 }
 
 #eclipse_rendu_1 {
