@@ -31,7 +31,7 @@
 {
     height:40vh;
 	margin-top: 10vh;
-	margin-left: 7vw;
+	margin-left: 5vh;
 	position: relative;
 	margin-bottom: 35vh;
 }
@@ -53,7 +53,7 @@ p{
 	color: rgba(112,112,112,1);
 	top: 0;
 	font-size: 3vh;
-	margin-right: 7vw
+	margin-right: 5vh;
 }
 
 #siphons_vase_photo {
