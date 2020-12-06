@@ -5,105 +5,102 @@ html, body {
 
 }
 
-#fond {
-    position: absolute;
-	align-items: center;
-	height: 95vh;
-    margin-top: 5vh;
-	margin-bottom: 5vh;
-	margin-left: 10vw;
-    margin-right: 10vw;
+#eclipse_rendu_1 {
+	position: fixed;
+	width: auto;
+	max-height: 100vh;
+	left: 0%;
+	top: 0%;
+	overflow: visible;
 }
 
-#lavelinge_collage {
-	position: absolute;
-	height: 40vh;
-	margin-left: 30vw;
-	margin-top: 45vh;
-}
-
-#lavelinge_collage:hover{
-	opacity: 0;
-}
-
-#lavelinge_contour {
-	position: absolute;
-	height: 40vh;
-	margin-left: 30vw;
-	margin-top: 45vh;
-}
-
-#siphons_collage {
-	position: absolute;
-	height: 15vh;
-	margin-left: 20vw;
-	margin-top: 38vh;
-}
-
-#siphons_collage:hover{
-	opacity: 0;
-}
-
-#siphons_contour {
-	position: absolute;
-	height: 15vh;
-	margin-left: 20vw;
-	margin-top: 38vh;
-}
-
-#pandore_collage {
-	position: absolute;
-	height: 16vh;
-	margin-left: 36vw;
-	margin-top: 16vh;	
-}
-
-#pandore_collage:hover{
-	opacity: 0;
-}
-
-#pandore_contour {
-	position: absolute;
-	height: 16vh;
-	margin-left: 36vw;
-	margin-top: 16vh;
+#droite {
+	position: relative;
+	display: flex;
+	margin-left: 65vh;
+	max-width: 70vw;
 	
+
 }
 
-#eclipse_collage {
+#eclipse_experimentations {
+	max-height: 80vh;
+	top: 10vh;
+	overflow: visible;
 	position: absolute;
-	height: 30vh;
-	margin-left: 60vw;
-	margin-top: 10vh;	
 }
 
-#eclipse_collage:hover{
-	opacity: 0;
-}
-
-#eclipse_contour {
+#texte1 
+{
+	top: 35vh;
+	margin-left: 30vw;
+    min-width:  20vw;
+	max-width: 30vw;
 	position: absolute;
-	height: 30vh;
-	margin-left: 60vw;
-	margin-top: 10vh;	
+	overflow: auto;
+}
+h1{
+	font-family: Segoe UI;
+	font-size: 6vh;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(112,112,112,1);
+	text-align: left;
+}
+p{
+	position: relative;
+	overflow: visible;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(112,112,112,1);
+	top: 0;
+	font-size: 2vmin;
+	margin-right: 2vw
 }
 
-#puzzle_collage {
+#eclipse_rendu_2 {
+	top: 100vh;
+	margin-top: 10;
+	max-height: 80vh;
+	overflow: visible;
 	position: absolute;
-	height: 20vh;
-	margin-left: 50vw;
-	margin-top: 50vh;	
 }
 
-#puzzle_collage:hover{
-	opacity: 0;
-}
-
-#puzzle_contour {
+#eclipse_usage_1 {
 	position: absolute;
-	height: 20vh;
-	margin-left: 50vw;
-	margin-top: 50vh;	
+	width: auto;
+	max-height: 60vh;
+    margin-left: 0%;
+	top: 185vh;
+	overflow: visible;
+}
+
+#eclipse_rendu_3 {
+	position: absolute;
+	width: auto;
+	max-height: 60vh;
+    margin-left: 0%;
+	top: 250vh;
+	overflow: visible;
+	margin-bottom: 10vh
+}
+
+#texte2 {
+	position: absolute;
+	min-width:  20vw;
+	max-width: 30vw;
+    margin-left: 30vw;
+	top: 275vh;
+	overflow: visible;
+	margin-bottom: 10vh;text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(112,112,112,1);
+	font-size: 2vmin;
+	
 }
 
 #ah {
@@ -118,7 +115,7 @@ html, body {
 	font-style: normal;
 	font-weight: normal;
 	font-size: 8vh;
-	color: rgba(112,112,112,1);
+	color: rgba(232,232,232,1);
 }
 
 
@@ -176,6 +173,7 @@ html, body {
 	color: #293785;
 	transition: 0.6s ease;
 }
+
 
 #ah:hover{
 	color: #293785;
