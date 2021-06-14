@@ -83,6 +83,65 @@ p1{
 	margin-right: 2vw
 }
 
+#prix
+{
+	margin-top: 60vh;
+	margin-left: 0;
+    min-width:  20vw;
+	max-width: 25vw;
+	position: absolute;
+	overflow: auto;
+}
+h3{
+	font-family: Segoe UI;
+	font-size: 6vh;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(112,112,112,1);
+	text-align: left;
+}
+p2{
+	position: relative;
+	overflow: visible;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(112,112,112,1);
+	top: 0;
+	font-size: 2vmin;
+	margin-right: 2vw
+}
+
+#experience {
+	margin-top: 60vh;
+	margin-left: 30vw;
+    min-width:  20vw;
+	max-width: 30vw;
+	position: absolute;
+	overflow: auto;
+}
+h4{
+	font-family: Segoe UI;
+	font-size: 6vh;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(112,112,112,1);
+	text-align: left;
+}
+p3{
+	position: relative;
+	overflow: visible;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(112,112,112,1);
+	top: 0;
+	font-size: 2vmin;
+	margin-right: 2vw
+}
+
 #ah {
 	left: 5vh;
 	top: 3vh;
