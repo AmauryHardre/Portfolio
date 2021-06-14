@@ -46,7 +46,7 @@ p{
 	margin-top: 0vh;
 	margin-left: 5vh;
 	position: relative;
-	margin-bottom: 0vh;
+	
 }
 h2{
 	font-family: Segoe UI;
@@ -73,8 +73,9 @@ p1{
 	height:40vh;
 	margin-top: 0vh;
 	margin-left: 5vh;
+	margin-right: 5vh;
 	position: relative;
-	margin-bottom: 0vh;
+	
 }
 h3{
 	font-family: Segoe UI;
@@ -101,8 +102,8 @@ p2{
 	height:40vh;
 	margin-top: 0vh;
 	margin-left: 5vh;
+	margin-right: 5vh;
 	position: relative;
-	margin-bottom: 0vh;
 }
 h4{
 	font-family: Segoe UI;
