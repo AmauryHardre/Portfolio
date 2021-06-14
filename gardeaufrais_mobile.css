@@ -1,0 +1,170 @@
+*{  margin: 0;
+  padding: 0;}
+
+.scrollable-element {
+  scrollbar-width: none;
+}
+
+#gardeaufrais_rendu_1 {
+	position: relative;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    width: 100vw;
+	height: auto;
+}
+
+#gardeaufrais_rendu_2 {
+	position: relative;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    width: 100vw;
+	height: auto;
+	margin-top: 55vh;
+}
+
+#texte1 
+{
+	height:40vh;
+	margin-top: 10vh;
+	margin-left: 5vh;
+	position: relative;
+	margin-bottom: 35vh;
+}
+h1{
+	font-family: Segoe UI;
+	font-size: 8vh;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(112,112,112,1);
+	text-align: left;
+}
+p{
+	position: relative;
+	overflow: visible;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(112,112,112,1);
+	top: 0;
+	font-size: 3vh;
+	margin-right: 5vh;
+}
+
+#gardeaufrais_rendu_3 {
+	position: relative;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    width: 100vw;
+	height: auto;
+	margin-top: 10vh;
+}
+
+#gardeaufrais_rendu_4 {
+	position: relative;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    width: 100vw;
+	height: auto;
+	margin-top: 10vh;
+}
+
+#texte2 {
+	height:40vh;
+	margin-top: 10vh;
+	margin-left: 5vh;
+	margin-right: 5vh;
+	position: relative;
+	margin-bottom: 10vh;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(112,112,112,1);
+	font-size: 3vh;
+	
+}
+
+#ah {
+	left: 5vh;
+	top: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 6vh;
+	color: rgba(112,112,112,1);
+}
+
+
+#Contact {
+	right: 5vh;
+	top: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 6vh;
+	color: rgba(112,112,112,1);
+}
+
+#en {
+	right: 5vh;
+	bottom: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 6vh;
+	color: rgba(112,112,112,1);
+}
+
+#en:hover{
+	color: #293785;
+	transition: 0.6s ease;
+}
+
+#fr {
+	right: 5vh;
+	bottom: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 6vh;
+	color: rgba(112,112,112,1);
+}
+
+#fr:hover{
+	color: #293785;
+	transition: 0.6s ease;
+}
+
+#ah:hover{
+	color: #293785;
+	transition: 0.6s ease;
+}
+
+#Contact:hover{
+	color: #293785;
+	transition: 0.6s ease;
+}
