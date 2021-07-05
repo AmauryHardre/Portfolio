@@ -40,21 +40,19 @@ html, body {
 	overflow: auto;
 }
 h1{
-	font-family: Segoe UI;
 	font-size: 6vh;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(112,112,112,1);
+	color: rgba(47,47,47,1);
 	text-align: left;
 }
 p{
 	position: relative;
 	overflow: visible;
 	text-align: left;
-	font-family: Segoe UI;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(112,112,112,1);
+	color: rgba(47,47,47,1);
 	top: 0;
 	font-size: 2vmin;
 	margin-right: 2vw
@@ -95,10 +93,9 @@ p{
 	top: 275vh;
 	overflow: visible;
 	margin-bottom: 10vh;text-align: left;
-	font-family: Segoe UI;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(112,112,112,1);
+	color: rgba(47,47,47,1);
 	font-size: 2vmin;
 	
 }
@@ -111,15 +108,14 @@ p{
 	white-space: nowrap;
 	cursor: pointer;
 	text-align: left;
-	font-family: Segoe UI;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 8vh;
+	font-size: 7vh;
 	color: rgba(232,232,232,1);
 }
 
 
-#Contact {
+#contact {
 	right: 5vh;
 	top: 3vh;
 	position: fixed;
@@ -127,11 +123,10 @@ p{
 	white-space: nowrap;
 	cursor: pointer;
 	text-align: left;
-	font-family: Segoe UI;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 8vh;
-	color: rgba(112,112,112,1);
+	font-size: 7vh;
+	color: rgba(47,47,47,1);
 }
 
 #en {
@@ -142,16 +137,10 @@ p{
 	white-space: nowrap;
 	cursor: pointer;
 	text-align: left;
-	font-family: Segoe UI;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 8vh;
-	color: rgba(112,112,112,1);
-}
-
-#en:hover{
-	color: #293785;
-	transition: 0.6s ease;
+	font-size: 7vh;
+	color: rgba(47,47,47,1);
 }
 
 #fr {
@@ -162,25 +151,28 @@ p{
 	white-space: nowrap;
 	cursor: pointer;
 	text-align: left;
-	font-family: Segoe UI;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 8vh;
-	color: rgba(112,112,112,1);
+	font-size: 7vh;
+	color: rgba(47,47,47,1);
 }
 
 #fr:hover{
-	color: #293785;
+	text-decoration: underline;
 	transition: 0.6s ease;
 }
 
+#en:hover{
+	text-decoration: underline;
+	transition: 0.6s ease;
+}
 
 #ah:hover{
-	color: #293785;
+	text-decoration: underline;
 	transition: 0.6s ease;
 }
 
-#Contact:hover{
-	color: #293785;
+#contact:hover{
+	text-decoration: underline;
 	transition: 0.6s ease;
 }

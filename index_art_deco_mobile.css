@@ -4,7 +4,7 @@ html, body {
   width: auto;
 }
 
-#lavelinge_couleur {
+#siphons_couleur {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -12,13 +12,42 @@ html, body {
 	margin-top: 15vh;
 }
 
-#lavelinge_nb {
+#siphons_nb {
 	 position: absolute;
 	 opacity: 0;
 	 height:0px;
 }
 
-#gardeaufrais_couleur {
+#pandore_couleur {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    height:70vh;
+	margin-top: 15vh;	
+}
+
+#pandore_nb {
+	position: absolute;
+	 opacity: 0;
+	 height:0px;
+	
+}
+
+#eclipse_couleur {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    height:70vh;
+	margin-top: 15vh;	
+}
+
+#eclipse_nb {
+	position: absolute;
+	 opacity: 0;
+	 height:0px;
+}
+
+#puzzle_couleur {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -27,25 +56,10 @@ html, body {
 	margin-bottom: 15vh;
 }
 
-#gardeaufrais_nb {
-	 position: absolute;
+#puzzle_nb {
+	position: absolute;
 	 opacity: 0;
-	 height:0px;
-}
-
-#choux_couleur {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-    height:70vh;
-	margin-top: 15vh;
-	margin-bottom: 15vh;
-}
-
-#choux_nb {
-	 position: absolute;
-	 opacity: 0;
-	 height:0px;
+	 height:0px;	
 }
 
 #def {
