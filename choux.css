@@ -46,6 +46,7 @@ h1{
 	color: rgba(47,47,47,1);
 	text-align: left;
 }
+
 p{
 	position: relative;
 	overflow: visible;
@@ -58,7 +59,19 @@ p{
 	margin-right: 2vw
 }
 
-#eclipse_rendu_2 {
+p1{
+	position: relative;
+	overflow: visible;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(47,47,47,1);
+	top: 0;
+	font-size: 2.25vmin;
+	margin-right: 2vw
+}
+
+#choux_3 {
 	top: 100vh;
 	margin-top: 10;
 	max-height: 80vh;
@@ -92,7 +105,8 @@ p{
     margin-left: 30vw;
 	top: 275vh;
 	overflow: visible;
-	margin-bottom: 10vh;text-align: left;
+	margin-bottom: 10vh;
+	text-align: left;
 	font-style: normal;
 	font-weight: normal;
 	color: rgba(47,47,47,1);
