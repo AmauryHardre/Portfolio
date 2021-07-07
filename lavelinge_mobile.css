@@ -5,7 +5,7 @@
   scrollbar-width: none;
 }
 
-#manugueement_rendu_1 {
+#lavelinge_1 {
 	position: relative;
 	display: block;
 	margin-left: auto;
@@ -14,7 +14,7 @@
 	margin-top: 15vh;
 }
 
-#eclipse_experimentations {
+#lavelinge_2 {
 	position: relative;
 	display: block;
 	margin-left: auto;
@@ -33,7 +33,7 @@
 	margin-bottom: 35vh;
 }
 h1{
-	font-size: 8vh;
+	font-size: 6vh;
 	font-style: normal;
 	font-weight: normal;
 	color: rgba(47,47,47,1);

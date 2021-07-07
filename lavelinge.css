@@ -5,7 +5,7 @@ html, body {
 
 }
 
-#manugueement_rendu_1 {
+#lavelinge_1 {
 	position: fixed;
 	width: auto;
 	max-height: 100vh;
@@ -23,7 +23,7 @@ html, body {
 
 }
 
-#eclipse_experimentations {
+#lavelinge_2 {
 	max-height: 80vh;
 	top: 10vh;
 	overflow: visible;
