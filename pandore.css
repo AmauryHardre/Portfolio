@@ -49,7 +49,20 @@ h1{
 	color: rgba(47,47,47,1);
 	text-align: left;
 }
+
 p{
+	position: relative;
+	overflow: visible;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(47,47,47,1);
+	top: 0;
+	font-size: 2vmin;
+	margin-right: 2vw
+}
+
+p1{
 	position: relative;
 	overflow: visible;
 	text-align: left;

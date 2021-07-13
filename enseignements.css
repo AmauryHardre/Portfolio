@@ -2,10 +2,10 @@
   padding: 0;}
 html, body {
   height: 100vh;
-
+  background: #000000
 }
 
-#eclipse_rendu_1 {
+#enseignements_1 {
 	position: fixed;
 	width: auto;
 	max-height: 100vh;
@@ -23,7 +23,7 @@ html, body {
 
 }
 
-#eclipse_experimentations {
+#enseignements_2 {
 	max-height: 80vh;
 	top: 10vh;
 	overflow: visible;
@@ -43,7 +43,7 @@ h1{
 	font-size: 6vh;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
+	color: rgba(232,232,232,1);
 	text-align: left;
 }
 
@@ -53,7 +53,7 @@ p{
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
+	color: rgba(232,232,232,1);
 	top: 0;
 	font-size: 2vmin;
 	margin-right: 2vw
@@ -65,13 +65,13 @@ p1{
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
+	color: rgba(232,232,232,1);
 	top: 0;
 	font-size: 2.25vmin;
 	margin-right: 2vw
 }
 
-#eclipse_rendu_2 {
+#enseignements_3 {
 	top: 100vh;
 	margin-top: 10;
 	max-height: 80vh;
@@ -79,37 +79,127 @@ p1{
 	position: absolute;
 }
 
-#eclipse_usage_1 {
-	position: absolute;
-	width: auto;
-	max-height: 60vh;
-    margin-left: 0%;
-	top: 185vh;
+#enseignements_4 {
+	top: 100vh;
+	margin-top: 10;
+	max-height: 80vh;
 	overflow: visible;
+	position: absolute;
+	margin-left: 30vw;
 }
 
-#eclipse_rendu_3 {
-	position: absolute;
-	width: auto;
-	max-height: 60vh;
-    margin-left: 0%;
-	top: 250vh;
-	overflow: visible;
-	margin-bottom: 10vh
-}
-
-#texte2 {
+#texte_baton {
 	position: absolute;
 	min-width:  20vw;
 	max-width: 30vw;
-    margin-left: 30vw;
-	top: 275vh;
+    margin-left: 4vw;
+	top: 185vh;
 	overflow: visible;
-	margin-bottom: 10vh;text-align: left;
+	margin-bottom: 10vh;
+	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
-	font-size: 2.25vmin;
+	color: rgba(232,232,232,1);
+	font-size: 2vmin;
+	
+}
+
+#enseignements_5 {
+	top: 200vh;
+	margin-top: 10;
+	max-height: 80vh;
+	overflow: visible;
+	position: absolute;
+}
+
+#enseignements_6 {
+	top: 200vh;
+	margin-top: 10;
+	max-height: 80vh;
+	overflow: visible;
+	position: absolute;
+	margin-left: 30vw;
+}
+
+#texte_coupe {
+	position: absolute;
+	min-width:  20vw;
+	max-width: 30vw;
+    margin-left: 4vw;
+	top: 285vh;
+	overflow: visible;
+	margin-bottom: 10vh;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(232,232,232,1);
+	font-size: 2vmin;
+	
+}
+
+#enseignements_7 {
+	top: 300vh;
+	margin-top: 10;
+	max-height: 80vh;
+	overflow: visible;
+	position: absolute;
+}
+
+#enseignements_8 {
+	top: 300vh;
+	margin-top: 10;
+	max-height: 80vh;
+	overflow: visible;
+	position: absolute;
+	margin-left: 30vw;
+}
+
+#texte_deniers {
+	position: absolute;
+	min-width:  20vw;
+	max-width: 30vw;
+    margin-left: 4vw;
+	top: 385vh;
+	overflow: visible;
+	margin-bottom: 10vh;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(232,232,232,1);
+	font-size: 2vmin;
+	
+}
+
+#enseignements_9 {
+	top: 400vh;
+	margin-top: 10;
+	max-height: 80vh;
+	overflow: visible;
+	position: absolute;
+}
+
+#enseignements_10 {
+	top: 400vh;
+	margin-top: 10;
+	max-height: 80vh;
+	overflow: visible;
+	position: absolute;
+	margin-left: 30vw;
+}
+
+#texte_epee {
+	position: absolute;
+	min-width:  20vw;
+	max-width: 30vw;
+    margin-left: 4vw;
+	top: 485vh;
+	overflow: visible;
+	margin-bottom: 10vh;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(232,232,232,1);
+	font-size: 2vmin;
 	
 }
 
@@ -139,7 +229,7 @@ p1{
 	font-style: normal;
 	font-weight: normal;
 	font-size: 7vh;
-	color: rgba(47,47,47,1);
+	color: rgba(232,232,232,1);
 }
 
 #en {
@@ -153,7 +243,7 @@ p1{
 	font-style: normal;
 	font-weight: normal;
 	font-size: 7vh;
-	color: rgba(47,47,47,1);
+	color: rgba(232,232,232,1);
 }
 
 #fr {
@@ -167,7 +257,7 @@ p1{
 	font-style: normal;
 	font-weight: normal;
 	font-size: 7vh;
-	color: rgba(47,47,47,1);
+	color: rgba(232,232,232,1);
 }
 
 #fr:hover{

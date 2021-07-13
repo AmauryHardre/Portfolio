@@ -77,8 +77,26 @@ html, body {
 	margin-top: 50vh;	
 }
 
-#def {
+#enseignements_couleur {
 	position: absolute;
+	height: 40vh;
+	margin-left: 30vw;
+	margin-top: 80vh;	
+}
+
+#enseignements_nb:hover{
+	opacity: 0;
+}
+
+#enseignements_nb {
+	position: absolute;
+	height: 40vh;
+	margin-left: 30vw;
+	margin-top: 80vh;	
+}
+
+#def {
+	position: fixed;
 	height: 40vh;
 	width: 10vw;
 	margin-left: 5vh;

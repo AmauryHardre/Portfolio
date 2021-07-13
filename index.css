@@ -5,7 +5,7 @@ html, body {
 }
 
 #def {
-	position: absolute;
+	position: fixed;
 	height: 40vh;
 	width: 10vw;
 	margin-left: 5vh;
