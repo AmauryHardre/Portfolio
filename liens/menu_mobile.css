@@ -1,0 +1,138 @@
+*{  margin: 0;
+  padding: 0;}
+html, body {
+  width: auto;
+}
+
+#titre {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    margin-bottom: 15vh;
+	margin-top: 15vh;
+	width: 59vw;
+	color: rgba(47,47,47,1);
+}
+
+p { 
+    font-size: 4vh;
+	
+}
+
+#bloc1 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    margin-bottom: 15vh;
+	margin-top: 15vh;
+	width: 59vw;
+	color: rgba(47,47,47,1);
+}
+
+#bloc1:hover{
+	text-decoration: underline;
+	transition: 0.6s ease;
+}
+
+#bloc2 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    margin-bottom: 15vh;
+	margin-top: 15vh;
+	width: 59vw;
+	color: rgba(47,47,47,1);
+}
+
+#bloc2:hover{
+	text-decoration: underline;
+	transition: 0.6s ease;
+}
+
+#bloc3 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    margin-bottom: 15vh;
+	margin-top: 15vh;
+	width: 59vw;
+	color: rgba(47,47,47,1);
+}
+
+#bloc3:hover{
+	text-decoration: underline;
+	transition: 0.6s ease;
+}
+
+#bloc4 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    margin-bottom: 15vh;
+	margin-top: 15vh;
+	width: 59vw;
+	color: rgba(47,47,47,1);
+}
+
+#bloc4:hover{
+	text-decoration: underline;
+	transition: 0.6s ease;
+}
+
+#ah {
+	left: 5vh;
+	top: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 5vh;
+	color: rgba(47,47,47,1);
+}
+
+
+#contact {
+	right: 5vh;
+	top: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 5vh;
+	color: rgba(47,47,47,1);
+}
+
+#retour {
+	left: 5vh;
+	bottom: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 5vh;
+	color: rgba(47,47,47,1);
+}
+
+#ah:hover{
+	text-decoration: underline;
+	transition: 0.6s ease;
+}
+
+#contact:hover{
+	text-decoration: underline;
+	transition: 0.6s ease;
+}
+
+#retour:hover{
+	text-decoration: underline;
+	transition: 0.6s ease;
+}
