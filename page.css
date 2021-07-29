@@ -1,24 +1,43 @@
 *{  margin: 0;
   padding: 0;}
+html, body {
+  height: 100vh;
 
-.scrollable-element {
-  scrollbar-width: none;
 }
 
-#profil {
+#image_1 {
+	position: fixed;
+	width: auto;
+	max-height: 100vh;
+	left: 0%;
+	top: 0%;
+	overflow: visible;
+}
+
+#droite {
 	position: relative;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	height: 70vh;
-	margin-top: 15vh;
+	display: flex;
+	margin-left: 65vh;
+	max-width: 70vw;
+	
+
 }
-#a_propos 
+
+#image_2 {
+	max-height: 80vh;
+	top: 10vh;
+	overflow: visible;
+	position: absolute;
+}
+
+#texte_1 
 {
-	height:40vh;
-	margin-top: 10vh;
-	margin-left: 5vh;
-	position: relative;
+	top: 35vh;
+	margin-left: 30vw;
+    min-width:  20vw;
+	max-width: 30vw;
+	position: absolute;
+	overflow: auto;
 }
 h1{
 	font-size: 6vh;
@@ -27,6 +46,7 @@ h1{
 	color: rgba(47,47,47,1);
 	text-align: left;
 }
+
 p{
 	position: relative;
 	overflow: visible;
@@ -35,24 +55,10 @@ p{
 	font-weight: normal;
 	color: rgba(47,47,47,1);
 	top: 0;
-	font-size: 3vh;
-	margin-right: 5vh;
+	font-size: 2vmin;
+	margin-right: 2vw
 }
 
-#coordonnees {
-	height:40vh;
-	margin-top: 0vh;
-	margin-left: 5vh;
-	position: relative;
-	
-}
-h2{
-	font-size: 6vh;
-	font-style: normal;
-	font-weight: normal;
-	color: rgba(47,47,47,1);
-	text-align: left;
-}
 p1{
 	position: relative;
 	overflow: visible;
@@ -61,63 +67,52 @@ p1{
 	font-weight: normal;
 	color: rgba(47,47,47,1);
 	top: 0;
-	font-size: 3vh;
-	margin-right: 5vh;
+	font-size: 2.25vmin;
+	margin-right: 2vw
 }
 
-#prix {
-	height:40vh;
-	margin-top: 0vh;
-	margin-left: 5vh;
-	margin-right: 5vh;
-	position: relative;
+#image_3 {
+	top: 100vh;
+	margin-top: 10;
+	max-height: 80vh;
+	overflow: visible;
+	position: absolute;
+}
+
+#image_4 {
+	position: absolute;
+	width: auto;
+	max-height: 60vh;
+    margin-left: 0%;
+	top: 185vh;
+	overflow: visible;
+}
+
+#image_5 {
+	position: absolute;
+	width: auto;
+	max-height: 60vh;
+    margin-left: 0%;
+	top: 250vh;
+	overflow: visible;
+	margin-bottom: 10vh
+}
+
+#texte_2 {
+	position: absolute;
+	min-width:  20vw;
+	max-width: 30vw;
+    margin-left: 30vw;
+	top: 275vh;
+	overflow: visible;
+	margin-bottom: 10vh;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(47,47,47,1);
+	font-size: 2vmin;
 	
 }
-h3{
-	font-size: 6vh;
-	font-style: normal;
-	font-weight: normal;
-	color: rgba(47,47,47,1);
-	text-align: left;
-}
-p2{
-	position: relative;
-	overflow: visible;
-	text-align: left;
-	font-style: normal;
-	font-weight: normal;
-	color: rgba(47,47,47,1);
-	top: 0;
-	font-size: 3vh;
-	margin-right: 5vh;
-}
-
-#experience {
-	height:40vh;
-	margin-top: 0vh;
-	margin-left: 5vh;
-	margin-right: 5vh;
-	position: relative;
-}
-h4{
-	font-size: 6vh;
-	font-style: normal;
-	font-weight: normal;
-	color: rgba(47,47,47,1);
-	text-align: left;
-}
-p3{
-	position: relative;
-	overflow: visible;
-	text-align: left;
-	font-style: normal;
-	font-weight: normal;
-	color: rgba(47,47,47,1);
-	top: 0;
-	font-size: 3vh;
-	margin-right: 5vh;
-}
-
 
 #ah {
 	left: 5vh;
@@ -129,7 +124,7 @@ p3{
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 5vh;
+	font-size: 7vh;
 	color: rgba(47,47,47,1);
 }
 
@@ -144,7 +139,7 @@ p3{
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 5vh;
+	font-size: 7vh;
 	color: rgba(47,47,47,1);
 }
 
@@ -158,7 +153,7 @@ p3{
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 5vh;
+	font-size: 7vh;
 	color: rgba(47,47,47,1);
 }
 
@@ -172,21 +167,7 @@ p3{
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 5vh;
-	color: rgba(47,47,47,1);
-}
-
-#liens {
-	left: 5vh;
-	bottom: 3vh;
-	position: fixed;
-	overflow: visible;
-	white-space: nowrap;
-	cursor: pointer;
-	text-align: left;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 5vh;
+	font-size: 7vh;
 	color: rgba(47,47,47,1);
 }
 
@@ -206,11 +187,6 @@ p3{
 }
 
 #contact:hover{
-	text-decoration: underline;
-	transition: 0.6s ease;
-}
-
-#liens:hover{
 	text-decoration: underline;
 	transition: 0.6s ease;
 }

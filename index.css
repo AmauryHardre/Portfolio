@@ -4,6 +4,97 @@ html, body {
   height: 100vh;
 }
 
+#image_1_nb {
+	position: absolute;
+	height: 40vh;
+	margin-left: 20vw;
+	margin-top: 38vh;
+}
+
+#image_1_nb:hover{
+	opacity: 0;
+}
+
+#image_1_couleur {
+	position: absolute;
+	height: 40vh;
+	margin-left: 20vw;
+	margin-top: 38vh;
+}
+
+#image_2_nb {
+	position: absolute;
+	height: 40vh;
+	margin-left: 36vw;
+	margin-top: 16vh;	
+}
+
+#image_2_nb:hover{
+	opacity: 0;
+}
+
+#image_2_couleur {
+	position: absolute;
+	height: 40vh;
+	margin-left: 36vw;
+	margin-top: 16vh;
+	
+}
+
+#image_3_nb {
+	position: absolute;
+	height: 40vh;
+	margin-left: 65vw;
+	margin-top: 10vh;	
+}
+
+#image_3_nb:hover{
+	opacity: 0;
+}
+
+#image_3_couleur {
+	position: absolute;
+	height: 40vh;
+	margin-left: 65vw;
+	margin-top: 10vh;	
+}
+
+#image_4_nb {
+	position: absolute;
+	height: 40vh;
+	margin-left: 50vw;
+	margin-top: 50vh;	
+}
+
+#image_4_nb:hover{
+	opacity: 0;
+}
+
+#image_4_couleur {
+	position: absolute;
+	height: 40vh;
+	margin-left: 50vw;
+	margin-top: 50vh;	
+}
+
+#image_5_couleur {
+	position: absolute;
+	height: 40vh;
+	margin-left: 30vw;
+	margin-top: 80vh;	
+}
+
+#image_5_nb:hover{
+	opacity: 0;
+}
+
+#image_5_nb {
+	position: absolute;
+	height: 40vh;
+	margin-left: 30vw;
+	margin-top: 80vh;	
+}
+
 #def {
 	position: fixed;
 	height: 40vh;
@@ -16,60 +107,6 @@ html, body {
 
 p { 
     font-size: 3.5vh;	
-}
-
-#lavelinge_nb {
-	position: absolute;
-	height: 40vh;
-	margin-left: 20vw;
-	margin-top: 30vh;
-}
-
-#lavelinge_nb:hover{
-	opacity: 0;
-}
-
-#lavelinge_couleur {
-	position: absolute;
-	height: 40vh;
-	margin-left: 20vw;
-	margin-top: 30vh;
-}
-
-#gardeaufrais_nb {
-	position: absolute;
-	height: 40vh;
-	margin-left: 70vw;
-	margin-top: 45vh;
-}
-
-#gardeaufrais_nb:hover{
-	opacity: 0;
-}
-
-#gardeaufrais_couleur {
-	position: absolute;
-	height: 40vh;
-	margin-left: 70vw;
-	margin-top: 45vh;
-}
-
-#choux_nb {
-	position: absolute;
-	height: 40vh;
-	margin-left: 45vw;
-	margin-top: 20vh;
-}
-
-#choux_nb:hover{
-	opacity: 0;
-}
-
-#choux_couleur {
-	position: absolute;
-	height: 40vh;
-	margin-left: 45vw;
-	margin-top: 20vh;
 }
 
 #ah {
@@ -129,7 +166,7 @@ p {
 	color: rgba(47,47,47,1);
 }
 
-#art_deco {
+#autre {
 	left: 5vh;
 	bottom: 3vh;
 	position: fixed;
@@ -163,7 +200,7 @@ p {
 	transition: 0.6s ease;
 }
 
-#art_deco:hover{
+#autre:hover{
 	text-decoration: underline;
 	transition: 0.6s ease;
 }
