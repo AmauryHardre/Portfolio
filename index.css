@@ -7,8 +7,8 @@ html, body {
 #image_1_nb {
 	position: absolute;
 	height: 40vh;
-	margin-left: 20vw;
-	margin-top: 38vh;
+	margin-left: 21vw;
+	margin-top: 30vh;
 }
 
 #image_1_nb:hover{
@@ -18,15 +18,15 @@ html, body {
 #image_1_couleur {
 	position: absolute;
 	height: 40vh;
-	margin-left: 20vw;
-	margin-top: 38vh;
+	margin-left: 21vw;
+	margin-top: 30vh;
 }
 
 #image_2_nb {
 	position: absolute;
 	height: 40vh;
 	margin-left: 36vw;
-	margin-top: 16vh;	
+	margin-top: 30vh;	
 }
 
 #image_2_nb:hover{
@@ -37,15 +37,15 @@ html, body {
 	position: absolute;
 	height: 40vh;
 	margin-left: 36vw;
-	margin-top: 16vh;
+	margin-top: 30vh;
 	
 }
 
 #image_3_nb {
 	position: absolute;
 	height: 40vh;
-	margin-left: 65vw;
-	margin-top: 10vh;	
+	margin-left: 51vw;
+	margin-top: 30vh;	
 }
 
 #image_3_nb:hover{
@@ -55,15 +55,15 @@ html, body {
 #image_3_couleur {
 	position: absolute;
 	height: 40vh;
-	margin-left: 65vw;
-	margin-top: 10vh;	
+	margin-left: 51vw;
+	margin-top: 30vh;	
 }
 
 #image_4_nb {
 	position: absolute;
 	height: 40vh;
-	margin-left: 50vw;
-	margin-top: 50vh;	
+	margin-left: 66vw;
+	margin-top: 30vh;	
 }
 
 #image_4_nb:hover{
@@ -73,14 +73,14 @@ html, body {
 #image_4_couleur {
 	position: absolute;
 	height: 40vh;
-	margin-left: 50vw;
-	margin-top: 50vh;	
+	margin-left: 66vw;
+	margin-top: 30vh;	
 }
 
 #image_5_couleur {
 	position: absolute;
 	height: 40vh;
-	margin-left: 30vw;
+	margin-left: 21vw;
 	margin-top: 80vh;	
 }
 
@@ -91,8 +91,45 @@ html, body {
 #image_5_nb {
 	position: absolute;
 	height: 40vh;
-	margin-left: 30vw;
+	margin-left: 21vw;
 	margin-top: 80vh;	
+}
+
+#image_6_couleur {
+	position: absolute;
+	height: 40vh;
+	margin-left: 36vw;
+	margin-top: 80vh;	
+}
+
+#image_6_nb:hover{
+	opacity: 0;
+}
+
+#image_6_nb {
+	position: absolute;
+	height: 40vh;
+	margin-left: 36vw;
+	margin-top: 80vh;	
+}
+
+#image_7_couleur {
+	position: absolute;
+	height: 40vh;
+	margin-left: 51vw;
+	margin-top: 80vh;	
+}
+
+#image_7_nb:hover{
+	opacity: 0;
+}
+
+#image_7_nb {
+	position: absolute;
+	height: 40vh;
+	margin-left: 51vw;
+	margin-top: 80vh;
+	
 }
 
 #def {

@@ -8,28 +8,28 @@ html, body {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-    height:70vh;
+        height:70vh;
 	margin-top: 15vh;
 }
 
 #image_1_nb {
-	 position: absolute;
-	 opacity: 0;
-	 height:0px;
+	position: absolute;
+	opacity: 0;
+	height:0px;
 }
 
 #image_2_couleur {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-    height:70vh;
+        height:70vh;
 	margin-top: 15vh;	
 }
 
 #image_2_nb {
 	position: absolute;
-	 opacity: 0;
-	 height:0px;
+	opacity: 0;
+	height:0px;
 	
 }
 
@@ -37,29 +37,29 @@ html, body {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-    height:70vh;
+        height:70vh;
 	margin-top: 15vh;	
 }
 
 #image_3_nb {
 	position: absolute;
-	 opacity: 0;
-	 height:0px;
+	opacity: 0;
+	height:0px;
 }
 
 #image_4_couleur {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-    height:70vh;
+        height:70vh;
 	margin-top: 15vh;
 	margin-bottom: 15vh;
 }
 
 #image_4_nb {
 	position: absolute;
-	 opacity: 0;
-	 height:0px;	
+	opacity: 0;
+	height:0px;	
 }
 
 
@@ -67,15 +67,47 @@ html, body {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-    height:70vh;
+        height:70vh;
 	margin-top: 15vh;
 	margin-bottom: 15vh;
 }
 
 #image_5_nb {
 	position: absolute;
-	 opacity: 0;
-	 height:0px;	
+	opacity: 0;
+	height:0px;	
+}
+
+
+#image_6_couleur {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+        height:70vh;
+	margin-top: 15vh;
+	margin-bottom: 15vh;
+}
+
+#image_6_nb {
+	position: absolute;
+	opacity: 0;
+	height:0px;	
+}
+
+
+#image_7_couleur {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+        height:70vh;
+	margin-top: 15vh;
+	margin-bottom: 15vh;
+}
+
+#image_7_nb {
+	position: absolute;
+	opacity: 0;
+	height:0px;	
 }
 
 #def {
