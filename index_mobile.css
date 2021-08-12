@@ -18,6 +18,21 @@ html, body {
 	height:0px;
 }
 
+#def {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    margin-bottom: 15vh;
+	margin-top: 15vh;
+	width: 59vw;
+	color: rgba(47,47,47,1);
+}
+
+p { 
+    font-size: 4vh;
+	
+}
+
 #image_2_couleur {
 	display: block;
 	margin-left: auto;
@@ -38,7 +53,8 @@ html, body {
 	margin-left: auto;
 	margin-right: auto;
         height:70vh;
-	margin-top: 15vh;	
+	margin-top: 15vh;
+        margin-bottom: 15vh;	
 }
 
 #image_3_nb {
@@ -108,21 +124,6 @@ html, body {
 	position: absolute;
 	opacity: 0;
 	height:0px;	
-}
-
-#def {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-    margin-bottom: 15vh;
-	margin-top: 15vh;
-	width: 59vw;
-	color: rgba(47,47,47,1);
-}
-
-p { 
-    font-size: 4vh;
-	
 }
 
 #ah {
