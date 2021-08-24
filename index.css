@@ -217,6 +217,20 @@ p {
 	color: rgba(47,47,47,1);
 }
 
+#info {
+	left: 70vh;
+	bottom: 4vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 2vh;
+	color: rgba(47,47,47,1);
+}
+
 #fr:hover{
 	text-decoration: underline;
 	transition: 0.6s ease;
