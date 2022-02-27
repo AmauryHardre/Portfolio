@@ -71,7 +71,7 @@ p1{
 	margin-right: 2vw
 }
 
-#image_3 {
+#image_3_large {
 	top: 100vh;
 	margin-top: 10;
 	max-height: 80vh;
@@ -79,23 +79,144 @@ p1{
 	position: absolute;
 }
 
-#image_4 {
+#image_3_1 {
+	max-height: 80vh;
+	top: 100vh;
+	overflow: visible;
+	position: absolute;
+}
+
+#image_3_2 {
+	max-height: 80vh;
+	top: 100vh;
+    margin-left: 30vw;
+	overflow: visible;
+	position: absolute;
+}
+
+
+#image_4_large {
 	position: absolute;
 	width: auto;
-	max-height: 60vh;
+	max-height: 80vh;
     margin-left: 0%;
 	top: 185vh;
 	overflow: visible;
 }
 
-#image_5 {
+#image_4_1 {
+	max-height: 80vh;
+	top: 185vh;
+	overflow: visible;
+	position: absolute;
+}
+
+#image_4_2 {
+	max-height: 80vh;
+	top: 185vh;
+    margin-left: 30vw;
+	overflow: visible;
+	position: absolute;
+}
+
+#image_5_large {
 	position: absolute;
 	width: auto;
-	max-height: 60vh;
+	max-height: 80vh;
     margin-left: 0%;
-	top: 250vh;
+	top: 270vh;
 	overflow: visible;
 	margin-bottom: 10vh
+}
+
+#image_5_1 {
+	max-height: 80vh;
+	top: 270vh;
+	overflow: visible;
+	position: absolute;
+}
+
+#image_5_2 {
+	max-height: 80vh;
+	top: 270vh;
+    margin-left: 30vw;
+	overflow: visible;
+	position: absolute;
+}
+
+#image_6_large {
+	position: absolute;
+	width: auto;
+	max-height: 80vh;
+    margin-left: 0%;
+	top: 355vh;
+	overflow: visible;
+	margin-bottom: 10vh
+}
+
+#image_6_1 {
+	max-height: 80vh;
+	top: 355vh;
+	overflow: visible;
+	position: absolute;
+}
+
+#image_6_2 {
+	max-height: 80vh;
+	top: 355vh;
+    margin-left: 30vw;
+	overflow: visible;
+	position: absolute;
+}
+
+#image_7_large {
+	position: absolute;
+	width: auto;
+	max-height: 80vh;
+    margin-left: 0%;
+	top: 440vh;
+	overflow: visible;
+	margin-bottom: 10vh
+}
+
+#image_7_1 {
+	max-height: 80vh;
+	top: 440vh;
+	overflow: visible;
+	position: absolute;
+}
+
+#image_7_2 {
+	max-height: 80vh;
+	top: 440vh;
+    margin-left: 30vw;
+	overflow: visible;
+	position: absolute;
+}
+
+#image_8_large {
+	position: absolute;
+	width: auto;
+	max-height: 80vh;
+    margin-left: 0%;
+	top: 525vh;
+	overflow: visible;
+	margin-bottom: 10vh
+}
+
+#image_8_1 {
+	max-height: 80vh;
+	top: 525vh;
+	overflow: visible;
+	position: absolute;
+}
+
+#image_8_2 {
+	max-height: 80vh;
+	top: 525vh;
+    margin-left: 30vw;
+	overflow: visible;
+	position: absolute;
 }
 
 #texte_2 {
@@ -112,6 +233,20 @@ p1{
 	color: rgba(47,47,47,1);
 	font-size: 2vmin;
 	
+}
+
+#ah_blanc {
+	left: 5vh;
+	top: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 7vh;
+	color: rgba(241,241,241,1);
 }
 
 #ah {
@@ -182,6 +317,11 @@ p1{
 }
 
 #ah:hover{
+	text-decoration: underline;
+	transition: 0.6s ease;
+}
+
+#ah_blanc:hover{
 	text-decoration: underline;
 	transition: 0.6s ease;
 }
