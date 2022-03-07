@@ -1,0 +1,286 @@
+*{  margin: 0;
+  padding: 0;}
+html, body {
+  width: auto;
+}
+
+#image_1 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    width: 50vh;
+	margin-top: 15vh;
+}
+
+#barre_1 {
+	border-left:2px solid #000;
+    height:75vh;
+    top: 15vh;
+    position: absolute; 
+    left: 10vw;
+}
+
+#texte1 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    margin-bottom: 15vh;
+	margin-top: 5vh;
+	width: 50vh;
+	color: rgba(47,47,47,1);
+}
+
+p { 
+    font-size: 4vh;
+	
+}
+
+#image_2 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    height:50vh;
+	margin-top: 15vh;	
+}
+
+#barre_2 {
+	border-left:2px solid #000;
+    height:75vh;
+    top: 15vh;
+    position: absolute; 
+    right: 10vw;
+}
+
+#texte2 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    margin-bottom: 15vh;
+	margin-top: 15vh;
+	width: 59vw;
+	color: rgba(47,47,47,1);
+}
+
+#image_3 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    height:70vh;
+	margin-top: 15vh;
+    margin-bottom: 15vh;	
+}
+
+#barre_3 {
+	border-left:2px solid #000;
+    height:75vh;
+    top: 101.5vh;
+    position: absolute; 
+    left: 10vw;
+}
+
+#texte3 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    margin-bottom: 15vh;
+	margin-top: 15vh;
+	width: 59vw;
+	color: rgba(47,47,47,1);
+}
+
+#image_4 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    height:70vh;
+	margin-top: 15vh;
+	margin-bottom: 15vh;
+}
+
+#barre_4 {
+	border-left:2px solid #000;
+    height:65vh;
+    top: 25vh;
+    position: absolute; 
+    left: 57.5vh;
+}
+
+
+#image_5 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    height:70vh;
+	margin-top: 15vh;
+	margin-bottom: 15vh;
+}
+
+#image_6 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    height:70vh;
+	margin-top: 15vh;
+	margin-bottom: 15vh;
+}
+
+
+#image_7 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    height:70vh;
+	margin-top: 15vh;
+	margin-bottom: 15vh;
+}
+
+#info{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    margin-bottom: 15vh;
+	margin-top: 15vh;
+	width: 59vw;
+	color: rgba(47,47,47,1);
+}
+
+
+#accueil {
+	left: 5vh;
+	top: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3vh;
+	color: rgba(47,47,47,1);
+}
+
+
+#tout {
+	right: 25vh;
+	top: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3vh;
+	color: rgba(47,47,47,1);
+}
+
+
+#M1 {
+	right: 15vh;
+	top: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3vh;
+	color: rgba(47,47,47,1);
+}
+
+
+#M2 {
+	right: 5vh;
+	top: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3vh;
+	color: rgba(47,47,47,1);
+}
+
+#graphique {
+	right: 45vh;
+	top: 9vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 2.5vh;
+	color: rgba(47,47,47,1);
+}
+
+#produit {
+	right: 25vh;
+	top: 9vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 2.5vh;
+	color: rgba(47,47,47,1);
+}
+
+#espace {
+	right: 5vh;
+	top: 9vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 2.5vh;
+	color: rgba(47,47,47,1);
+}
+
+#autre {
+	left: 5vh;
+	bottom: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 5vh;
+	color: rgba(47,47,47,1);
+}
+
+#fr:hover{
+	text-decoration: underline;
+	transition: 0.6s ease;
+}
+
+#en:hover{
+	text-decoration: underline;
+	transition: 0.6s ease;
+}
+
+#ah:hover{
+	text-decoration: underline;
+	transition: 0.6s ease;
+}
+
+#contact:hover{
+	text-decoration: underline;
+	transition: 0.6s ease;
+}
+
+#autre:hover{
+	text-decoration: underline;
+	transition: 0.6s ease;
+}
