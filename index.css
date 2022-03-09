@@ -4,149 +4,69 @@ html, body {
   height: 100vh;
 }
 
-#image_1_nb {
+
+
+.item {
+    
+  position: absolute;
+  width: 40vh;
+  height: 70vh;
+  top: 10vh;
+  left: 10vh;
+  padding: 20px;
+  border: 8px solid rgba(200,200,200,1);
+  background: #999;
+  padding-left: 10vh;
+  padding-right: 10vh;
+  padding-top: 5vh;
+  font-size: 2.5vh;
+ 
+    
+}
+
+h1 {
+    font-size: 2.5vh;
+    
+}
+
+
+hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
+
+
+a:link {
+    color: black; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: black; 
+    text-decoration: none;
+
+}
+
+a:hover {
+    font-weight: bold;
+    
+}
+
+#credits {
+	left: 80vh;
+	top: 590vh;
+    width: 30vh;
 	position: absolute;
-	height: 40vh;
-	margin-left: 21vw;
-	margin-top: 30vh;
-}
-
-#image_1_nb:hover{
-	opacity: 0;
-}
-
-#image_1_couleur {
-	position: absolute;
-	height: 40vh;
-	margin-left: 21vw;
-	margin-top: 30vh;
-}
-
-#image_2_nb {
-	position: absolute;
-	height: 40vh;
-	margin-left: 36vw;
-	margin-top: 30vh;	
-}
-
-#image_2_nb:hover{
-	opacity: 0;
-}
-
-#image_2_couleur {
-	position: absolute;
-	height: 40vh;
-	margin-left: 36vw;
-	margin-top: 30vh;
-	
-}
-
-#image_3_nb {
-	position: absolute;
-	height: 40vh;
-	margin-left: 51vw;
-	margin-top: 30vh;	
-}
-
-#image_3_nb:hover{
-	opacity: 0;
-}
-
-#image_3_couleur {
-	position: absolute;
-	height: 40vh;
-	margin-left: 51vw;
-	margin-top: 30vh;	
-}
-
-#image_4_nb {
-	position: absolute;
-	height: 40vh;
-	margin-left: 66vw;
-	margin-top: 30vh;	
-}
-
-#image_4_nb:hover{
-	opacity: 0;
-}
-
-#image_4_couleur {
-	position: absolute;
-	height: 40vh;
-	margin-left: 66vw;
-	margin-top: 30vh;	
-}
-
-#image_5_couleur {
-	position: absolute;
-	height: 40vh;
-	margin-left: 21vw;
-	margin-top: 80vh;	
-}
-
-#image_5_nb:hover{
-	opacity: 0;
-}
-
-#image_5_nb {
-	position: absolute;
-	height: 40vh;
-	margin-left: 21vw;
-	margin-top: 80vh;	
-}
-
-#image_6_couleur {
-	position: absolute;
-	height: 40vh;
-	margin-left: 36vw;
-	margin-top: 80vh;	
-}
-
-#image_6_nb:hover{
-	opacity: 0;
-}
-
-#image_6_nb {
-	position: absolute;
-	height: 40vh;
-	margin-left: 36vw;
-	margin-top: 80vh;	
-}
-
-#image_7_couleur {
-	position: absolute;
-	height: 40vh;
-	margin-left: 51vw;
-	margin-top: 80vh;	
-}
-
-#image_7_nb:hover{
-	opacity: 0;
-}
-
-#image_7_nb {
-	position: absolute;
-	height: 40vh;
-	margin-left: 51vw;
-	margin-top: 80vh;
-	
-}
-
-#def {
-	position: fixed;
-	height: 40vh;
-	width: 10vw;
-	margin-left: 5vh;
-	margin-top: 35vh;
-	font-size: 2vh;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3vh;
 	color: rgba(47,47,47,1);
 }
 
-p { 
-    font-size: 3.5vh;	
-}
 
-#ah {
+
+#accueil {
 	left: 5vh;
 	top: 3vh;
 	position: fixed;
@@ -156,12 +76,83 @@ p {
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 7vh;
+	font-size: 3vh;
 	color: rgba(47,47,47,1);
 }
 
 
-#contact {
+#tout {
+	right: 95vh;
+	top: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3vh;
+	color: rgba(47,47,47,1);
+    text-decoration: underline;
+}
+
+#M1 {
+	right: 85vh;
+	top: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3vh;
+	color: rgba(47,47,47,1);
+}
+
+#M2 {
+	right: 75vh;
+	top: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3vh;
+	color: rgba(47,47,47,1);
+}
+
+#espace {
+	right: 50vh;
+	top: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3vh;
+	color: rgba(47,47,47,1);
+}
+
+#graphique {
+	right: 25vh;
+	top: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3vh;
+	color: rgba(47,47,47,1);
+}
+
+#produit {
 	right: 5vh;
 	top: 3vh;
 	position: fixed;
@@ -171,7 +162,7 @@ p {
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 7vh;
+	font-size: 3vh;
 	color: rgba(47,47,47,1);
 }
 
@@ -217,19 +208,6 @@ p {
 	color: rgba(47,47,47,1);
 }
 
-#info {
-	left: 70vh;
-	bottom: 4vh;
-	position: fixed;
-	overflow: visible;
-	white-space: nowrap;
-	cursor: pointer;
-	text-align: left;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 2vh;
-	color: rgba(47,47,47,1);
-}
 
 #fr:hover{
 	text-decoration: underline;
