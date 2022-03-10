@@ -659,7 +659,7 @@ p {
 }
 
 #graphique {
-	right: 42.5vh;
+	right: 25vh;
 	top: 9vh;
 	position: fixed;
 	overflow: visible;
@@ -673,7 +673,7 @@ p {
 }
 
 #produit {
-	right: 25vh;
+	right: 5vh;
 	top: 9vh;
 	position: fixed;
 	overflow: visible;
@@ -688,7 +688,7 @@ p {
 
 #espace {
 	right: 5vh;
-	top: 9vh;
+	top: 15vh;
 	position: fixed;
 	overflow: visible;
 	white-space: nowrap;
