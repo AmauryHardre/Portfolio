@@ -911,6 +911,7 @@ a:hover {
 }
 
 #M2 {
+    font-family: "bluu_nexttitling";
 	right: 75vh;
 	top: 3vh;
 	position: fixed;
@@ -925,6 +926,7 @@ a:hover {
 }
 
 #espace {
+    font-family: "bluu_nexttitling";
 	right: 50vh;
 	top: 3vh;
 	position: fixed;
@@ -939,6 +941,7 @@ a:hover {
 }
 
 #graphique {
+    font-family: "bluu_nexttitling";
 	right: 25vh;
 	top: 3vh;
 	position: fixed;
@@ -953,6 +956,7 @@ a:hover {
 }
 
 #produit {
+    font-family: "bluu_nexttitling";
 	right: 5vh;
 	top: 3vh;
 	position: fixed;
