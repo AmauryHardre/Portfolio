@@ -18,20 +18,21 @@ html, body {
 	position: absolute;
 	height: 30vh;
 	left: 22.5vh;
-	top: 25vh;
+	top: 15vh;
 }
 
 #barre_1 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 25vh;
+    top: 15vh;
     position: absolute; 
     left: 17.5vh;
 }
 
 #texte1 {
+    font-family: "bluu_nexttitling";
 	left: 22.5vh;
-	top: 60vh;
+	top: 50vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -50,7 +51,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 #barre_2 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 25vh;
+    top: 15vh;
     position: absolute; 
     left: 57.5vh;
 }
@@ -59,12 +60,13 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 62.5vh;
-	top: 25vh;
+	top: 15vh;
 }
 
 #texte2 {
+    font-family: "bluu_nexttitling";
 	left: 62.5vh;
-	top: 60vh;
+	top: 50vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -81,20 +83,20 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 102.5vh;
-	top: 25vh;
+	top: 15vh;
 }
 
 #barre_3 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 25vh;
+    top: 15vh;
     position: absolute; 
     left: 97.5vh;
 }
 
 #texte3 {
 	left:102.5vh;
-	top: 60vh;
+	top: 50vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -111,20 +113,20 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 142.5vh;
-	top: 25vh;
+	top: 15vh;
 }
 
 #barre_4 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 25vh;
+    top: 15vh;
     position: absolute; 
     left: 137.5vh;
 }
 
 #texte4 {
 	left: 142.5vh;
-	top: 60vh;
+	top: 50vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -141,13 +143,13 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 22.5vh;
-	top: 105vh;
+	top: 95vh;
 }
 
 #barre_5 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 25vh;
+    top: 15vh;
     position: absolute; 
     left: 177.5vh;
 }
@@ -156,7 +158,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 
 #texte5 {
 	left: 22.5vh;
-	top: 140vh;
+	top: 130vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -174,20 +176,20 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 62.5vh;
-	top: 105vh;
+	top: 95vh;
 }
 
 #barre_6 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 105vh;
+    top: 95vh;
     position: absolute; 
     left: 17.5vh;
 }
 
 #texte6 {
 	left: 62.5vh;
-	top: 140vh;
+	top: 130vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -204,20 +206,20 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 102.5vh;
-	top: 105vh;
+	top: 95vh;
 }
 
 #barre_7 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 105vh;
+    top: 95vh;
     position: absolute; 
     left: 57.5vh;
 }
 
 #texte7 {
 	left:102.5vh;
-	top: 140vh;
+	top: 130vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -234,20 +236,20 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 142.5vh;
-	top: 105vh;
+	top: 95vh;
 }
 
 #barre_8 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 105vh;
+    top: 95vh;
     position: absolute; 
     left: 97.5vh;
 }
 
 #texte8 {
 	left: 142.5vh;
-	top: 140vh;
+	top: 130vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -264,13 +266,13 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 22.5vh;
-	top: 185vh;
+	top: 175vh;
 }
 
 #barre_9 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 105vh;
+    top: 95vh;
     position: absolute; 
     left: 137.5vh;
 }
@@ -278,7 +280,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 
 #texte9 {
 	left: 22.5vh;
-	top: 220vh;
+	top: 210vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -295,20 +297,20 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 62.5vh;
-	top: 185vh;
+	top: 175vh;
 }
 
 #barre_10 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 105vh;
+    top: 95vh;
     position: absolute; 
     left: 177.5vh;
 }
 
 #texte10 {
 	left: 62.5vh;
-	top: 220vh;
+	top: 210vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -325,20 +327,20 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 102.5vh;
-	top: 185vh;
+	top: 175vh;
 }
 
 #barre_11 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 185vh;
+    top: 175vh;
     position: absolute; 
     left: 17.5vh;
 }
 
 #texte11 {
 	left:102.5vh;
-	top: 220vh;
+	top: 210vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -355,20 +357,20 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 142.5vh;
-	top: 185vh;
+	top: 175vh;
 }
 
 #barre_12 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 185vh;
+    top: 175vh;
     position: absolute; 
     left: 57.5vh;
 }
 
 #texte12 {
 	left: 142.5vh;
-	top: 220vh;
+	top: 210vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -385,13 +387,13 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 22.5vh;
-	top: 265vh;
+	top: 255vh;
 }
 
 #barre_13 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 185vh;
+    top: 175vh;
     position: absolute; 
     left: 97.5vh;
 }
@@ -399,7 +401,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 
 #texte13 {
 	left: 22.5vh;
-	top: 300vh;
+	top: 290vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -416,20 +418,20 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 62.5vh;
-	top: 265vh;
+	top: 255vh;
 }
 
 #barre_14 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 185vh;
+    top: 175vh;
     position: absolute; 
     left: 137.5vh;
 }
 
 #texte14 {
 	left: 62.5vh;
-	top: 300vh;
+	top: 290vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -446,20 +448,20 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 102.5vh;
-	top: 265vh;
+	top: 255vh;
 }
 
 #barre_15 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 185vh;
+    top: 175vh;
     position: absolute; 
     left: 177.5vh;
 }
 
 #texte15 {
 	left:102.5vh;
-	top: 300vh;
+	top: 290vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -476,20 +478,20 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 142.5vh;
-	top: 265vh;
+	top: 255vh;
 }
 
 #barre_16 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 265vh;
+    top: 255vh;
     position: absolute; 
     left: 17.5vh;
 }
 
 #texte16 {
 	left: 142.5vh;
-	top: 300vh;
+	top: 290vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -506,13 +508,13 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 22.5vh;
-	top: 345vh;
+	top: 335vh;
 }
 
 #barre_17 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 265vh;
+    top: 255vh;
     position: absolute; 
     left: 57.5vh;
 }
@@ -520,7 +522,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 
 #texte17 {
 	left: 22.5vh;
-	top: 380vh;
+	top: 370vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -537,20 +539,20 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 62.5vh;
-	top: 345vh;
+	top: 335vh;
 }
 
 #barre_18 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 265vh;
+    top: 255vh;
     position: absolute; 
     left: 97.5vh;
 }
 
 #texte18 {
 	left: 62.5vh;
-	top: 380vh;
+	top: 370vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -567,20 +569,20 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 102.5vh;
-	top: 345vh;
+	top: 335vh;
 }
 
 #barre_19 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 265vh;
+    top: 255vh;
     position: absolute; 
     left: 137.5vh;
 }
 
 #texte19 {
 	left:102.5vh;
-	top: 380vh;
+	top: 370vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -597,20 +599,20 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 142.5vh;
-	top: 345vh;
+	top: 335vh;
 }
 
 #barre_20 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 265vh;
+    top: 255vh;
     position: absolute; 
     left: 177.5vh;
 }
 
 #texte20 {
 	left: 142.5vh;
-	top: 380vh;
+	top: 370vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -627,13 +629,13 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 22.5vh;
-	top: 425vh;
+	top: 415vh;
 }
 
 #barre_21 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 345vh;
+    top: 335vh;
     position: absolute; 
     left: 17.5vh;
 }
@@ -641,7 +643,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 
 #texte21 {
 	left: 22.5vh;
-	top: 460vh;
+	top: 450vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -658,20 +660,20 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 62.5vh;
-	top: 425vh;
+	top: 415vh;
 }
 
 #barre_22 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 345vh;
+    top: 335vh;
     position: absolute; 
     left: 57.5vh;
 }
 
 #texte22 {
 	left: 62.5vh;
-	top: 460vh;
+	top: 450vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -688,20 +690,20 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 102.5vh;
-	top: 425vh;
+	top: 415vh;
 }
 
 #barre_23 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 345vh;
+    top: 335vh;
     position: absolute; 
     left: 97.5vh;
 }
 
 #texte23 {
 	left:102.5vh;
-	top: 460vh;
+	top: 450vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -718,20 +720,20 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 142.5vh;
-	top: 425vh;
+	top: 415vh;
 }
 
 #barre_24 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 345vh;
+    top: 335vh;
     position: absolute; 
     left: 137.5vh;
 }
 
 #texte24 {
 	left: 142.5vh;
-	top: 460vh;
+	top: 450vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -748,13 +750,13 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 	position: absolute;
 	height: 30vh;
 	left: 22.5vh;
-	top: 505vh;
+	top: 495vh;
 }
 
 #barre_25 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 345vh;
+    top: 335vh;
     position: absolute; 
     left: 177.5vh;
 }
@@ -762,7 +764,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 
 #texte25 {
 	left: 22.5vh;
-	top: 540vh;
+	top: 530vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -778,7 +780,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 #barre_26 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 425vh;
+    top: 415vh;
     position: absolute; 
     left: 17.5vh;
 }
@@ -786,7 +788,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 #barre_27 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 425vh;
+    top: 415vh;
     position: absolute; 
     left: 57.5vh;
 }
@@ -794,7 +796,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 #barre_28 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 425vh;
+    top: 415vh;
     position: absolute; 
     left: 97.5vh;
 }
@@ -802,7 +804,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 #barre_29 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 425vh;
+    top: 415vh;
     position: absolute; 
     left: 137.5vh;
 }
@@ -810,7 +812,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 #barre_30 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 425vh;
+    top: 415vh;
     position: absolute; 
     left: 177.5vh;
 }
@@ -818,7 +820,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 #barre_31 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 505vh;
+    top: 495vh;
     position: absolute; 
     left: 17.5vh;
 }
@@ -826,7 +828,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 #barre_32 {
 	border-left:2px solid #000;
     height:65vh;
-    top: 505vh;
+    top: 495vh;
     position: absolute; 
     left: 57.5vh;
 }
