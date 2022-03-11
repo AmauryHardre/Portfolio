@@ -4,6 +4,16 @@ html, body {
   height: 100vh;
 }
 
+@font-face {
+    font-family: "bluu_nexttitling";
+    src: url("fonts/BluuNext-Titling.ttf") format("truetype"),
+        url("fonts/bluunext-titling.woff2") format("woff2"),
+        url("fonts/bluunext-titling.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 #image_1 {
 	position: absolute;
 	height: 30vh;
@@ -870,6 +880,7 @@ a:hover {
 
 
 #tout {
+    font-family: "bluu_nexttitling";
 	right: 95vh;
 	top: 3vh;
 	position: fixed;
@@ -885,6 +896,7 @@ a:hover {
 }
 
 #M1 {
+    font-family: "bluu_nexttitling";
 	right: 85vh;
 	top: 3vh;
 	position: fixed;
