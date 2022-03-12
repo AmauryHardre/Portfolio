@@ -14,6 +14,16 @@ html, body {
 
 }
 
+@font-face {
+    font-family: "neutra_text";
+    src: url("fonts/neutra_text/NeutraText-Book.otf") format("opentype"),
+        url("fonts/bluunext-titling.woff2") format("woff2"),
+        url("fonts/bluunext-titling.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 #image_1 {
 	position: absolute;
 	height: 30vh;
@@ -95,6 +105,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 }
 
 #texte3 {
+    font-family: "bluu_nexttitling";
 	left:102.5vh;
 	top: 50vh;
     width: 30vh;
@@ -125,6 +136,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 }
 
 #texte4 {
+    font-family: "bluu_nexttitling";
 	left: 142.5vh;
 	top: 50vh;
     width: 30vh;
@@ -157,6 +169,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 
 
 #texte5 {
+    font-family: "neutra_text";
 	left: 22.5vh;
 	top: 130vh;
     width: 30vh;
@@ -188,6 +201,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 }
 
 #texte6 {
+    font-family: "neutra_text";
 	left: 62.5vh;
 	top: 130vh;
     width: 30vh;
@@ -218,6 +232,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 }
 
 #texte7 {
+    font-family: "neutra_text";
 	left:102.5vh;
 	top: 130vh;
     width: 30vh;
@@ -248,6 +263,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 }
 
 #texte8 {
+    font-family: "neutra_text";
 	left: 142.5vh;
 	top: 130vh;
     width: 30vh;
@@ -883,7 +899,7 @@ a:hover {
 
 #tout {
     font-family: "bluu_nexttitling";
-	right: 95vh;
+	right: 97.5vh;
 	top: 3vh;
 	position: fixed;
 	overflow: visible;
@@ -899,7 +915,7 @@ a:hover {
 
 #M1 {
     font-family: "bluu_nexttitling";
-	right: 85vh;
+	right: 87.5vh;
 	top: 3vh;
 	position: fixed;
 	overflow: visible;
@@ -914,7 +930,7 @@ a:hover {
 
 #M2 {
     font-family: "bluu_nexttitling";
-	right: 75vh;
+	right: 77.5vh;
 	top: 3vh;
 	position: fixed;
 	overflow: visible;
@@ -929,7 +945,7 @@ a:hover {
 
 #espace {
     font-family: "bluu_nexttitling";
-	right: 50vh;
+	right: 52.5vh;
 	top: 3vh;
 	position: fixed;
 	overflow: visible;
@@ -944,7 +960,7 @@ a:hover {
 
 #graphique {
     font-family: "bluu_nexttitling";
-	right: 25vh;
+	right: 27.5vh;
 	top: 3vh;
 	position: fixed;
 	overflow: visible;

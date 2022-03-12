@@ -4,6 +4,26 @@ html, body {
   width: auto;
 }
 
+@font-face {
+    font-family: "bluu_nexttitling";
+    src: url("fonts/BluuNext-Titling.ttf") format("truetype"),
+        url("fonts/bluunext-titling.woff2") format("woff2"),
+        url("fonts/bluunext-titling.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: "neutra_text";
+    src: url("fonts/neutra_text/NeutraText-Book.otf") format("opentype"),
+        url("fonts/bluunext-titling.woff2") format("woff2"),
+        url("fonts/bluunext-titling.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 #image_1 {
 	display: block;
 	margin-left: auto;
@@ -21,6 +41,7 @@ html, body {
 }
 
 #texte1 {
+    font-family: "bluu_nexttitling";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -52,6 +73,7 @@ p {
 }
 
 #texte2 {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -604,6 +626,7 @@ p {
 
 
 #tout {
+    font-family: "bluu_nexttitling";
 	right: 25vh;
 	top: 3vh;
 	position: fixed;
@@ -619,6 +642,7 @@ p {
 
 
 #M1 {
+    font-family: "bluu_nexttitling";
 	right: 15vh;
 	top: 3vh;
 	position: fixed;
@@ -634,6 +658,7 @@ p {
 
 
 #M2 {
+    font-family: "bluu_nexttitling";
 	right: 5vh;
 	top: 3vh;
 	position: fixed;
@@ -648,6 +673,7 @@ p {
 }
 
 #graphique {
+    font-family: "bluu_nexttitling";
 	right: 25vh;
 	top: 9vh;
 	position: fixed;
@@ -662,6 +688,7 @@ p {
 }
 
 #produit {
+    font-family: "bluu_nexttitling";
 	right: 5vh;
 	top: 9vh;
 	position: fixed;
@@ -676,6 +703,7 @@ p {
 }
 
 #espace {
+    font-family: "bluu_nexttitling";
 	right: 5vh;
 	top: 15vh;
 	position: fixed;
