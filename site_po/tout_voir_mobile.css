@@ -41,7 +41,7 @@ html, body {
 }
 
 #texte1 {
-    font-family: "bluu_nexttitling";
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -52,6 +52,7 @@ html, body {
 }
 
 p { 
+    font-family: "bluu_nexttitling";
     font-size: 4vh;
 	
 }
@@ -100,6 +101,7 @@ p {
 }
 
 #texte3 {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -126,6 +128,7 @@ p {
 }
 
 #texte4 {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -152,6 +155,7 @@ p {
 }
 
 #texte5 {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -178,6 +182,7 @@ p {
 }
 
 #texte6 {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -204,6 +209,7 @@ p {
 }
 
 #texte7 {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -230,6 +236,7 @@ p {
 }
 
 #texte8 {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -256,6 +263,7 @@ p {
 }
 
 #texte9 {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -282,6 +290,7 @@ p {
 }
 
 #texte10 {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -308,6 +317,7 @@ p {
 }
 
 #texte11 {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -334,6 +344,7 @@ p {
 }
 
 #texte12 {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -360,6 +371,7 @@ p {
 }
 
 #texte13 {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -386,6 +398,7 @@ p {
 }
 
 #texte14 {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -412,6 +425,7 @@ p {
 }
 
 #texte15 {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -438,6 +452,7 @@ p {
 }
 
 #texte16 {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -456,6 +471,7 @@ p {
 }
 
 #texte17 {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -474,6 +490,7 @@ p {
 }
 
 #texte18 {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -492,6 +509,7 @@ p {
 }
 
 #texte19 {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -510,6 +528,7 @@ p {
 }
 
 #texte20 {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -528,6 +547,7 @@ p {
 }
 
 #texte21 {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -546,6 +566,7 @@ p {
 }
 
 #texte22 {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -564,6 +585,7 @@ p {
 }
 
 #texte23 {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -582,6 +604,7 @@ p {
 }
 
 #texte24 {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -599,15 +622,6 @@ p {
 	margin-top: 15vh;
 }
 
-#texte25 {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-    margin-bottom: 15vh;
-	margin-top: 5vh;
-	width: 50vh;
-	color: rgba(47,47,47,1);
-}
 
 
 #accueil {
@@ -626,7 +640,7 @@ p {
 
 
 #tout {
-    font-family: "bluu_nexttitling";
+    font-family: "neutra_text";
 	right: 25vh;
 	top: 3vh;
 	position: fixed;
@@ -642,7 +656,7 @@ p {
 
 
 #M1 {
-    font-family: "bluu_nexttitling";
+    font-family: "neutra_text";
 	right: 15vh;
 	top: 3vh;
 	position: fixed;
@@ -658,7 +672,7 @@ p {
 
 
 #M2 {
-    font-family: "bluu_nexttitling";
+    font-family: "neutra_text";
 	right: 5vh;
 	top: 3vh;
 	position: fixed;
@@ -673,7 +687,7 @@ p {
 }
 
 #graphique {
-    font-family: "bluu_nexttitling";
+    font-family: "neutra_text";
 	right: 25vh;
 	top: 9vh;
 	position: fixed;
@@ -688,7 +702,7 @@ p {
 }
 
 #produit {
-    font-family: "bluu_nexttitling";
+    font-family: "neutra_text";
 	right: 5vh;
 	top: 9vh;
 	position: fixed;
@@ -703,7 +717,7 @@ p {
 }
 
 #espace {
-    font-family: "bluu_nexttitling";
+    font-family: "neutra_text";
 	right: 5vh;
 	top: 15vh;
 	position: fixed;
@@ -718,6 +732,7 @@ p {
 }
 
 #credits {
+    font-family: "neutra_text";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;

@@ -24,6 +24,11 @@ html, body {
 
 }
 
+p {
+    font-family: "bluu_nexttitling";
+    
+}
+
 #image_1 {
 	position: absolute;
 	height: 30vh;
@@ -40,7 +45,7 @@ html, body {
 }
 
 #texte1 {
-    font-family: "bluu_nexttitling";
+    font-family: "neutra_text";
 	left: 22.5vh;
 	top: 50vh;
     width: 30vh;
@@ -74,7 +79,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 }
 
 #texte2 {
-    font-family: "bluu_nexttitling";
+    font-family: "neutra_text";
 	left: 62.5vh;
 	top: 50vh;
     width: 30vh;
@@ -105,7 +110,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 }
 
 #texte3 {
-    font-family: "bluu_nexttitling";
+    font-family: "neutra_text";
 	left:102.5vh;
 	top: 50vh;
     width: 30vh;
@@ -136,7 +141,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 }
 
 #texte4 {
-    font-family: "bluu_nexttitling";
+    font-family: "neutra_text";
 	left: 142.5vh;
 	top: 50vh;
     width: 30vh;
@@ -295,6 +300,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 
 
 #texte9 {
+    font-family: "neutra_text";
 	left: 22.5vh;
 	top: 210vh;
     width: 30vh;
@@ -325,6 +331,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 }
 
 #texte10 {
+    font-family: "neutra_text";
 	left: 62.5vh;
 	top: 210vh;
     width: 30vh;
@@ -355,6 +362,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 }
 
 #texte11 {
+    font-family: "neutra_text";
 	left:102.5vh;
 	top: 210vh;
     width: 30vh;
@@ -385,6 +393,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 }
 
 #texte12 {
+    font-family: "neutra_text";
 	left: 142.5vh;
 	top: 210vh;
     width: 30vh;
@@ -416,6 +425,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 
 
 #texte13 {
+    font-family: "neutra_text";
 	left: 22.5vh;
 	top: 290vh;
     width: 30vh;
@@ -446,6 +456,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 }
 
 #texte14 {
+    font-family: "neutra_text";
 	left: 62.5vh;
 	top: 290vh;
     width: 30vh;
@@ -476,6 +487,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 }
 
 #texte15 {
+    font-family: "neutra_text";
 	left:102.5vh;
 	top: 290vh;
     width: 30vh;
@@ -506,6 +518,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 }
 
 #texte16 {
+    font-family: "neutra_text";
 	left: 142.5vh;
 	top: 290vh;
     width: 30vh;
@@ -537,6 +550,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 
 
 #texte17 {
+    font-family: "neutra_text";
 	left: 22.5vh;
 	top: 370vh;
     width: 30vh;
@@ -567,6 +581,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 }
 
 #texte18 {
+    font-family: "neutra_text";
 	left: 62.5vh;
 	top: 370vh;
     width: 30vh;
@@ -597,6 +612,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 }
 
 #texte19 {
+    font-family: "neutra_text";
 	left:102.5vh;
 	top: 370vh;
     width: 30vh;
@@ -627,6 +643,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 }
 
 #texte20 {
+    font-family: "neutra_text";
 	left: 142.5vh;
 	top: 370vh;
     width: 30vh;
@@ -658,6 +675,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 
 
 #texte21 {
+    font-family: "neutra_text";
 	left: 22.5vh;
 	top: 450vh;
     width: 30vh;
@@ -688,6 +706,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 }
 
 #texte22 {
+    font-family: "neutra_text";
 	left: 62.5vh;
 	top: 450vh;
     width: 30vh;
@@ -718,6 +737,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 }
 
 #texte23 {
+    font-family: "neutra_text";
 	left:102.5vh;
 	top: 450vh;
     width: 30vh;
@@ -748,6 +768,7 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 }
 
 #texte24 {
+    font-family: "neutra_text";
 	left: 142.5vh;
 	top: 450vh;
     width: 30vh;
@@ -778,20 +799,6 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 }
 
 
-#texte25 {
-	left: 22.5vh;
-	top: 530vh;
-    width: 30vh;
-	position: absolute;
-	overflow: visible;
-	white-space: nowrap;
-	cursor: pointer;
-	text-align: left;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 3vh;
-	color: rgba(47,47,47,1);
-}
 
 #barre_26 {
 	border-left:2px solid #000;
@@ -833,22 +840,6 @@ hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
     left: 177.5vh;
 }
 
-#barre_31 {
-	border-left:2px solid #000;
-    height:65vh;
-    top: 495vh;
-    position: absolute; 
-    left: 17.5vh;
-}
-
-#barre_32 {
-	border-left:2px solid #000;
-    height:65vh;
-    top: 495vh;
-    position: absolute; 
-    left: 57.5vh;
-}
-
 a:link {
     color: black; 
     text-decoration: none;
@@ -866,8 +857,9 @@ a:hover {
 }
 
 #credits {
+    font-family: "neutra_text";
 	left: 80vh;
-	top: 580vh;
+	top: 500vh;
     width: 30vh;
 	position: absolute;
 	overflow: visible;
@@ -898,7 +890,7 @@ a:hover {
 
 
 #tout {
-    font-family: "bluu_nexttitling";
+    font-family: "neutra_text";
 	right: 97.5vh;
 	top: 3vh;
 	position: fixed;
@@ -914,7 +906,7 @@ a:hover {
 }
 
 #M1 {
-    font-family: "bluu_nexttitling";
+    font-family: "neutra_text";
 	right: 87.5vh;
 	top: 3vh;
 	position: fixed;
@@ -929,7 +921,7 @@ a:hover {
 }
 
 #M2 {
-    font-family: "bluu_nexttitling";
+    font-family: "neutra_text";
 	right: 77.5vh;
 	top: 3vh;
 	position: fixed;
@@ -944,7 +936,7 @@ a:hover {
 }
 
 #espace {
-    font-family: "bluu_nexttitling";
+    font-family: "neutra_text";
 	right: 52.5vh;
 	top: 3vh;
 	position: fixed;
@@ -959,7 +951,7 @@ a:hover {
 }
 
 #graphique {
-    font-family: "bluu_nexttitling";
+    font-family: "neutra_text";
 	right: 27.5vh;
 	top: 3vh;
 	position: fixed;
@@ -974,7 +966,7 @@ a:hover {
 }
 
 #produit {
-    font-family: "bluu_nexttitling";
+    font-family: "neutra_text";
 	right: 5vh;
 	top: 3vh;
 	position: fixed;
