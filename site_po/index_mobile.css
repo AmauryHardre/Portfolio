@@ -6,15 +6,15 @@ html, body {
 
 .item {
     
+    font-family: "neutra_text";
   position: block;
   height: 75vh;
-  width: 30vh;
+  width: 40vh;
   margin-left: auto;
   margin-right: auto;
   margin-top: 5vh;
   padding: 20px;
-  border: 8px solid rgba(200,200,200,1);
-  background: #999;
+  background: rgba(255,255,255,1);
   padding-left: 10vh;
   padding-right: 10vh;
   padding-top: 5vh;
@@ -28,6 +28,10 @@ h1 {
     
 }
 
+p {align-content: : "bluu_nexttitling";
+    font-size: 3.5vh;
+    
+}
 
 hr { background-color: black; height: 1px; border: 0; margin-top: 15px;}
 
