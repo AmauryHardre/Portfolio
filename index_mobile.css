@@ -18,26 +18,11 @@ html, body {
 	height:0px;
 }
 
-#def {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-        margin-bottom: 15vh;
-	margin-top: 15vh;
-	width: 59vw;
-	color: rgba(47,47,47,1);
-}
-
-p { 
-    font-size: 4vh;
-	
-}
-
 #image_2_couleur {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-        height:70vh;
+    height:70vh;
 	margin-top: 15vh;	
 }
 
@@ -52,9 +37,9 @@ p {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-        height:70vh;
+    height:70vh;
 	margin-top: 15vh;
-        margin-bottom: 15vh;	
+    margin-bottom: 15vh;	
 }
 
 #image_3_nb {
@@ -67,7 +52,7 @@ p {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-        height:70vh;
+    height:70vh;
 	margin-top: 15vh;
 	margin-bottom: 15vh;
 }
@@ -83,7 +68,7 @@ p {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-        height:70vh;
+    height:70vh;
 	margin-top: 15vh;
 	margin-bottom: 15vh;
 }
@@ -99,7 +84,7 @@ p {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-        height:70vh;
+    height:70vh;
 	margin-top: 15vh;
 	margin-bottom: 15vh;
 }
@@ -115,7 +100,7 @@ p {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-        height:70vh;
+    height:70vh;
 	margin-top: 15vh;
 	margin-bottom: 15vh;
 }
@@ -126,15 +111,86 @@ p {
 	height:0px;	
 }
 
-#info{
+
+#image_8_couleur {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-        margin-bottom: 15vh;
+    height:70vh;
 	margin-top: 15vh;
-	width: 59vw;
-	color: rgba(47,47,47,1);
+	margin-bottom: 15vh;
 }
+
+#image_8_nb {
+	position: absolute;
+	opacity: 0;
+	height:0px;	
+}
+
+
+#image_9_couleur {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    height:70vh;
+	margin-top: 15vh;
+	margin-bottom: 15vh;
+}
+
+#image_9_nb {
+	position: absolute;
+	opacity: 0;
+	height:0px;	
+}
+
+
+#image_10_couleur {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    height:70vh;
+	margin-top: 15vh;
+	margin-bottom: 15vh;
+}
+
+#image_10_nb {
+	position: absolute;
+	opacity: 0;
+	height:0px;	
+}
+
+
+#image_11_couleur {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    height:70vh;
+	margin-top: 15vh;
+	margin-bottom: 15vh;
+}
+
+#image_11_nb {
+	position: absolute;
+	opacity: 0;
+	height:0px;	
+}
+
+
+#image_12_couleur {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    height:70vh;
+	margin-top: 15vh;
+	margin-bottom: 15vh;
+}
+
+#image_12_nb {
+	position: absolute;
+	opacity: 0;
+	height:0px;	
+}
+
 
 
 #ah {
@@ -194,7 +250,84 @@ p {
 	color: rgba(47,47,47,1);
 }
 
-#autre {
+#tout {
+	left: 5vh;
+	bottom: 23vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 5vh;
+	color: rgba(47,47,47,1);
+}
+
+#tout:hover{
+	text-decoration: underline;
+	transition: 0.6s ease;
+}
+
+
+#intervenir {
+	left: 5vh;
+	bottom: 18vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 5vh;
+	color: rgba(47,47,47,1);
+}
+
+#intervenir:hover{
+	text-decoration: underline;
+	transition: 0.6s ease;
+}
+
+#ameliorer {
+	left: 5vh;
+	bottom: 13vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 5vh;
+	color: rgba(47,47,47,1);
+}
+
+#ameliorer:hover{
+	text-decoration: underline;
+	transition: 0.6s ease;
+}
+
+#decorer {
+	left: 5vh;
+	bottom: 8vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 5vh;
+	color: rgba(47,47,47,1);
+}
+
+#decorer:hover{
+	text-decoration: underline;
+	transition: 0.6s ease;
+}
+
+#imaginer {
 	left: 5vh;
 	bottom: 3vh;
 	position: fixed;
@@ -207,6 +340,12 @@ p {
 	font-size: 5vh;
 	color: rgba(47,47,47,1);
 }
+
+#imaginer:hover{
+	text-decoration: underline;
+	transition: 0.6s ease;
+}
+
 
 #fr:hover{
 	text-decoration: underline;
