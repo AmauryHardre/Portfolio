@@ -226,6 +226,21 @@ html, body {
 	
 }
 
+
+#def {
+	position: fixed;
+	height: 40vh;
+	width: 15vw;
+	margin-left: 5vh;
+	margin-top: 35vh;
+	font-size: 2.5vh;
+	color: rgba(47,47,47,1);
+}
+
+p { 
+    font-size: 5vh;	
+}
+
 #tout {
 	left: 5vh;
 	bottom: 23vh;
