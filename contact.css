@@ -205,26 +205,21 @@ p3{
 }
 
 #fr:hover{
-	text-decoration: underline;
-	transition: 0.6s ease;
+	text-decoration: 0.4vh blue wavy underline;
 }
 
 #en:hover{
-	text-decoration: underline;
-	transition: 0.6s ease;
+	text-decoration: 0.4vh blue wavy underline;
 }
 
 #ah:hover{
-	text-decoration: underline;
-	transition: 0.6s ease;
+	text-decoration: 0.4vh blue wavy underline;
 }
 
 #contact:hover{
-	text-decoration: underline;
-	transition: 0.6s ease;
+	text-decoration: 0.4vh blue wavy underline;
 }
 
 #liens:hover{
-	text-decoration: underline;
-	transition: 0.6s ease;
+	text-decoration: 0.4vh blue wavy underline;
 }
