@@ -12,7 +12,7 @@ html, body {
 #image_1 {
 	display: block;
     margin-left: auto;
-	margin-right: 7vh;
+	margin-right: 2.5vh;
     height: 70vh;
 	margin-top: 15vh;    	
     border-radius: 2.5vh;
@@ -22,7 +22,7 @@ html, body {
 #image_2 {
 	display: block;
 	margin-left: auto;
-	margin-right: 7vh;
+	margin-right: 2.5vh;
     height:70vh;
 	margin-top: 15vh;    	
     border-radius: 2.5vh;
@@ -33,7 +33,7 @@ html, body {
 #image_3 {
 	display: block;
 	margin-left: auto;
-	margin-right: 7vh;
+	margin-right: 2.5vh;
     height:70vh;
 	margin-top: 15vh;
     margin-bottom: 15vh;    	
@@ -45,7 +45,7 @@ html, body {
 #image_4 {
 	display: block;
 	margin-left: auto;
-	margin-right: 7vh;
+	margin-right: 2.5vh;
     height:70vh;
 	margin-top: 15vh;
     margin-bottom: 15vh;    	
@@ -57,7 +57,7 @@ html, body {
 #image_5 {
 	display: block;
 	margin-left: auto;
-	margin-right: 7vh;
+	margin-right: 2.5vh;
     height:70vh;
 	margin-top: 15vh;
     margin-bottom: 15vh;    	
@@ -69,7 +69,7 @@ html, body {
 #image_6 {
 	display: block;
 	margin-left: auto;
-	margin-right: 7vh;
+	margin-right: 2.5vh;
     height:70vh;
 	margin-top: 15vh;
     margin-bottom: 15vh;    	
@@ -81,7 +81,7 @@ html, body {
 #image_7 {
 	display: block;
 	margin-left: auto;
-	margin-right: 7vh;
+	margin-right: 2.5vh;
     height:70vh;
 	margin-top: 15vh;
     margin-bottom: 15vh;    	
@@ -93,7 +93,7 @@ html, body {
 #image_8 {
 	display: block;
 	margin-left: auto;
-	margin-right: 7vh;
+	margin-right: 2.5vh;
     height:70vh;
 	margin-top: 15vh;
     margin-bottom: 15vh;    	
@@ -105,7 +105,7 @@ html, body {
 #image_9 {
 	display: block;
 	margin-left: auto;
-	margin-right: 7vh;
+	margin-right: 2.5vh;
     height:70vh;
 	margin-top: 15vh;
     margin-bottom: 15vh;    	
@@ -129,6 +129,7 @@ html, body {
 	left: -22.5vh;
 	height: 100vh;
 	position: fixed;
+    top: 0;
 }
 
 #arbre_droite {
@@ -137,8 +138,8 @@ html, body {
 }
 
 #apropos {
-	right: 4vh;
-	top: 4vh;
+	right: 2.5vh;
+	top: 2.5vh;
 	position: fixed;
 	overflow: visible;
 	white-space: nowrap;
@@ -255,7 +256,7 @@ html, body {
 }
 
 #ru {
-	right: 4vh;
+	right: 2.5vh;
 	bottom: 4vh;
 	position: fixed;
 	overflow: visible;
