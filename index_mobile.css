@@ -276,7 +276,7 @@ html, body {
 
 #credit {
 	margin-left: 25vh;
-	bottom: 2vh;
+	margin-top: 10vh;
 	display: block;
 	overflow: visible;
 	white-space: nowrap;
