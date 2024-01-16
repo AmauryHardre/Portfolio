@@ -1,0 +1,411 @@
+*{  margin: 0;
+  padding: 0;}
+html, body {
+  height: 100vh;
+}
+
+@font-face {
+    font-family: "signika_bold";
+    src: url("typos/signika/Signika-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "signika_medium";
+    src: url("typos/signika/Signika-Medium.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "signika";
+    src: url("typos/signika/Signika-Bold.ttf") format("truetype"),
+    url("typos/signika/Signika-Light.ttf") format("truetype"),
+    url("typos/signika/Signika-Medium.ttf") format("truetype"),
+    url("typos/signika/Signika-Regular.ttf") format("truetype"),
+    url("typos/signika/Signika-SemiBold.ttf") format("truetype");
+}
+
+
+
+#image_1 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 25vh;    	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+    
+}
+
+
+#image_1:hover{	
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#image_2 {
+	position: absolute;
+	height: 50vh;
+	right: 32.5vw;
+	top: 25vh;    	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_2:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#image_3 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 90vh;    	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_3:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#image_4 {
+	position: absolute;
+	height: 50vh;
+	right: 32.5vw;
+	top: 90vh;    	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_4:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#image_5 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 155vh;    	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_5:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#image_6 {
+	position: absolute;
+	height: 50vh;
+	right: 32.5vw;
+	top: 155vh;    	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_6:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#image_7 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 220vh;    	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_7:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#image_8 {
+	position: absolute;
+	height: 50vh;
+	right: 32.5vw;
+	top: 220vh;    	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_8:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#image_9 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 285vh;    	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_9:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#image_10 {
+	position: absolute;
+	height: 50vh;
+	right: 32.5vw;
+	top: 285vh;    	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_9:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#credit {
+	position: absolute;
+	width: 20vw;
+	left: 40vw;
+    right: auto;
+	margin-top: 350vh;
+	font-size: 2.5vh;
+	color: rgba(47,47,47,1);
+}
+
+#arbre_gauche {
+	position: fixed;
+	height: 100vh;
+	left: 8vh;
+}
+
+#arbre_droite {
+	position: fixed;
+	height: 100vh;
+	right: 8vh;
+}
+
+p { 
+    font-size: 5vh;	
+}
+
+
+#soleil_1 {
+    left: 2.5vh;
+	top: 2.5vh;
+	position: fixed;
+	height: 20vh;
+}
+
+#soleil_2 {
+    left: 2.5vh;
+	top: 2.5vh;
+	position: fixed;
+	height: 20vh;
+    opacity: 0;
+	transition: 1s;
+}
+#soleil_2:hover{
+	opacity: 100;
+	transition: 1s;
+}
+
+#services {
+	left: 5vh;
+	bottom: 17.5vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: rgba(47,47,47,1);
+    font-family: "signika_bold";
+}
+
+#services:hover{
+    text-shadow: 1px 1px 1px grey;
+}
+
+#objets {
+	left: 5vh;
+	bottom: 12.5vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: rgba(47,47,47,1);
+    font-family: "signika_bold";
+}
+
+#objets:hover{
+    text-shadow: 1px 1px 1px grey;
+}
+
+#jeux {
+	left: 5vh;
+	bottom: 7.5vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: rgba(47,47,47,1);
+    font-family: "signika_bold";
+}
+
+#jeux:hover{
+    text-shadow: 1px 1px 1px grey;
+}
+
+#apropos {
+	right: 5vh;
+	top: 7.5vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: rgba(47,47,47,1);
+    font-family: "signika_bold";
+}
+
+#apropos:hover{
+    text-shadow: 1px 1px 1px grey;
+}
+
+
+#en {
+	right: 42.5vh;
+	bottom: 7.5vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: rgba(47,47,47,1);
+    font-family: "signika_bold";
+}
+
+#en:hover{
+    text-decoration: underline;
+}
+
+#es {
+	right: 35vh;
+	bottom: 7.5vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: rgba(47,47,47,1);
+    font-family: ;
+}
+
+#es:hover{
+	text-decoration: 0.3vh #264084 wavy underline;
+    font-family: "";
+}
+
+#de {
+	right: 27.5vh;
+	bottom: 7.5vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: rgba(47,47,47,1);
+    font-family: ;
+}
+
+#de:hover{
+	color: blue;
+    font-family: "";
+}
+
+#ru {
+	right: 5vh;
+	bottom: 7.5vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: rgba(47,47,47,1);    
+    font-family: "signika_bold";
+}
+
+#ru:hover{
+    text-shadow: 1px 1px 1px grey;
+}
+
+
+#fr {
+	right: 5vh;
+	bottom: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 7vh;
+	color: rgba(47,47,47,1);
+}
+
+
+#fr:hover{
+	text-decoration: 0.3vh #264084 wavy underline;
+}
+
+
+
+#ah:hover{
+	text-decoration: 0.3vh #264084 wavy underline;
+    font-family: "loire_regular";
+}
+
+#autre:hover{
+	text-decoration: 0.3vh #264084 wavy underline;
+}

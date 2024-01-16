@@ -1,0 +1,324 @@
+*{  margin: 0;
+  padding: 0;}
+html, body {
+  height: 100vh;
+  }
+
+@font-face {
+    font-family: "signika_bold";
+    src: url("typos/signika/Signika-Bold.ttf") format("truetype");
+}
+
+#arbre_gauche {
+	opacity: 0;
+    height: 0px;
+}
+
+#arbre_droite {
+	position: fixed;
+	height: 100vh;
+	right: 8vh;
+}
+
+#soleil_1 {
+    left: 2.5vh;
+	top: 2.5vh;
+	position: fixed;
+	height: 20vh;
+}
+
+#soleil_2 {
+    left: 2.5vh;
+	top: 2.5vh;
+	position: fixed;
+	height: 20vh;
+    opacity: 0;
+	transition: 1s;
+}
+#soleil_2:hover{
+	opacity: 100;
+	transition: 1s;
+}
+
+#image_1 {
+	position: fixed;
+	width: auto;
+	max-height: 100vh;
+	left: 0%;
+	top: 0%;
+    box-shadow: 5px 0px 25px #3B3B3B;
+}
+
+#droite {
+	position: relative;
+	display: flex;
+	margin-left: 65vh;
+	max-width: 70vw;
+	
+
+}
+
+
+#texte_1 
+{
+	top: 35vh;
+    min-width:  20vw;
+	max-width: 35vw;
+	position: absolute;
+	overflow: auto;
+}
+h1{
+	font-size: 6vh;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(47,47,47,1);
+	text-align: left;
+    font-family: "signika_bold";
+}
+
+p{
+	position: relative;
+	overflow: visible;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(47,47,47,1);
+	top: 0;
+	font-size: 2vmin;
+	margin-right: 2vw
+}
+
+p1{
+	position: relative;
+	overflow: visible;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(47,47,47,1);
+	top: 0;
+	font-size: 2.25vmin;
+	margin-right: 2vw
+}
+
+#image_3_large {
+	top: 100vh;
+    height: 57vh;
+	position: absolute;
+}
+
+#image_3_1 {
+	max-height: 80vh;
+	top: 100vh;
+	overflow: visible;
+	position: absolute;
+}
+
+#image_3_2 {
+	max-height: 80vh;
+	top: 100vh;
+    margin-left: 30vw;
+	overflow: visible;
+	position: absolute;
+}
+
+
+#image_4_large {
+	position: absolute;
+    height: 57vh;
+	top: 165vh;
+}
+
+#image_4_1 {
+	max-height: 80vh;
+	top: 185vh;
+	overflow: visible;
+	position: absolute;
+}
+
+#image_4_2 {
+	max-height: 80vh;
+	top: 185vh;
+    margin-left: 30vw;
+	overflow: visible;
+	position: absolute;
+}
+
+#image_5_large {
+	position: absolute;
+	width: auto;
+	max-height: 80vh;
+    margin-left: 0%;
+	top: 270vh;
+	overflow: visible;
+	margin-bottom: 10vh
+}
+
+#image_5_1 {
+    height: 65vh;
+	top: 270vh;
+	overflow: visible;
+	position: absolute;
+}
+
+#image_5_2 {
+	height: 65vh;
+	top: 270vh;
+    margin-left: 25vw;
+	overflow: visible;
+	position: absolute;
+}
+
+#image_6_large {
+	position: absolute;
+    height: 57vh;
+	top: 355vh;
+	overflow: visible;
+	margin-bottom: 10vh
+}
+
+#image_6_1 {
+	max-height: 80vh;
+	top: 355vh;
+	overflow: visible;
+	position: absolute;
+}
+
+#image_6_2 {
+	max-height: 80vh;
+	top: 355vh;
+    margin-left: 30vw;
+	overflow: visible;
+	position: absolute;
+}
+
+#image_7_large {
+	position: absolute;
+	width: auto;
+	max-height: 80vh;
+    margin-left: 0%;
+	top: 440vh;
+	overflow: visible;
+	margin-bottom: 10vh
+}
+
+#image_7_1 {
+	height: 65vh;
+	top: 440vh;
+	overflow: visible;
+	position: absolute;
+}
+
+#image_7_2 {
+	height: 65vh;
+    margin-left: 25vw;
+	top: 440vh;
+	overflow: visible;
+	position: absolute;
+}
+
+#image_8_large {
+	position: absolute;
+	width: auto;
+	max-height: 80vh;
+    margin-left: 0%;
+	top: 525vh;
+	overflow: visible;
+	margin-bottom: 10vh
+}
+
+#image_8_1 {
+	max-height: 80vh;
+	top: 525vh;
+	overflow: visible;
+	position: absolute;
+}
+
+#image_8_2 {
+	max-height: 80vh;
+	top: 525vh;
+    margin-left: 30vw;
+	overflow: visible;
+	position: absolute;
+}
+
+#texte_2 {
+	position: absolute;
+	min-width:  20vw;
+	max-width: 35vw;
+	top: 230vh;
+	overflow: visible;
+	margin-bottom: 10vh;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(47,47,47,1);
+	font-size: 2.25vmin;
+	
+}
+
+
+#contact {
+	right: 5vh;
+	top: 7.5vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: rgba(47,47,47,1);
+    font-family: "signika_bold";
+}
+
+#credit {
+	position: absolute;
+	width: 20vw;
+	left: 15vw;
+    right: auto;
+	margin-top: 525vh;
+	font-size: 2.5vh;
+	color: rgba(47,47,47,1);
+}
+
+#en {
+	right: 5vh;
+	bottom: 7.5vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: rgba(47,47,47,1);
+    font-family: "signika_bold";
+}
+
+#fr {
+	right: 5vh;
+	bottom: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 7vh;
+	color: rgba(47,47,47,1);
+}
+
+#fr:hover{
+	text-decoration: 0.4vh blue wavy underline;
+}
+
+#en:hover{
+    text-shadow: 1px 1px 1px grey;
+}
+
+#contact:hover{
+    text-shadow: 1px 1px 1px grey;
+}

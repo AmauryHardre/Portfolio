@@ -1,0 +1,348 @@
+*{  margin: 0;
+  padding: 0;}
+html, body {
+  width: auto;
+}
+
+
+@font-face {
+    font-family: "signika_bold";
+    src: url("typos/signika/Signika-Bold.ttf") format("truetype");
+}
+
+
+#image_1 {
+    display: block;
+    margin-left: 2.5vh;
+	margin-right: auto;
+    height: 70vh;
+	margin-top: 2.5vh;    	
+    border-radius: 2.5vh;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_2 {
+	position: relative;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    width: 100vw;
+	height: auto;
+	margin-top: 55vh;
+}
+
+#texte_1 
+{
+	height: 40vh;
+	margin-top: 10vh;
+    margin-left: 2.5vh;
+	margin-right: auto;
+	position: relative;
+	margin-bottom: 35vh;
+    width: 60vw;
+}
+
+h1{
+	font-size: 6vh;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(47,47,47,1);
+	text-align: left;
+    font-family: "signika_bold";
+}
+
+p{
+	position: relative;
+	overflow: visible;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(47,47,47,1);
+	top: 0;
+	font-size: 2vh;
+	margin-right: 5vh;
+}
+
+p1{
+	position: relative;
+	overflow: visible;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(47,47,47,1);
+	top: 0;
+	font-size: 2.5vh;
+	margin-right: 5vh;
+}
+
+#image_3_large {
+	position: relative;
+	margin-left: 2.5vh;
+	margin-right: auto;
+    width: 60vw;
+	height: auto;
+	margin-top: 15vh;
+}
+
+#image_3_1 {
+	position: relative;
+	margin-left: 2.5vh;
+	margin-right: auto;
+    width: 60vw;
+	height: auto;
+	margin-top: 15vh;
+}
+
+#image_3_2 {
+	position: relative;
+	margin-left: 2.5vh;
+	margin-right: auto;
+    width: 60vw;
+	height: auto;
+	margin-top: 15vh;
+}
+
+#image_4_large {
+	position: relative;
+	margin-left: 2.5vh;
+	margin-right: auto;
+    width: 60vw;
+	height: auto;
+	margin-top: 15vh;
+}
+
+#image_4_1 {
+	position: relative;
+	margin-left: 2.5vh;
+	margin-right: auto;
+    width: 60vw;
+	height: auto;
+	margin-top: 15vh;
+}
+
+#image_4_2 {
+	position: relative;
+	margin-left: 2.5vh;
+	margin-right: auto;
+    width: 60vw;
+	height: auto;
+	margin-top: 15vh;
+}
+
+#texte_2 {
+	height:40vh;
+	margin-top: 10vh;
+	margin-left: 2.5vh;
+	margin-right: 5vh;
+	position: relative;
+	margin-bottom: 10vh;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(47,47,47,1);
+	font-size: 2.5vh;
+    width: 60vw;
+}
+
+#image_5_large {
+	position: relative;
+	margin-left: 2.5vh;
+	margin-right: auto;
+    width: 60vw;
+	height: auto;
+	margin-top: 15vh;
+}
+
+#image_5_1 {
+	position: relative;
+	margin-left: 2.5vh;
+	margin-right: auto;
+    width: 60vw;
+	height: auto;
+	margin-top: 15vh;
+}
+
+#image_5_2 {
+	position: relative;
+	margin-left: 2.5vh;
+	margin-right: auto;
+    width: 60vw;
+	height: auto;
+	margin-top: 15vh;
+}
+
+#image_6_large {
+	position: relative;
+	margin-left: 2.5vh;
+	margin-right: auto;
+    width: 60vw;
+	height: auto;
+	margin-top: 15vh;
+}
+
+#image_6_1 {
+	position: relative;
+	margin-left: 2.5vh;
+	margin-right: auto;
+    width: 60vw;
+	height: auto;
+	margin-top: 15vh;
+}
+
+#image_6_2 {
+	position: relative;
+	margin-left: 2.5vh;
+	margin-right: auto;
+    width: 60vw;
+	height: auto;
+	margin-top: 15vh;
+}
+
+#image_7_large {
+	position: relative;
+	margin-left: 2.5vh;
+	margin-right: auto;
+    width: 60vw;
+	height: auto;
+	margin-top: 15vh;
+}
+
+#image_7_1 {
+	position: relative;
+	margin-left: 2.5vh;
+	margin-right: auto;
+    width: 60vw;
+	height: auto;
+	margin-top: 15vh;
+}
+
+#image_7_2 {
+	position: relative;
+	margin-left: 2.5vh;
+	margin-right: auto;
+    width: 60vw;
+	height: auto;
+	margin-top: 15vh;
+}
+
+#image_8_large {
+	position: relative;
+	margin-left: 2.5vh;
+	margin-right: auto;
+    width: 60vw;
+	height: auto;
+	margin-top: 15vh;
+}
+
+#image_8_1 {
+	position: relative;
+	margin-left: 2.5vh;
+	margin-right: auto;
+    width: 60vw;
+	height: auto;
+	margin-top: 15vh;
+}
+
+#image_8_2 {
+	position: relative;
+	margin-left: 2.5vh;
+	margin-right: auto;
+    width: 60vw;
+	height: auto;
+	margin-top: 15vh;
+}
+
+#credit {
+	margin-left: 2.5vh;
+	margin-top: 10vh;
+	position: relative;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 2vh;
+}
+
+#soleil_1 {
+	opacity: 0;
+    height: 0px;
+}
+
+#soleil_2 {
+	left: 2vh;
+	top: 2vh;
+    height: 15vh;
+	position: fixed;
+}
+
+
+#arbre_droite {
+	right: -22.5vh;
+    top: 0;
+	height: 100vh;
+	position: fixed;
+}
+
+#apropos {
+	right: 4vh;
+	top: 4vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: black;
+    font-family: "signika_bold";
+}
+
+#apropos:hover{
+    text-shadow: 1px 1px 1px grey;
+}
+
+
+#en {
+	right: 4vh;
+	bottom: 4vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: black;
+    font-family: "signika_bold";
+}
+
+#en:hover{
+    text-shadow: 1px 1px 1px grey;
+}
+
+#fr {
+	right: 5vh;
+	bottom: 3vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 5vh;
+	color: rgba(47,47,47,1);
+}
+
+#fr:hover{
+	text-decoration: underline;
+	transition: 0.6s ease;
+}
+
+#ah:hover{
+	text-decoration: underline;
+	transition: 0.6s ease;
+}
