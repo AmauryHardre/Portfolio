@@ -233,7 +233,7 @@ p3 {
 }
 
 #en:hover{
-	text-decoration: 0.4vh blue wavy underline;
+    text-shadow: 1px 1px 1px grey;
 }
 
 #ah:hover{

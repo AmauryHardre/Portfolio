@@ -239,6 +239,10 @@ p1{
     font-family: "signika_bold";
 }
 
+#apropos:hover{
+    text-shadow: 1px 1px 1px grey;
+}
+
 #credit {
 	position: absolute;
 	width: 20vw;
