@@ -42,13 +42,13 @@ html, body {
 	max-width: 20vw;
 	position: relative;
 	overflow: auto;
+	color: black;
 }
 
 h1{
 	font-size: 6vh;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
 	text-align: left;
     font-family: "signika_bold";
 }
@@ -59,7 +59,6 @@ p{
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
 	top: 0;
 	font-size: 2.25vmin;
 	margin-right: 2vw
@@ -72,13 +71,13 @@ p{
 	max-width: 20vw;
 	position: absolute;
 	overflow: auto;
+	color: black;
 }
 
 h2 {
 	font-size: 6vh;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
 	text-align: left;
     font-family: "signika_bold";
 }
@@ -89,7 +88,6 @@ p1 {
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
 	top: 0;
 	font-size: 2.25vmin;
 	margin-right: 2vw
@@ -102,13 +100,13 @@ p1 {
 	max-width: 20vw;
 	position: absolute;
 	overflow: auto;
+	color: black;
 }
 
 h3 {
 	font-size: 6vh;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
 	text-align: left;
     font-family: "signika_bold";
 }
@@ -119,7 +117,6 @@ p2 {
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
 	top: 0;
 	font-size: 2.25vmin;
 	margin-right: 2vw
@@ -132,13 +129,13 @@ p2 {
 	max-width: 20vw;
 	position: absolute;
 	overflow: auto;
+	color: black;
 }
 
 h4 {
 	font-size: 6vh;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
 	text-align: left;
     font-family: "signika_bold";
 }
@@ -149,7 +146,6 @@ p3 {
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
 	top: 0;
 	font-size: 2.25vmin;
 	margin-right: 2vw
@@ -186,7 +182,7 @@ p3 {
 	font-style: normal;
 	font-weight: normal;
 	font-size: 4vh;
-	color: rgba(47,47,47,1);    
+	color: black;   
     font-family: "signika_bold";
 }
 
