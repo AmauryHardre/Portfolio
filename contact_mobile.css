@@ -23,12 +23,12 @@
 	margin-left: 5vh;
 	position: relative;
     width: 50vw;
+	color: black;
 }
 h1{
 	font-size: 6vh;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
 	text-align: left;
     font-family: "signika_bold";
 }
@@ -38,7 +38,6 @@ p{
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
 	top: 0;
 	font-size: 3vh;
 	margin-right: 5vh;
@@ -50,13 +49,13 @@ p{
 	margin-left: 5vh;
 	position: relative;
     width: 50vw;
+	color: black;
 }
 
 h2{
 	font-size: 6vh;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
 	text-align: left;
     font-family: "signika_bold";
 }
@@ -67,7 +66,6 @@ p1{
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
 	top: 0;
 	font-size: 3vh;
 	margin-right: 5vh;
@@ -80,13 +78,13 @@ p1{
 	margin-right: 5vh;
 	position: relative;
     width: 50vw;
+	color: black;
 }
 
 h3{
 	font-size: 6vh;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
 	text-align: left;
     font-family: "signika_bold";
 }
@@ -97,7 +95,6 @@ p2{
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
 	top: 0;
 	font-size: 3vh;
 	margin-right: 5vh;
@@ -110,13 +107,13 @@ p2{
 	margin-right: 5vh;
 	position: relative;
     width: 50vw;
+	color: black;
 }
 
 h4{
 	font-size: 6vh;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
 	text-align: left;
     font-family: "signika_bold";
 }
@@ -127,7 +124,6 @@ p3{
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
 	top: 0;
 	font-size: 3vh;
 	margin-right: 5vh;
@@ -181,8 +177,10 @@ p3{
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 5vh;
-	color: rgba(47,47,47,1);
+	font-size: 4vh;
+	color: black;
+    font-family: "signika_bold";
+    text-shadow: 2px 2px 2px white;
 }
 
 #fr {

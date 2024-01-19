@@ -30,13 +30,13 @@ html, body {
 	position: relative;
 	margin-bottom: 65vh;
     width: 50vw;
+	color: black;
 }
 
 h1{
 	font-size: 6vh;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
 	text-align: left;
     font-family: "signika_bold";
 }
@@ -47,7 +47,6 @@ p{
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
 	top: 0;
 	font-size: 2vh;
 	margin-right: 5vh;
@@ -59,7 +58,6 @@ p1{
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
 	top: 0;
 	font-size: 2.5vh;
 	margin-right: 5vh;
@@ -138,7 +136,7 @@ p1{
 	margin-bottom: 10vh;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
+	color: black;
 	font-size: 2.5vh;
     width: 50vw;
 }
