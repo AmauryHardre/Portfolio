@@ -14,7 +14,7 @@ html, body {
     margin-left: auto;
 	margin-right: 2.5vh;
     height: 70vh;
-	margin-top: 15vh;    	
+	margin-top: 10vh;    	
     border-radius: 2.5vh;
     box-shadow: 5px 5px 5px grey;
 }
@@ -113,6 +113,18 @@ html, body {
     box-shadow: 5px 5px 5px grey;	
 }
 
+
+#image_10 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;
+    margin-bottom: 0vh;    	
+    border-radius: 2.5vh;
+    box-shadow: 5px 5px 5px grey;	
+}
+
 #soleil_1 {
 	opacity: 0;
     height: 0px;
@@ -126,7 +138,7 @@ html, body {
 }
 
 #arbre_gauche {
-	left: -22.5vh;
+	left: -25vh;
 	height: 100vh;
 	position: fixed;
     top: 0;
@@ -150,10 +162,7 @@ html, body {
 	font-size: 4vh;
 	color: black;
     font-family: "signika_bold";
-}
-
-#apropos:hover{
-    text-shadow: 1px 1px 1px grey;
+    text-shadow: 1px 1px 1px white;
 }
 
 #services {
@@ -169,10 +178,7 @@ html, body {
 	font-size: 4vh;
 	color: black;
     font-family: "signika_bold";
-}
-
-#services:hover{
-    text-shadow: 1px 1px 1px grey;
+    text-shadow: 2px 2px 2px white;
 }
 
 #objets {
@@ -188,10 +194,7 @@ html, body {
 	font-size: 4vh;
 	color: black;
     font-family: "signika_bold";
-}
-
-#objets:hover{
-    text-shadow: 1px 1px 1px grey;
+    text-shadow: 2px 2px 2px white;
 }
 
 #jeux {
@@ -207,10 +210,7 @@ html, body {
 	font-size: 4vh;
 	color: black;
     font-family: "signika_bold";
-}
-
-#jeux:hover{
-    text-shadow: 1px 1px 1px grey;
+    text-shadow: 2px 2px 2px white;
 }
 
 #en {
@@ -268,15 +268,13 @@ html, body {
 	font-size: 4vh;
 	color: black;
     font-family: "signika_bold";
+    text-shadow: 1px 1px 1px white;
 }
 
-#ru:hover{
-    text-shadow: 1px 1px 1px grey;
-}
 
 #credit {
 	margin-right: 5vh;
-	margin-top: 7.5vh;
+	margin-top: 10vh;
 	display: block;
 	overflow: visible;
 	white-space: nowrap;

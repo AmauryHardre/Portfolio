@@ -1,24 +1,28 @@
 *{  margin: 0;
   padding: 0;}
 
-.scrollable-element {
-  scrollbar-width: none;
+@font-face {
+    font-family: "signika_bold";
+    src: url("typos/signika/Signika-Bold.ttf") format("truetype");
 }
 
 #profil {
-	position: relative;
-	display: block;
-	margin-left: auto;
+    display: block;
+    margin-left: 2.5vh;
 	margin-right: auto;
-	height: 70vh;
-	margin-top: 15vh;
+    height: 80vh;
+	margin-top: 2.5vh;    	
+    border-radius: 2.5vh;
+    box-shadow: 5px 5px 5px grey;
 }
+
 #a_propos 
 {
 	height:40vh;
 	margin-top: 10vh;
 	margin-left: 5vh;
 	position: relative;
+    width: 50vw;
 }
 h1{
 	font-size: 6vh;
@@ -26,6 +30,7 @@ h1{
 	font-weight: normal;
 	color: rgba(47,47,47,1);
 	text-align: left;
+    font-family: "signika_bold";
 }
 p{
 	position: relative;
@@ -44,15 +49,18 @@ p{
 	margin-top: 0vh;
 	margin-left: 5vh;
 	position: relative;
-	
+    width: 50vw;
 }
+
 h2{
 	font-size: 6vh;
 	font-style: normal;
 	font-weight: normal;
 	color: rgba(47,47,47,1);
 	text-align: left;
+    font-family: "signika_bold";
 }
+
 p1{
 	position: relative;
 	overflow: visible;
@@ -71,15 +79,18 @@ p1{
 	margin-left: 5vh;
 	margin-right: 5vh;
 	position: relative;
-	
+    width: 50vw;
 }
+
 h3{
 	font-size: 6vh;
 	font-style: normal;
 	font-weight: normal;
 	color: rgba(47,47,47,1);
 	text-align: left;
+    font-family: "signika_bold";
 }
+
 p2{
 	position: relative;
 	overflow: visible;
@@ -98,14 +109,18 @@ p2{
 	margin-left: 5vh;
 	margin-right: 5vh;
 	position: relative;
+    width: 50vw;
 }
+
 h4{
 	font-size: 6vh;
 	font-style: normal;
 	font-weight: normal;
 	color: rgba(47,47,47,1);
 	text-align: left;
+    font-family: "signika_bold";
 }
+
 p3{
 	position: relative;
 	overflow: visible;
@@ -118,35 +133,43 @@ p3{
 	margin-right: 5vh;
 }
 
-
-#ah {
-	left: 5vh;
-	top: 3vh;
-	position: fixed;
+#credit {
+	margin-left: 2.5vh;
+	margin-top: 50vh;
+	position: relative;
 	overflow: visible;
 	white-space: nowrap;
 	cursor: pointer;
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 5vh;
-	color: rgba(47,47,47,1);
+	font-size: 2vh;
 }
 
-
-#contact {
-	right: 5vh;
-	top: 3vh;
+#soleil_1 {
+    left: 2.5vh;
+	top: 2.5vh;
 	position: fixed;
-	overflow: visible;
-	white-space: nowrap;
-	cursor: pointer;
-	text-align: left;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 5vh;
-	color: rgba(47,47,47,1);
+	height: 20vh;
 }
+
+#soleil_2 {
+    left: 2.5vh;
+	top: 2.5vh;
+	position: fixed;
+	height: 20vh;
+    opacity: 0;
+	transition: 1s;
+}
+
+
+#arbre_droite {
+	position: fixed;
+	height: 100vh;
+	right: -25vh;
+    top: 0;
+}
+
 
 #en {
 	right: 5vh;

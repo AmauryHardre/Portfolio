@@ -15,20 +15,10 @@ html, body {
     display: block;
     margin-left: 2.5vh;
 	margin-right: auto;
-    height: 70vh;
+    height: 80vh;
 	margin-top: 2.5vh;    	
     border-radius: 2.5vh;
     box-shadow: 5px 5px 5px grey;
-}
-
-#image_2 {
-	position: relative;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-    width: 100vw;
-	height: auto;
-	margin-top: 55vh;
 }
 
 #texte_1 
@@ -38,8 +28,8 @@ html, body {
     margin-left: 2.5vh;
 	margin-right: auto;
 	position: relative;
-	margin-bottom: 35vh;
-    width: 60vw;
+	margin-bottom: 65vh;
+    width: 50vw;
 }
 
 h1{
@@ -75,11 +65,21 @@ p1{
 	margin-right: 5vh;
 }
 
+#image_2_large {
+	position: relative;
+	display: block;
+	margin-left: 2.5vh;
+	margin-right: auto;
+    width: 70vw;
+	height: auto;
+	margin-top: 15vh;
+}
+
 #image_3_large {
 	position: relative;
 	margin-left: 2.5vh;
 	margin-right: auto;
-    width: 60vw;
+    width: 70vw;
 	height: auto;
 	margin-top: 15vh;
 }
@@ -88,7 +88,7 @@ p1{
 	position: relative;
 	margin-left: 2.5vh;
 	margin-right: auto;
-    width: 60vw;
+    width: 70vw;
 	height: auto;
 	margin-top: 15vh;
 }
@@ -97,7 +97,7 @@ p1{
 	position: relative;
 	margin-left: 2.5vh;
 	margin-right: auto;
-    width: 60vw;
+    width: 70vw;
 	height: auto;
 	margin-top: 15vh;
 }
@@ -106,7 +106,7 @@ p1{
 	position: relative;
 	margin-left: 2.5vh;
 	margin-right: auto;
-    width: 60vw;
+    width: 70vw;
 	height: auto;
 	margin-top: 15vh;
 }
@@ -115,7 +115,7 @@ p1{
 	position: relative;
 	margin-left: 2.5vh;
 	margin-right: auto;
-    width: 60vw;
+    width: 70vw;
 	height: auto;
 	margin-top: 15vh;
 }
@@ -124,7 +124,7 @@ p1{
 	position: relative;
 	margin-left: 2.5vh;
 	margin-right: auto;
-    width: 60vw;
+    width: 70vw;
 	height: auto;
 	margin-top: 15vh;
 }
@@ -140,14 +140,14 @@ p1{
 	font-weight: normal;
 	color: rgba(47,47,47,1);
 	font-size: 2.5vh;
-    width: 60vw;
+    width: 50vw;
 }
 
 #image_5_large {
 	position: relative;
 	margin-left: 2.5vh;
 	margin-right: auto;
-    width: 60vw;
+    width: 70vw;
 	height: auto;
 	margin-top: 15vh;
 }
@@ -156,7 +156,7 @@ p1{
 	position: relative;
 	margin-left: 2.5vh;
 	margin-right: auto;
-    width: 60vw;
+    width: 70vw;
 	height: auto;
 	margin-top: 15vh;
 }
@@ -165,7 +165,7 @@ p1{
 	position: relative;
 	margin-left: 2.5vh;
 	margin-right: auto;
-    width: 60vw;
+    width: 70vw;
 	height: auto;
 	margin-top: 15vh;
 }
@@ -174,7 +174,7 @@ p1{
 	position: relative;
 	margin-left: 2.5vh;
 	margin-right: auto;
-    width: 60vw;
+    width: 70vw;
 	height: auto;
 	margin-top: 15vh;
 }
@@ -183,7 +183,7 @@ p1{
 	position: relative;
 	margin-left: 2.5vh;
 	margin-right: auto;
-    width: 60vw;
+    width: 70vw;
 	height: auto;
 	margin-top: 15vh;
 }
@@ -192,7 +192,7 @@ p1{
 	position: relative;
 	margin-left: 2.5vh;
 	margin-right: auto;
-    width: 60vw;
+    width: 70vw;
 	height: auto;
 	margin-top: 15vh;
 }
@@ -201,7 +201,7 @@ p1{
 	position: relative;
 	margin-left: 2.5vh;
 	margin-right: auto;
-    width: 60vw;
+    width: 70vw;
 	height: auto;
 	margin-top: 15vh;
 }
@@ -210,7 +210,7 @@ p1{
 	position: relative;
 	margin-left: 2.5vh;
 	margin-right: auto;
-    width: 60vw;
+    width: 70vw;
 	height: auto;
 	margin-top: 15vh;
 }
@@ -219,7 +219,7 @@ p1{
 	position: relative;
 	margin-left: 2.5vh;
 	margin-right: auto;
-    width: 60vw;
+    width: 70vw;
 	height: auto;
 	margin-top: 15vh;
 }
@@ -228,7 +228,7 @@ p1{
 	position: relative;
 	margin-left: 2.5vh;
 	margin-right: auto;
-    width: 60vw;
+    width: 70vw;
 	height: auto;
 	margin-top: 15vh;
 }
@@ -237,7 +237,7 @@ p1{
 	position: relative;
 	margin-left: 2.5vh;
 	margin-right: auto;
-    width: 60vw;
+    width: 70vw;
 	height: auto;
 	margin-top: 15vh;
 }
@@ -246,7 +246,7 @@ p1{
 	position: relative;
 	margin-left: 2.5vh;
 	margin-right: auto;
-    width: 60vw;
+    width: 70vw;
 	height: auto;
 	margin-top: 15vh;
 }
@@ -278,7 +278,7 @@ p1{
 
 
 #arbre_droite {
-	right: -22.5vh;
+	right: -25vh;
     top: 0;
 	height: 100vh;
 	position: fixed;
@@ -297,12 +297,8 @@ p1{
 	font-size: 4vh;
 	color: black;
     font-family: "signika_bold";
+    text-shadow: 2px 2px 2px white;
 }
-
-#apropos:hover{
-    text-shadow: 1px 1px 1px grey;
-}
-
 
 #en {
 	right: 4vh;
@@ -317,10 +313,7 @@ p1{
 	font-size: 4vh;
 	color: black;
     font-family: "signika_bold";
-}
-
-#en:hover{
-    text-shadow: 1px 1px 1px grey;
+    text-shadow: 2px 2px 2px white;
 }
 
 #fr {
