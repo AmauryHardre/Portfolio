@@ -58,11 +58,11 @@ html, body {
 
 }
 
-
 #texte_1 
-{
-	top: 35vh;
-    width: 37vw;
+
+{	top: 35vh;
+    min-width:  20vw;
+	max-width: 37vw;
 	position: absolute;
 	overflow: auto;
 	color: black;
@@ -98,90 +98,34 @@ p1{
 	margin-right: 2vw
 }
 
-#image_2 {
+#image_2_1_2 {
+	height: 65vh;
 	top: 100vh;
-    height: 30vw;
+	overflow: visible;
 	position: absolute;
 }
 
-#image_2_ombre {
+#image_2_1 {
+	height: 65vh;
 	top: 100vh;
-    height: 30vw;
-	position: absolute;
-    box-shadow: 5px 5px 5px grey;
-}
-
-
-#image_3 {
-	position: absolute;
-    height: 30vw;
-	top: 180vh;
-}
-
-#image_3_ombre {
-	top: 180vh;
-    height: 30vw;
-	position: absolute;
-    box-shadow: 5px 5px 5px grey;
-}
-
-#texte_2 {
-	position: absolute;
-	min-width:  20vw;
-	max-width: 35vw;
-	top: 260vh;
 	overflow: visible;
-	margin-bottom: 10vh;
-	text-align: left;
-	font-style: normal;
-	font-weight: normal;
-	color: black;
-	font-size: 2.25vmin;	
+	position: absolute;
 }
 
-#image_4 {
-	position: absolute;
-    height: 30vw;
+#image_2_1_2:hover{
+	opacity: 0;
+	transition: 0.5s;
+}
+
+
+#image_2_2 {
+	height: 65vh;
+	top: 100vh;
+    margin-left: 22.5vw;
 	overflow: visible;
-	margin-bottom: 10vh;
-	top: 300vh;
-}
-
-#image_4_ombre {
-	top: 300vh;
-    height: 30vw;
 	position: absolute;
-    box-shadow: 5px 5px 5px grey;
 }
 
-#image_5 {
-	position: absolute;
-    height: 30vw;
-	top: 380vh;
-	overflow: visible;
-}
-
-#image_5_ombre {
-	top: 380vh;
-    height: 30vw;
-	position: absolute;
-    box-shadow: 5px 5px 5px grey;
-}
-
-
-#image_6 {
-	position: absolute;
-    height: 30vw;
-	top: 460vh;
-	overflow: visible;	
-}
-
-#image_6_ombre {
-	top: 460vh;
-    height: 30vw;
-	position: absolute;
-    box-shadow: 5px 5px 5px grey;
-}
 
 
 #apropos {
@@ -203,7 +147,7 @@ p1{
     text-shadow: 1px 1px 1px grey;
 }
 
-#credit2 {
+#credit {
 	position: absolute;
 	width: 20vw;
 	left: 15vw;
@@ -213,59 +157,9 @@ p1{
 	color: black;
 }
 
-#credit3 {
-	position: absolute;
-	width: 20vw;
-	left: 15vw;
-    right: auto;
-	top: 260vh;
-	font-size: 2.5vh;
-	color: black;
-}
-
-#credittxt {
-	position: absolute;
-	width: 20vw;
-	left: 15vw;
-    right: auto;
-	top: 300vh;
-	font-size: 2.5vh;
-	color: black;
-}
-
-#credit4 {
-	position: absolute;
-	width: 20vw;
-	left: 15vw;
-    right: auto;
-	top: 380vh;
-	font-size: 2.5vh;
-	color: black;
-}
-
-#credit5 {
-	position: absolute;
-	width: 20vw;
-	left: 15vw;
-    right: auto;
-	top: 460vh;
-	font-size: 2.5vh;
-	color: black;
-}
-
-#credit {
-	position: absolute;
-	width: 20vw;
-	left: 15vw;
-    right: auto;
-	top: 540vh;
-	font-size: 2.5vh;
-	color: black;
-}
-
 #en {
 	right: 5vh;
-	bottom: 7.5vh;
+	bottom: 3vh;
 	position: fixed;
 	overflow: visible;
 	white-space: nowrap;
@@ -273,7 +167,6 @@ p1{
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 4vh;
-	color: black;
-    font-family: "signika_bold";
+	font-size: 7vh;
+	color: rgba(47,47,47,1);
 }

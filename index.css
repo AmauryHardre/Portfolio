@@ -9,21 +9,96 @@ html, body {
     src: url("typos/signika/Signika-Bold.ttf") format("truetype");
 }
 
-@font-face {
-    font-family: "signika_medium";
-    src: url("typos/signika/Signika-Medium.ttf") format("truetype");
+
+#date1 {
+	position: absolute;
+	left: 32.5vw;
+	top: 19vh;
+	font-size: 3.5vh;
+	color: black;
+    font-family: "signika_bold";
 }
 
-@font-face {
-    font-family: "signika";
-    src: url("typos/signika/Signika-Bold.ttf") format("truetype"),
-    url("typos/signika/Signika-Light.ttf") format("truetype"),
-    url("typos/signika/Signika-Medium.ttf") format("truetype"),
-    url("typos/signika/Signika-Regular.ttf") format("truetype"),
-    url("typos/signika/Signika-SemiBold.ttf") format("truetype");
+#date2 {
+	position: absolute;
+	left: 32.5vw;
+	top: 84vh;
+	font-size: 3.5vh;
+	color: black;
+    font-family: "signika_bold";
 }
 
+#date3 {
+	position: absolute;
+	left: 32.5vw;
+	top: 149vh;
+	font-size: 3.5vh;
+	color: black;
+    font-family: "signika_bold";
+}
 
+#date4 {
+	position: absolute;
+	left: 32.5vw;
+	top: 214vh;
+	font-size: 3.5vh;
+	color: black;
+    font-family: "signika_bold";
+}
+
+#date5 {
+	position: absolute;
+	left: 32.5vw;
+	top: 279vh;
+	font-size: 3.5vh;
+	color: black;
+    font-family: "signika_bold";
+}
+
+#date6 {
+	position: absolute;
+	left: 32.5vw;
+	top: 344vh;
+	font-size: 3.5vh;
+	color: black;
+    font-family: "signika_bold";
+}
+
+#date7 {
+	position: absolute;
+	left: 32.5vw;
+	top: 409vh;
+	font-size: 3.5vh;
+	color: black;
+    font-family: "signika_bold";
+}
+
+#date8 {
+	position: absolute;
+	left: 32.5vw;
+	top: 474vh;
+	font-size: 3.5vh;
+	color: black;
+    font-family: "signika_bold";
+}
+
+#date9 {
+	position: absolute;
+	left: 32.5vw;
+	top: 539vh;
+	font-size: 3.5vh;
+	color: black;
+    font-family: "signika_bold";
+}
+
+#date10 {
+	position: absolute;
+	left: 32.5vw;
+	top: 604vh;
+	font-size: 3.5vh;
+	color: black;
+    font-family: "signika_bold";
+}
 
 #image_1 {
 	position: absolute;
@@ -32,8 +107,7 @@ html, body {
 	top: 25vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
-    box-shadow: 5px 5px 5px grey;
-    
+    box-shadow: 5px 5px 5px grey;  
 }
 
 
@@ -172,7 +246,191 @@ html, body {
     box-shadow: 5px 5px 5px grey;
 }
 
-#image_9:hover{		
+#image_10:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#image_11 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 350vh;    	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_11:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#image_12 {
+	position: absolute;
+	height: 50vh;
+	right: 32.5vw;
+	top: 350vh;     	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_12:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#image_13 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 415vh;    	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_13:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#image_14 {
+	position: absolute;
+	height: 50vh;
+	right: 32.5vw;
+	top: 415vh;     	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_14:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+
+#image_15 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 480vh;    	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_15:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#image_16 {
+	position: absolute;
+	height: 50vh;
+	right: 32.5vw;
+	top: 480vh;     	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_16:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+
+#image_17 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 545vh;    	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_17:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#image_18 {
+	position: absolute;
+	height: 50vh;
+	right: 32.5vw;
+	top: 545vh;     	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_18:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+
+#image_19 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 610vh;    	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_19:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#image_20 {
+	position: absolute;
+	height: 50vh;
+	right: 32.5vw;
+	top: 610vh;     	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_20:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+
+#image_21 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 675vh;    	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_21:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#image_22 {
+	position: absolute;
+	height: 50vh;
+	right: 32.5vw;
+	top: 675vh;     	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_22:hover{		
     box-shadow: 10px 10px 10px grey;
     transition: 0.5s;
 }
@@ -182,9 +440,9 @@ html, body {
 	width: 20vw;
 	left: 40vw;
     right: auto;
-	margin-top: 350vh;
+	margin-top: 675vh;
 	font-size: 2.5vh;
-	color: rgba(47,47,47,1);
+	color: black;
 }
 
 #arbre_gauche {
@@ -197,10 +455,6 @@ html, body {
 	position: fixed;
 	height: 100vh;
 	right: 8vh;
-}
-
-p { 
-    font-size: 5vh;	
 }
 
 
@@ -224,7 +478,7 @@ p {
 	transition: 1s;
 }
 
-#services {
+#global {
 	left: 5vh;
 	bottom: 17.5vh;
 	position: fixed;
@@ -239,7 +493,7 @@ p {
     font-family: "signika_bold";
 }
 
-#services:hover{
+#global:hover{
     text-shadow: 1px 1px 1px grey;
 }
 
@@ -300,67 +554,7 @@ p {
     text-shadow: 1px 1px 1px grey;
 }
 
-
 #en {
-	right: 42.5vh;
-	bottom: 7.5vh;
-	position: fixed;
-	overflow: visible;
-	white-space: nowrap;
-	cursor: pointer;
-	text-align: left;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 4vh;
-	color: rgba(47,47,47,1);
-    font-family: "signika_bold";
-}
-
-#en:hover{
-    text-decoration: underline;
-}
-
-#es {
-	right: 35vh;
-	bottom: 7.5vh;
-	position: fixed;
-	overflow: visible;
-	white-space: nowrap;
-	cursor: pointer;
-	text-align: left;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 4vh;
-	color: rgba(47,47,47,1);
-    font-family: ;
-}
-
-#es:hover{
-	text-decoration: 0.3vh #264084 wavy underline;
-    font-family: "";
-}
-
-#de {
-	right: 27.5vh;
-	bottom: 7.5vh;
-	position: fixed;
-	overflow: visible;
-	white-space: nowrap;
-	cursor: pointer;
-	text-align: left;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 4vh;
-	color: rgba(47,47,47,1);
-    font-family: ;
-}
-
-#de:hover{
-	color: blue;
-    font-family: "";
-}
-
-#ru {
 	right: 5vh;
 	bottom: 7.5vh;
 	position: fixed;
@@ -375,37 +569,6 @@ p {
     font-family: "signika_bold";
 }
 
-#ru:hover{
+#en:hover{
     text-shadow: 1px 1px 1px grey;
-}
-
-
-#fr {
-	right: 5vh;
-	bottom: 3vh;
-	position: fixed;
-	overflow: visible;
-	white-space: nowrap;
-	cursor: pointer;
-	text-align: left;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 7vh;
-	color: rgba(47,47,47,1);
-}
-
-
-#fr:hover{
-	text-decoration: 0.3vh #264084 wavy underline;
-}
-
-
-
-#ah:hover{
-	text-decoration: 0.3vh #264084 wavy underline;
-    font-family: "loire_regular";
-}
-
-#autre:hover{
-	text-decoration: 0.3vh #264084 wavy underline;
 }
