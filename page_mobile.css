@@ -23,12 +23,11 @@ html, body {
 
 #texte_1 
 {
-	height: 40vh;
+	
 	margin-top: 10vh;
     margin-left: 2.5vh;
 	margin-right: auto;
 	position: relative;
-	margin-bottom: 65vh;
     width: 50vw;
 	color: black;
 }
@@ -120,12 +119,10 @@ p1{
 }
 
 #texte_2 {
-	height:40vh;
 	margin-top: 10vh;
 	margin-left: 2.5vh;
 	margin-right: 5vh;
 	position: relative;
-	margin-bottom: 10vh;
 	font-style: normal;
 	font-weight: normal;
 	color: black;
