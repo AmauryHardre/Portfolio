@@ -168,7 +168,72 @@ p1{
 
 #credit {
 	margin-left: 2.5vh;
-	margin-top: 10vh;
+	margin-top: 30vh;
+	position: relative;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 2vh;
+}
+
+#credit2 {
+	margin-left: 2.5vh;
+	margin-top: 30vh;
+	position: relative;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 2vh;
+}
+
+#credit3 {
+	margin-left: 2.5vh;
+	margin-top: 30vh;
+	position: relative;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 2vh;
+}
+
+#credit4 {
+	margin-left: 2.5vh;
+	margin-top: 30vh;
+	position: relative;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 2vh;
+}
+
+#credit5 {
+	margin-left: 2.5vh;
+	margin-top: 30vh;
+	position: relative;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 2vh;
+}
+
+#credittxt {
+	margin-left: 2.5vh;
+	margin-top: 30vh;
 	position: relative;
 	overflow: visible;
 	white-space: nowrap;
