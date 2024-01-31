@@ -440,10 +440,41 @@ html, body {
 	width: 20vw;
 	left: 40vw;
     right: auto;
-	margin-top: 675vh;
+	margin-top: 610vh;
 	font-size: 2.5vh;
 	color: black;
 }
+
+#creditglobal {
+	position: absolute;
+	width: 20vw;
+	left: 40vw;
+    right: auto;
+	margin-top: 350vh;
+	font-size: 2.5vh;
+	color: black;
+}
+
+#creditobjets {
+	position: absolute;
+	width: 20vw;
+	left: 40vw;
+    right: auto;
+	margin-top: 415vh;
+	font-size: 2.5vh;
+	color: black;
+}
+
+#creditjeux {
+	position: absolute;
+	width: 20vw;
+	left: 40vw;
+    right: auto;
+	margin-top: 155vh;
+	font-size: 2.5vh;
+	color: black;
+}
+
 
 #arbre_gauche {
 	position: fixed;
