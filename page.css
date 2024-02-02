@@ -143,7 +143,6 @@ p1{
 	position: absolute;
     height: 30vw;
 	overflow: visible;
-	margin-bottom: 10vh;
 	top: 300vh;
 }
 
@@ -206,7 +205,6 @@ p1{
 #credit2 {
 	position: absolute;
 	width: 20vw;
-	left: 15vw;
     right: auto;
 	top: 180vh;
 	font-size: 2.5vh;
@@ -216,7 +214,6 @@ p1{
 #credit3 {
 	position: absolute;
 	width: 20vw;
-	left: 15vw;
     right: auto;
 	top: 260vh;
 	font-size: 2.5vh;
@@ -226,7 +223,6 @@ p1{
 #credittxt {
 	position: absolute;
 	width: 20vw;
-	left: 15vw;
     right: auto;
 	top: 300vh;
 	font-size: 2.5vh;
@@ -236,7 +232,6 @@ p1{
 #credit4 {
 	position: absolute;
 	width: 20vw;
-	left: 15vw;
     right: auto;
 	top: 380vh;
 	font-size: 2.5vh;
@@ -246,7 +241,6 @@ p1{
 #credit5 {
 	position: absolute;
 	width: 20vw;
-	left: 15vw;
     right: auto;
 	top: 460vh;
 	font-size: 2.5vh;
@@ -256,7 +250,6 @@ p1{
 #credit {
 	position: absolute;
 	width: 20vw;
-	left: 15vw;
     right: auto;
 	top: 540vh;
 	font-size: 2.5vh;
