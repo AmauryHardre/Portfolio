@@ -28,7 +28,7 @@ html, body {
     margin-left: 2.5vh;
 	margin-right: auto;
 	position: relative;
-    width: 50vw;
+    width: 57.5vw;
 	color: black;
 }
 
@@ -127,7 +127,7 @@ p1{
 	font-weight: normal;
 	color: black;
 	font-size: 2.5vh;
-    width: 50vw;
+    width: 57.5vw;
 }
 
 #image_5 {
@@ -258,7 +258,7 @@ p1{
 
 
 #arbre_droite {
-	right: -25vh;
+	right: -27.5vh;
     top: 0;
 	height: 100vh;
 	position: fixed;

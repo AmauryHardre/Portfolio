@@ -17,6 +17,26 @@ html, body {
 	right: 8vh;
 }
 
+#soleil_1 {
+    left: 2.5vh;
+	top: 2.5vh;
+	position: fixed;
+	height: 20vh;
+}
+
+#soleil_2 {
+    left: 2.5vh;
+	top: 2.5vh;
+	position: fixed;
+	height: 20vh;
+    opacity: 0;
+	transition: 1s;
+}
+#soleil_2:hover{
+	opacity: 100;
+	transition: 1s;
+}
+
 #profil {
 	position: fixed;
 	width: auto;
@@ -150,26 +170,6 @@ p3 {
 	top: 0;
 	font-size: 2.25vmin;
 	margin-right: 2vw
-}
-
-#soleil_1 {
-    left: 2.5vh;
-	top: 2.5vh;
-	position: fixed;
-	height: 20vh;
-}
-
-#soleil_2 {
-    left: 2.5vh;
-	top: 2.5vh;
-	position: fixed;
-	height: 20vh;
-    opacity: 0;
-	transition: 1s;
-}
-#soleil_2:hover{
-	opacity: 100;
-	transition: 1s;
 }
 
 #en {

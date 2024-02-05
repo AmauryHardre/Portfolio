@@ -18,11 +18,12 @@
 
 #a_propos 
 {
-	height:40vh;
+	
 	margin-top: 10vh;
 	margin-left: 5vh;
+    margin-bottom: 10vh;
 	position: relative;
-    width: 50vw;
+    width: 57.5vw;
 	color: black;
 }
 h1{
@@ -39,16 +40,16 @@ p{
 	font-style: normal;
 	font-weight: normal;
 	top: 0;
-	font-size: 3vh;
+	font-size: 2.5vh;
 	margin-right: 5vh;
 }
 
 #coordonnees {
-	height:40vh;
 	margin-top: 0vh;
 	margin-left: 5vh;
+    margin-bottom: 10vh;
 	position: relative;
-    width: 50vw;
+    width: 57.5vw;
 	color: black;
 }
 
@@ -67,17 +68,16 @@ p1{
 	font-style: normal;
 	font-weight: normal;
 	top: 0;
-	font-size: 3vh;
+	font-size: 2.5vh;
 	margin-right: 5vh;
 }
 
 #prix {
-	height:40vh;
 	margin-top: 0vh;
 	margin-left: 5vh;
-	margin-right: 5vh;
+    margin-bottom: 10vh;
 	position: relative;
-    width: 50vw;
+    width: 57.5vw;
 	color: black;
 }
 
@@ -96,17 +96,16 @@ p2{
 	font-style: normal;
 	font-weight: normal;
 	top: 0;
-	font-size: 3vh;
+	font-size: 2.5vh;
 	margin-right: 5vh;
 }
 
 #experience {
-	height:40vh;
 	margin-top: 0vh;
 	margin-left: 5vh;
-	margin-right: 5vh;
+    margin-bottom: 10vh;
 	position: relative;
-    width: 50vw;
+    width: 57.5vw;
 	color: black;
 }
 
@@ -125,7 +124,7 @@ p3{
 	font-style: normal;
 	font-weight: normal;
 	top: 0;
-	font-size: 3vh;
+	font-size: 2.5vh;
 	margin-right: 5vh;
 }
 
@@ -143,19 +142,15 @@ p3{
 }
 
 #soleil_1 {
-    left: 2.5vh;
-	top: 2.5vh;
-	position: fixed;
-	height: 20vh;
+	opacity: 0;
+    height: 0px;
 }
 
 #soleil_2 {
-    left: 2.5vh;
-	top: 2.5vh;
+	left: 2vh;
+	top: 2vh;
+    height: 15vh;
 	position: fixed;
-	height: 20vh;
-    opacity: 0;
-	transition: 1s;
 }
 
 
