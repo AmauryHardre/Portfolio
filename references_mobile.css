@@ -1,0 +1,1211 @@
+*{  margin: 0;
+  padding: 0;}
+html, body {
+  width: auto;
+}
+
+@font-face {
+    font-family: "signika_bold";
+    src: url("typos/signika/Signika-Bold.ttf") format("truetype");
+}
+
+#date1 {
+	opacity: 0;
+}
+
+#date2 {
+	opacity: 0;
+}
+
+#date3 {
+	opacity: 0;
+}
+
+#date4 {
+	opacity: 0;
+}
+
+#date5 {
+	opacity: 0;
+}
+
+#date6 {
+	opacity: 0;
+}
+
+#date7 {
+	opacity: 0;
+}
+
+#date8 {
+	opacity: 0;
+}
+
+#date9 {
+	opacity: 0;
+}
+
+#date10 {
+	opacity: 0;
+}
+
+#references
+{
+	display: block;
+    text-align: right;
+    margin-top: 10vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+h1{
+	font-size: 5vh;
+	font-style: normal;
+	font-weight: normal;
+    font-family: "signika_bold";
+}
+
+p1{
+	position: relative;
+	overflow: visible;
+	font-style: normal;
+	font-weight: normal;
+	top: 0;
+	font-size: 2.5vh;
+}
+
+#cinema
+{
+	display: block;
+    text-align: right;
+    margin-top: 10vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+	font-size: 5vh;
+	font-style: normal;
+	font-weight: normal;
+    font-family: "signika_bold";
+}
+
+
+#image_1 {
+	display: block;
+    margin-left: auto;
+	margin-right: 2.5vh;
+    height: 70vh;
+	margin-top: 10vh; 
+    box-shadow: 5px 5px 5px grey;
+}
+
+#titre1
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+h2{
+	font-size: 4vh;
+	font-style: normal;
+	font-weight: normal;
+    font-family: "signika_bold";
+}
+
+
+
+#image_2 {	
+    display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh; 
+    box-shadow: 5px 5px 5px grey;
+}
+
+#titre2
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_3 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;  
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre3
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_4 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;  
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre4
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_5 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;   
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre5
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_6 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;  
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre6
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_7 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;  
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre7
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_8 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;  
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre8
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+#musique
+{
+	display: block;
+    text-align: right;
+    margin-top: 10vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+	font-size: 5vh;
+	font-style: normal;
+	font-weight: normal;
+    font-family: "signika_bold";
+}
+
+
+#image_9 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;   
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre9
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_10 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;  
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre10
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_11 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;  
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre11
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+#image_12 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;  
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre12
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_13 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh; 
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre13
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_14 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;  
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre14
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_15 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;  
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre15
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_16 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh; 
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre16
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_17 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;    
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre17
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_18 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;  
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre18
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_19 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;   
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre19
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_20 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;   
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre20
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_21 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;  	
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre21
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_22 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;  
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre22
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+#livre
+{
+	display: block;
+    text-align: right;
+    margin-top: 10vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+	font-size: 5vh;
+	font-style: normal;
+	font-weight: normal;
+    font-family: "signika_bold";
+}
+
+
+#image_23 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;  
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre23
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_24 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;  
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre24
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_25 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre25
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_26 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre26
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_27 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre27
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_28 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre28
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+#peinture
+{
+	display: block;
+    text-align: right;
+    margin-top: 10vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+	font-size: 5vh;
+	font-style: normal;
+	font-weight: normal;
+    font-family: "signika_bold";
+}
+
+
+#image_29 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre29
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_30 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre30
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_31 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre31
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_32 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre32
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_33 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre33
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_34 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre34
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_35 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre35
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_36 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre36
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+#jeu
+{
+	display: block;
+    text-align: right;
+    margin-top: 10vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+	font-size: 5vh;
+	font-style: normal;
+	font-weight: normal;
+    font-family: "signika_bold";
+}
+
+
+#image_37 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre37
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_38 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre38
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_39 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh; 
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre39
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+
+#image_40 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:70vh;
+	margin-top: 15vh;
+    box-shadow: 5px 5px 5px grey;	
+}
+
+#titre40
+{
+	display: block;
+    text-align: right;
+    margin-top: 5vh;
+	margin-left: auto;
+    margin-right: 2.5vh;
+	position: relative;
+    width: 57.5vw;
+	color: black;
+}
+
+#soleil_1 {
+	opacity: 0;
+    height: 0px;
+}
+
+#soleil_2 {
+	left: 2vh;
+	top: 2vh;
+    height: 15vh;
+	position: fixed;
+}
+
+#arbre_gauche {
+	left: -27.5vh;
+	height: 100vh;
+	position: fixed;
+    top: 0;
+}
+
+#arbre_droite {
+	opacity: 0;
+    height: 0px;
+}
+
+#apropos {
+	right: 2.5vh;
+	top: 2.5vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: black;
+    font-family: "signika_bold";
+    text-shadow: 1px 1px 1px white;
+}
+
+#index_references {
+	left: 4vh;
+	bottom: 26vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: black;
+    font-family: "signika_bold";
+    text-shadow: 2px 2px 2px white;
+}
+
+#index_cinema {
+	left: 4vh;
+	bottom: 20vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: black;
+    font-family: "signika_bold";
+    text-shadow: 2px 2px 2px white;
+}
+
+#index_musique {
+	left: 4vh;
+	bottom: 16vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: black;
+    font-family: "signika_bold";
+    text-shadow: 2px 2px 2px white;
+}
+
+#index_livre {
+	left: 4vh;
+	bottom: 12vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: black;
+    font-family: "signika_bold";
+    text-shadow: 2px 2px 2px white;
+}
+
+#index_peinture {
+	left: 4vh;
+	bottom: 8vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: black;
+    font-family: "signika_bold";
+    text-shadow: 2px 2px 2px white;
+}
+
+#index_jeu {
+	left: 4vh;
+	bottom: 4vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: black;
+    font-family: "signika_bold";
+    text-shadow: 2px 2px 2px white;
+}
+
+#en {
+	right: 2.5vh;
+	bottom: 4vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: black;
+    font-family: "signika_bold";
+    text-shadow: 1px 1px 1px white;
+}
+
+
+#credit {
+	margin-right: 5vh;
+	margin-top: 10vh;
+	display: block;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 2vh;
+}

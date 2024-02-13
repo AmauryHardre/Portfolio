@@ -1,0 +1,1200 @@
+*{  margin: 0;
+  padding: 0;}
+html, body {
+  height: 100vh;
+}
+
+@font-face {
+    font-family: "signika_bold";
+    src: url("typos/signika/Signika-Bold.ttf") format("truetype");
+}
+
+
+#references {
+	position: absolute;
+	left: 32.5vw;
+	top: 19vh;
+    width: 35vw;
+	overflow: auto;
+	color: black;
+}
+
+h1{
+	font-size: 3.5vh;
+	font-style: normal;
+	font-weight: normal;
+	text-align: left;
+    font-family: "signika_bold";
+}
+
+
+p1 {
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 2.5vmin;
+}
+
+h2{
+	font-size: 2.5vh;
+	font-style: normal;
+	font-weight: normal;
+	text-align: left;
+    font-family: "signika_bold";
+}
+
+#cinema {
+	position: absolute;
+	left: 32.5vw;
+	top: 42.5vh;
+	font-size: 3.5vh;
+	color: black;
+    font-family: "signika_bold";
+}
+
+#image_1 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 50vh;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_1:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre1 {
+	position: absolute;
+	left: 32.5vw;
+	top: 105vh;
+    width: 32.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_2 {
+	position: absolute;
+	height: 50vh;
+	right: 33vw;
+	top: 50vh;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_2:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre2 {
+	position: absolute;
+	left: 52.5vw;
+	top: 105vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_3 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 120vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_3:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre3 {
+	position: absolute;
+	left: 32.5vw;
+	top: 175vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_4 {
+	position: absolute;
+	height: 50vh;
+	left: 52.5vw;
+	top: 120vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_4:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre4 {
+	position: absolute;
+	left: 52.5vw;
+	top: 175vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_5 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 190vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_5:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre5 {
+	position: absolute;
+	left: 32.5vw;
+	top: 245vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_6 {
+	position: absolute;
+	height: 50vh;
+	left: 52.5vw;
+	top: 190vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_6:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre6 {
+	position: absolute;
+	left: 52.5vw;
+	top: 245vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_7 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 260vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_7:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre7 {
+	position: absolute;
+	left: 32.5vw;
+	top: 315vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_8 {
+	position: absolute;
+	height: 50vh;
+	left: 52.5vw;
+	top: 260vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_8:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre8 {
+	position: absolute;
+	left: 52.5vw;
+	top: 315vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#musique {
+	position: absolute;
+	left: 32.5vw;
+	top: 337.5vh;
+	font-size: 3.5vh;
+	color: black;
+    font-family: "signika_bold";
+}
+
+#image_9 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 345vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_9:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre9 {
+	position: absolute;
+	left: 32.5vw;
+	top: 400vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_10 {
+	position: absolute;
+	height: 50vh;
+	left: 52.5vw;
+	top: 345vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_10:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre10 {
+	position: absolute;
+	left: 52.5vw;
+	top: 400vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_11 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 415vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_11:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre11 {
+	position: absolute;
+	left: 32.5vw;
+	top: 470vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_12 {
+	position: absolute;
+	height: 50vh;
+	left: 52.5vw;
+	top: 415vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_12:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre12 {
+	position: absolute;
+	left: 52.5vw;
+	top: 470vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_13 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 485vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_13:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre13 {
+	position: absolute;
+	left: 32.5vw;
+	top: 540vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_14 {
+	position: absolute;
+	height: 50vh;
+	left: 52.5vw;
+	top: 485vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_14:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre14 {
+	position: absolute;
+	left: 52.5vw;
+	top: 540vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_15 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 555vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_15:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre15 {
+	position: absolute;
+	left: 32.5vw;
+	top: 610vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_16 {
+	position: absolute;
+	height: 50vh;
+	left: 52.5vw;
+	top: 555vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_16:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre16 {
+	position: absolute;
+	left: 52.5vw;
+	top: 610vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_17 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 625vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_17:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre17 {
+	position: absolute;
+	left: 32.5vw;
+	top: 680vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_18 {
+	position: absolute;
+	height: 50vh;
+	left: 52.5vw;
+	top: 625vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_18:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre18 {
+	position: absolute;
+	left: 52.5vw;
+	top: 680vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_19 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 695vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_19:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre19 {
+	position: absolute;
+	left: 32.5vw;
+	top: 750vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_20 {
+	position: absolute;
+	height: 50vh;
+	left: 52.5vw;
+	top: 695vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_20:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre20 {
+	position: absolute;
+	left: 52.5vw;
+	top: 750vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_21 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 765vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_21:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre21 {
+	position: absolute;
+	left: 32.5vw;
+	top: 820vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#livre {
+	position: absolute;
+	left: 32.5vw;
+	top: 842.5vh;
+	font-size: 3.5vh;
+	color: black;
+    font-family: "signika_bold";
+}
+
+#image_23 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 850vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_23:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre23 {
+	position: absolute;
+	left: 32.5vw;
+	top: 905vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_24 {
+	position: absolute;
+	height: 50vh;
+	left: 52.5vw;
+	top: 850vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_24:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre24 {
+	position: absolute;
+	left: 52.5vw;
+	top: 905vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_25 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 920vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_25:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre25 {
+	position: absolute;
+	left: 32.5vw;
+	top: 975vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_26 {
+	position: absolute;
+	height: 50vh;
+	left: 52.5vw;
+	top: 920vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_26:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre26 {
+	position: absolute;
+	left: 52.5vw;
+	top: 975vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_27 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 990vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_27:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre27 {
+	position: absolute;
+	left: 32.5vw;
+	top: 1045vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#peinture {
+	position: absolute;
+	left: 32.5vw;
+	top: 1062.5vh;
+	font-size: 3.5vh;
+	color: black;
+    font-family: "signika_bold";
+}
+
+#image_29 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 1070vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_29:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre29 {
+	position: absolute;
+	left: 32.5vw;
+	top: 1125vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_30 {
+	position: absolute;
+	height: 50vh;
+	left: 52.5vw;
+	top: 1070vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_30:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre30 {
+	position: absolute;
+	left: 52.5vw;
+	top: 1125vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_31 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 1140vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_31:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre31 {
+	position: absolute;
+	left: 32.5vw;
+	top: 1195vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_32 {
+	position: absolute;
+	height: 50vh;
+	left: 52.5vw;
+	top: 1140vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_32:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre32 {
+	position: absolute;
+	left: 52.5vw;
+	top: 1195vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_33 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 1210vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_33:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre33 {
+	position: absolute;
+	left: 32.5vw;
+	top: 1265vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_34 {
+	position: absolute;
+	height: 50vh;
+	left: 52.5vw;
+	top: 1210vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_34:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre34 {
+	position: absolute;
+	left: 52.5vw;
+	top: 1265vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_35 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 1280vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_35:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre35 {
+	position: absolute;
+	left: 32.5vw;
+	top: 1335vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_36 {
+	position: absolute;
+	height: 50vh;
+	left: 52.5vw;
+	top: 1280vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_36:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre36 {
+	position: absolute;
+	left: 52.5vw;
+	top: 1335vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#jeu {
+	position: absolute;
+	left: 32.5vw;
+	top: 1357.5vh;
+	font-size: 3.5vh;
+	color: black;
+    font-family: "signika_bold";
+}
+
+#image_37 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 1365vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_37:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre37 {
+	position: absolute;
+	left: 32.5vw;
+	top: 1420vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_38 {
+	position: absolute;
+	height: 50vh;
+	left: 52.5vw;
+	top: 1365vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_38:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre38 {
+	position: absolute;
+	left: 52.5vw;
+	top: 1420vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_39 {
+	position: absolute;
+	height: 50vh;
+	left: 32.5vw;
+	top: 1435vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_39:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre39 {
+	position: absolute;
+	left: 32.5vw;
+	top: 1490vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#image_40 {
+	position: absolute;
+	height: 50vh;
+	left: 52.5vw;
+	top: 1435vh;
+    transition: 0.5s;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#image_40:hover{		
+    box-shadow: 10px 10px 10px grey;
+    transition: 0.5s;
+}
+
+#titre40 {
+	position: absolute;
+	left: 52.5vw;
+	top: 1490vh;
+    width: 17.5vw;
+	overflow: auto;
+	color: black;
+}
+
+#credit {
+	position: absolute;
+	width: 20vw;
+	left: 40vw;
+    right: auto;
+	top: 1510vh;
+	font-size: 2.5vh;
+	color: black;
+}
+
+#credit_cinema {
+	position: absolute;
+	width: 20vw;
+	left: 40vw;
+    right: auto;
+	top: 335vh;
+	font-size: 2.5vh;
+	color: black;
+}
+
+#credit_musique {
+	position: absolute;
+	width: 20vw;
+	left: 40vw;
+    right: auto;
+	top: 560vh;
+	font-size: 2.5vh;
+	color: black;
+}
+
+#credit_livre {
+	position: absolute;
+	width: 20vw;
+	left: 40vw;
+    right: auto;
+	top: 265vh;
+	font-size: 2.5vh;
+	color: black;
+}
+
+#credit_jeu {
+	position: absolute;
+	width: 20vw;
+	left: 40vw;
+    right: auto;
+	top: 195vh;
+	font-size: 2.5vh;
+	color: black;
+}
+
+#arbre_gauche {
+	position: fixed;
+	height: 100vh;
+	left: 8vh;
+}
+
+#arbre_droite {
+	position: fixed;
+	height: 100vh;
+	right: 8vh;
+}
+
+p { 
+    font-size: 5vh;	
+}
+
+
+#soleil_1 {
+    left: 2.5vh;
+	top: 2.5vh;
+	position: fixed;
+	height: 20vh;
+}
+
+#soleil_2 {
+    left: 2.5vh;
+	top: 2.5vh;
+	position: fixed;
+	height: 20vh;
+    opacity: 0;
+	transition: 1s;
+}
+#soleil_2:hover{
+	opacity: 100;
+	transition: 1s;
+}
+
+#index_references {
+	left: 5vh;
+	bottom: 37.5vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: black;
+    font-family: "signika_bold";
+}
+
+#index_references:hover{
+    text-shadow: 1px 1px 1px grey;
+}
+
+#index_cinema {
+	left: 5vh;
+	bottom: 27.5vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: black;
+    font-family: "signika_bold";
+}
+
+#index_cinema:hover{
+    text-shadow: 1px 1px 1px grey;
+}
+
+#index_musique {
+	left: 5vh;
+	bottom: 22.5vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: black;
+    font-family: "signika_bold";
+}
+
+#index_musique:hover{
+    text-shadow: 1px 1px 1px grey;
+}
+
+#index_livre {
+	left: 5vh;
+	bottom: 17.5vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: black;
+    font-family: "signika_bold";
+}
+
+#index_livre:hover{
+    text-shadow: 1px 1px 1px grey;
+}
+
+#index_peinture {
+	left: 5vh;
+	bottom: 12.5vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: black;
+    font-family: "signika_bold";
+}
+
+#index_peinture:hover{
+    text-shadow: 1px 1px 1px grey;
+}
+
+#index_jeu {
+	left: 5vh;
+	bottom: 7.5vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: black;
+    font-family: "signika_bold";
+}
+
+#index_jeu:hover{
+    text-shadow: 1px 1px 1px grey;
+}
+
+#apropos {
+	right: 5vh;
+	top: 7.5vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: black;
+    font-family: "signika_bold";
+}
+
+#apropos:hover{
+    text-shadow: 1px 1px 1px grey;
+}
+
+#en {
+	right: 5vh;
+	bottom: 7.5vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: black;  
+    font-family: "signika_bold";
+}
+
+#en:hover{
+    text-shadow: 1px 1px 1px grey;
+}

@@ -161,6 +161,22 @@ p3{
     top: 0;
 }
 
+#references {
+	right: 2.5vh;
+	top: 2.5vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: black;
+    font-family: "signika_bold";
+    text-shadow: 1px 1px 1px white;
+}
+
 
 #en {
 	right: 5vh;
