@@ -12,7 +12,7 @@ html, body {
 
 #references {
 	position: absolute;
-	left: 32.5vw;
+	left: 35vw;
 	top: 19vh;
     width: 35vw;
 	overflow: auto;
@@ -20,7 +20,7 @@ html, body {
 }
 
 h1{
-	font-size: 3.5vh;
+	font-size: 3vh;
 	font-style: normal;
 	font-weight: normal;
 	text-align: left;
@@ -32,11 +32,11 @@ p1 {
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 2.5vmin;
+	font-size: 2vmin;
 }
 
 h2{
-	font-size: 2.5vh;
+	font-size: 2vh;
 	font-style: normal;
 	font-weight: normal;
 	text-align: left;
@@ -45,17 +45,17 @@ h2{
 
 #cinema {
 	position: absolute;
-	left: 32.5vw;
+	left: 35vw;
 	top: 42.5vh;
-	font-size: 3.5vh;
+	font-size: 3vh;
 	color: black;
     font-family: "signika_bold";
 }
 
 #image_1 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
+	height: 40vh;
+	left: 35vw;
 	top: 50vh;
     box-shadow: 5px 5px 5px grey;
 }
@@ -67,8 +67,8 @@ h2{
 
 #titre1 {
 	position: absolute;
-	left: 32.5vw;
-	top: 105vh;
+	left: 35vw;
+	top: 95vh;
     width: 32.5vw;
 	overflow: auto;
 	color: black;
@@ -76,8 +76,8 @@ h2{
 
 #image_2 {
 	position: absolute;
-	height: 50vh;
-	right: 33vw;
+	height: 40vh;
+	left: 51.75vw;
 	top: 50vh;
     box-shadow: 5px 5px 5px grey;
 }
@@ -89,8 +89,8 @@ h2{
 
 #titre2 {
 	position: absolute;
-	left: 52.5vw;
-	top: 105vh;
+	left: 51.75vw;
+	top: 95vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -98,9 +98,9 @@ h2{
 
 #image_3 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
-	top: 120vh;
+	height: 40vh;
+	left: 35vw;
+	top: 110vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -112,8 +112,8 @@ h2{
 
 #titre3 {
 	position: absolute;
-	left: 32.5vw;
-	top: 175vh;
+	left: 35vw;
+	top: 155vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -121,9 +121,9 @@ h2{
 
 #image_4 {
 	position: absolute;
-	height: 50vh;
-	left: 52.5vw;
-	top: 120vh;
+	height: 40vh;
+	left: 51.75vw;
+	top: 110vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -135,8 +135,8 @@ h2{
 
 #titre4 {
 	position: absolute;
-	left: 52.5vw;
-	top: 175vh;
+	left: 51.75vw;
+	top: 155vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -144,9 +144,9 @@ h2{
 
 #image_5 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
-	top: 190vh;
+	height: 40vh;
+	left: 35vw;
+	top: 170vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -158,8 +158,8 @@ h2{
 
 #titre5 {
 	position: absolute;
-	left: 32.5vw;
-	top: 245vh;
+	left: 35vw;
+	top: 215vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -167,9 +167,9 @@ h2{
 
 #image_6 {
 	position: absolute;
-	height: 50vh;
-	left: 52.5vw;
-	top: 190vh;
+	height: 40vh;
+	left: 51.75vw;
+	top: 170vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -182,7 +182,7 @@ h2{
 #titre6 {
 	position: absolute;
 	left: 52.5vw;
-	top: 245vh;
+	top: 215vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -190,9 +190,9 @@ h2{
 
 #image_7 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
-	top: 260vh;
+	height: 40vh;
+	left: 35vw;
+	top: 230vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -204,8 +204,8 @@ h2{
 
 #titre7 {
 	position: absolute;
-	left: 32.5vw;
-	top: 315vh;
+	left: 35vw;
+	top: 275vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -213,9 +213,9 @@ h2{
 
 #image_8 {
 	position: absolute;
-	height: 50vh;
-	left: 52.5vw;
-	top: 260vh;
+	height: 40vh;
+	left: 51.75vw;
+	top: 230vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -228,7 +228,7 @@ h2{
 #titre8 {
 	position: absolute;
 	left: 52.5vw;
-	top: 315vh;
+	top: 275vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -236,8 +236,8 @@ h2{
 
 #musique {
 	position: absolute;
-	left: 32.5vw;
-	top: 337.5vh;
+	left: 35vw;
+	top: 292.5vh;
 	font-size: 3.5vh;
 	color: black;
     font-family: "signika_bold";
@@ -245,9 +245,9 @@ h2{
 
 #image_9 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
-	top: 345vh;
+	height: 40vh;
+	left: 35vw;
+	top: 300vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -259,8 +259,8 @@ h2{
 
 #titre9 {
 	position: absolute;
-	left: 32.5vw;
-	top: 400vh;
+	left: 35vw;
+	top: 345vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -268,9 +268,9 @@ h2{
 
 #image_10 {
 	position: absolute;
-	height: 50vh;
-	left: 52.5vw;
-	top: 345vh;
+	height: 40vh;
+	left: 51.75vw;
+	top: 300vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -283,7 +283,7 @@ h2{
 #titre10 {
 	position: absolute;
 	left: 52.5vw;
-	top: 400vh;
+	top: 345vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -291,9 +291,9 @@ h2{
 
 #image_11 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
-	top: 415vh;
+	height: 40vh;
+	left: 35vw;
+	top: 360vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -305,8 +305,8 @@ h2{
 
 #titre11 {
 	position: absolute;
-	left: 32.5vw;
-	top: 470vh;
+	left: 35vw;
+	top: 405vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -314,9 +314,9 @@ h2{
 
 #image_12 {
 	position: absolute;
-	height: 50vh;
-	left: 52.5vw;
-	top: 415vh;
+	height: 40vh;
+	left: 51.75vw;
+	top: 360vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -329,7 +329,7 @@ h2{
 #titre12 {
 	position: absolute;
 	left: 52.5vw;
-	top: 470vh;
+	top: 405vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -337,9 +337,9 @@ h2{
 
 #image_13 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
-	top: 485vh;
+	height: 40vh;
+	left: 35vw;
+	top: 420vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -351,8 +351,8 @@ h2{
 
 #titre13 {
 	position: absolute;
-	left: 32.5vw;
-	top: 540vh;
+	left: 35vw;
+	top: 465vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -360,9 +360,9 @@ h2{
 
 #image_14 {
 	position: absolute;
-	height: 50vh;
-	left: 52.5vw;
-	top: 485vh;
+	height: 40vh;
+	left: 51.75vw;
+	top: 420vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -375,7 +375,7 @@ h2{
 #titre14 {
 	position: absolute;
 	left: 52.5vw;
-	top: 540vh;
+	top: 465vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -383,9 +383,9 @@ h2{
 
 #image_15 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
-	top: 555vh;
+	height: 40vh;
+	left: 35vw;
+	top: 480vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -397,8 +397,8 @@ h2{
 
 #titre15 {
 	position: absolute;
-	left: 32.5vw;
-	top: 610vh;
+	left: 35vw;
+	top: 525vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -406,9 +406,9 @@ h2{
 
 #image_16 {
 	position: absolute;
-	height: 50vh;
-	left: 52.5vw;
-	top: 555vh;
+	height: 40vh;
+	left: 51.75vw;
+	top: 480vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -421,7 +421,7 @@ h2{
 #titre16 {
 	position: absolute;
 	left: 52.5vw;
-	top: 610vh;
+	top: 525vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -429,9 +429,9 @@ h2{
 
 #image_17 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
-	top: 625vh;
+	height: 40vh;
+	left: 35vw;
+	top: 540vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -443,8 +443,8 @@ h2{
 
 #titre17 {
 	position: absolute;
-	left: 32.5vw;
-	top: 680vh;
+	left: 35vw;
+	top: 585vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -452,9 +452,9 @@ h2{
 
 #image_18 {
 	position: absolute;
-	height: 50vh;
-	left: 52.5vw;
-	top: 625vh;
+	height: 40vh;
+	left: 51.75vw;
+	top: 540vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -467,7 +467,7 @@ h2{
 #titre18 {
 	position: absolute;
 	left: 52.5vw;
-	top: 680vh;
+	top: 585vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -475,9 +475,9 @@ h2{
 
 #image_19 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
-	top: 695vh;
+	height: 40vh;
+	left: 35vw;
+	top: 600vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -489,8 +489,8 @@ h2{
 
 #titre19 {
 	position: absolute;
-	left: 32.5vw;
-	top: 750vh;
+	left: 35vw;
+	top: 645vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -498,9 +498,9 @@ h2{
 
 #image_20 {
 	position: absolute;
-	height: 50vh;
-	left: 52.5vw;
-	top: 695vh;
+	height: 40vh;
+	left: 51.75vw;
+	top: 600vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -513,7 +513,7 @@ h2{
 #titre20 {
 	position: absolute;
 	left: 52.5vw;
-	top: 750vh;
+	top: 645vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -521,9 +521,9 @@ h2{
 
 #image_21 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
-	top: 765vh;
+	height: 40vh;
+	left: 35vw;
+	top: 660vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -535,8 +535,8 @@ h2{
 
 #titre21 {
 	position: absolute;
-	left: 32.5vw;
-	top: 820vh;
+	left: 35vw;
+	top: 705vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -544,8 +544,8 @@ h2{
 
 #livre {
 	position: absolute;
-	left: 32.5vw;
-	top: 842.5vh;
+	left: 35vw;
+	top: 722.5vh;
 	font-size: 3.5vh;
 	color: black;
     font-family: "signika_bold";
@@ -553,9 +553,9 @@ h2{
 
 #image_23 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
-	top: 850vh;
+	height: 40vh;
+	left: 35vw;
+	top: 730vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -567,8 +567,8 @@ h2{
 
 #titre23 {
 	position: absolute;
-	left: 32.5vw;
-	top: 905vh;
+	left: 35vw;
+	top: 775vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -576,9 +576,9 @@ h2{
 
 #image_24 {
 	position: absolute;
-	height: 50vh;
-	left: 52.5vw;
-	top: 850vh;
+	height: 40vh;
+	left: 51.75vw;
+	top: 730vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -591,7 +591,7 @@ h2{
 #titre24 {
 	position: absolute;
 	left: 52.5vw;
-	top: 905vh;
+	top: 775vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -599,9 +599,9 @@ h2{
 
 #image_25 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
-	top: 920vh;
+	height: 40vh;
+	left: 35vw;
+	top: 790vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -613,8 +613,8 @@ h2{
 
 #titre25 {
 	position: absolute;
-	left: 32.5vw;
-	top: 975vh;
+	left: 35vw;
+	top: 835vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -622,9 +622,9 @@ h2{
 
 #image_26 {
 	position: absolute;
-	height: 50vh;
-	left: 52.5vw;
-	top: 920vh;
+	height: 40vh;
+	left: 51.75vw;
+	top: 790vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -637,7 +637,7 @@ h2{
 #titre26 {
 	position: absolute;
 	left: 52.5vw;
-	top: 975vh;
+	top: 835vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -645,9 +645,9 @@ h2{
 
 #image_27 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
-	top: 990vh;
+	height: 40vh;
+	left: 35vw;
+	top: 850vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -659,8 +659,8 @@ h2{
 
 #titre27 {
 	position: absolute;
-	left: 32.5vw;
-	top: 1045vh;
+	left: 35vw;
+	top: 895vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -668,8 +668,8 @@ h2{
 
 #peinture {
 	position: absolute;
-	left: 32.5vw;
-	top: 1062.5vh;
+	left: 35vw;
+	top: 912.5vh;
 	font-size: 3.5vh;
 	color: black;
     font-family: "signika_bold";
@@ -677,9 +677,9 @@ h2{
 
 #image_29 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
-	top: 1070vh;
+	height: 40vh;
+	left: 35vw;
+	top: 920vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -691,8 +691,8 @@ h2{
 
 #titre29 {
 	position: absolute;
-	left: 32.5vw;
-	top: 1125vh;
+	left: 35vw;
+	top: 965vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -700,9 +700,9 @@ h2{
 
 #image_30 {
 	position: absolute;
-	height: 50vh;
-	left: 52.5vw;
-	top: 1070vh;
+	height: 40vh;
+	left: 51.75vw;
+	top: 920vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -714,8 +714,8 @@ h2{
 
 #titre30 {
 	position: absolute;
-	left: 52.5vw;
-	top: 1125vh;
+	left: 51.75vw;
+	top: 965vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -723,9 +723,9 @@ h2{
 
 #image_31 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
-	top: 1140vh;
+	height: 40vh;
+	left: 35vw;
+	top: 980vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -737,8 +737,8 @@ h2{
 
 #titre31 {
 	position: absolute;
-	left: 32.5vw;
-	top: 1195vh;
+	left: 35vw;
+	top: 1025vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -746,9 +746,9 @@ h2{
 
 #image_32 {
 	position: absolute;
-	height: 50vh;
-	left: 52.5vw;
-	top: 1140vh;
+	height: 40vh;
+	left: 51.75vw;
+	top: 980vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -760,8 +760,8 @@ h2{
 
 #titre32 {
 	position: absolute;
-	left: 52.5vw;
-	top: 1195vh;
+	left: 51.75vw;
+	top: 1025vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -769,9 +769,9 @@ h2{
 
 #image_33 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
-	top: 1210vh;
+	height: 40vh;
+	left: 35vw;
+	top: 1040vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -783,8 +783,8 @@ h2{
 
 #titre33 {
 	position: absolute;
-	left: 32.5vw;
-	top: 1265vh;
+	left: 35vw;
+	top: 1085vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -792,9 +792,9 @@ h2{
 
 #image_34 {
 	position: absolute;
-	height: 50vh;
-	left: 52.5vw;
-	top: 1210vh;
+	height: 40vh;
+	left: 51.75vw;
+	top: 1040vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -806,8 +806,8 @@ h2{
 
 #titre34 {
 	position: absolute;
-	left: 52.5vw;
-	top: 1265vh;
+	left: 51.75vw;
+	top: 1085vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -815,9 +815,9 @@ h2{
 
 #image_35 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
-	top: 1280vh;
+	height: 40vh;
+	left: 35vw;
+	top: 1100vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -829,8 +829,8 @@ h2{
 
 #titre35 {
 	position: absolute;
-	left: 32.5vw;
-	top: 1335vh;
+	left: 35vw;
+	top: 1145vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -838,9 +838,9 @@ h2{
 
 #image_36 {
 	position: absolute;
-	height: 50vh;
-	left: 52.5vw;
-	top: 1280vh;
+	height: 40vh;
+	left: 51.75vw;
+	top: 1100vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -852,8 +852,8 @@ h2{
 
 #titre36 {
 	position: absolute;
-	left: 52.5vw;
-	top: 1335vh;
+	left: 51.75vw;
+	top: 1145vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -861,8 +861,8 @@ h2{
 
 #jeu {
 	position: absolute;
-	left: 32.5vw;
-	top: 1357.5vh;
+	left: 35vw;
+	top: 1162.5vh;
 	font-size: 3.5vh;
 	color: black;
     font-family: "signika_bold";
@@ -870,9 +870,9 @@ h2{
 
 #image_37 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
-	top: 1365vh;
+	height: 40vh;
+	left: 35vw;
+	top: 1170vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -884,8 +884,8 @@ h2{
 
 #titre37 {
 	position: absolute;
-	left: 32.5vw;
-	top: 1420vh;
+	left: 35vw;
+	top: 1215vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -893,9 +893,9 @@ h2{
 
 #image_38 {
 	position: absolute;
-	height: 50vh;
-	left: 52.5vw;
-	top: 1365vh;
+	height: 40vh;
+	left: 51.75vw;
+	top: 1170vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -907,8 +907,8 @@ h2{
 
 #titre38 {
 	position: absolute;
-	left: 52.5vw;
-	top: 1420vh;
+	left: 51.75vw;
+	top: 1215vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -916,9 +916,9 @@ h2{
 
 #image_39 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
-	top: 1435vh;
+	height: 40vh;
+	left: 35vw;
+	top: 1230vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -930,8 +930,8 @@ h2{
 
 #titre39 {
 	position: absolute;
-	left: 32.5vw;
-	top: 1490vh;
+	left: 35vw;
+	top: 1275vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -939,9 +939,9 @@ h2{
 
 #image_40 {
 	position: absolute;
-	height: 50vh;
-	left: 52.5vw;
-	top: 1435vh;
+	height: 40vh;
+	left: 51.75vw;
+	top: 1230vh;
     transition: 0.5s;
     box-shadow: 5px 5px 5px grey;
 }
@@ -953,8 +953,8 @@ h2{
 
 #titre40 {
 	position: absolute;
-	left: 52.5vw;
-	top: 1490vh;
+	left: 51.75vw;
+	top: 1275vh;
     width: 17.5vw;
 	overflow: auto;
 	color: black;
@@ -965,8 +965,8 @@ h2{
 	width: 20vw;
 	left: 40vw;
     right: auto;
-	top: 1510vh;
-	font-size: 2.5vh;
+	top: 1300vh;
+	font-size: 2vh;
 	color: black;
 }
 
@@ -975,8 +975,8 @@ h2{
 	width: 20vw;
 	left: 40vw;
     right: auto;
-	top: 335vh;
-	font-size: 2.5vh;
+	top: 300vh;
+	font-size: 2vh;
 	color: black;
 }
 
@@ -985,8 +985,8 @@ h2{
 	width: 20vw;
 	left: 40vw;
     right: auto;
-	top: 560vh;
-	font-size: 2.5vh;
+	top: 485vh;
+	font-size: 2vh;
 	color: black;
 }
 
@@ -995,8 +995,18 @@ h2{
 	width: 20vw;
 	left: 40vw;
     right: auto;
-	top: 265vh;
-	font-size: 2.5vh;
+	top: 235vh;
+	font-size: 2vh;
+	color: black;
+}
+
+#credit_peinture {
+	position: absolute;
+	width: 20vw;
+	left: 40vw;
+    right: auto;
+	top: 295vh;
+	font-size: 2vh;
 	color: black;
 }
 
@@ -1005,21 +1015,21 @@ h2{
 	width: 20vw;
 	left: 40vw;
     right: auto;
-	top: 195vh;
-	font-size: 2.5vh;
+	top: 175vh;
+	font-size: 2vh;
 	color: black;
 }
 
 #arbre_gauche {
 	position: fixed;
 	height: 100vh;
-	left: 8vh;
+	left: 3vh;
 }
 
 #arbre_droite {
 	position: fixed;
 	height: 100vh;
-	right: 8vh;
+	right: 3vh;
 }
 
 p { 
@@ -1049,7 +1059,7 @@ p {
 
 #index_references {
 	left: 5vh;
-	bottom: 37.5vh;
+	bottom: 32.5vh;
 	position: fixed;
 	overflow: visible;
 	white-space: nowrap;
@@ -1057,7 +1067,7 @@ p {
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 4vh;
+	font-size: 3.5vh;
 	color: black;
     font-family: "signika_bold";
 }
@@ -1068,7 +1078,7 @@ p {
 
 #index_cinema {
 	left: 5vh;
-	bottom: 27.5vh;
+	bottom: 25vh;
 	position: fixed;
 	overflow: visible;
 	white-space: nowrap;
@@ -1076,7 +1086,7 @@ p {
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 4vh;
+	font-size: 3.5vh;
 	color: black;
     font-family: "signika_bold";
 }
@@ -1087,7 +1097,7 @@ p {
 
 #index_musique {
 	left: 5vh;
-	bottom: 22.5vh;
+	bottom: 20vh;
 	position: fixed;
 	overflow: visible;
 	white-space: nowrap;
@@ -1095,7 +1105,7 @@ p {
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 4vh;
+	font-size: 3.5vh;
 	color: black;
     font-family: "signika_bold";
 }
@@ -1106,7 +1116,7 @@ p {
 
 #index_livre {
 	left: 5vh;
-	bottom: 17.5vh;
+	bottom: 15vh;
 	position: fixed;
 	overflow: visible;
 	white-space: nowrap;
@@ -1114,7 +1124,7 @@ p {
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 4vh;
+	font-size: 3.5vh;
 	color: black;
     font-family: "signika_bold";
 }
@@ -1125,7 +1135,7 @@ p {
 
 #index_peinture {
 	left: 5vh;
-	bottom: 12.5vh;
+	bottom: 10vh;
 	position: fixed;
 	overflow: visible;
 	white-space: nowrap;
@@ -1133,7 +1143,7 @@ p {
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 4vh;
+	font-size: 3.5vh;
 	color: black;
     font-family: "signika_bold";
 }
@@ -1144,7 +1154,7 @@ p {
 
 #index_jeu {
 	left: 5vh;
-	bottom: 7.5vh;
+	bottom: 5vh;
 	position: fixed;
 	overflow: visible;
 	white-space: nowrap;
@@ -1152,7 +1162,7 @@ p {
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 4vh;
+	font-size: 3.5vh;
 	color: black;
     font-family: "signika_bold";
 }
@@ -1171,7 +1181,7 @@ p {
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 4vh;
+	font-size: 3.5vh;
 	color: black;
     font-family: "signika_bold";
 }

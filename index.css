@@ -12,98 +12,98 @@ html, body {
 
 #date1 {
 	position: absolute;
-	left: 32.5vw;
+	left: 35vw;
 	top: 19vh;
-	font-size: 3.5vh;
+	font-size: 3vh;
 	color: black;
     font-family: "signika_bold";
 }
 
 #date2 {
 	position: absolute;
-	left: 32.5vw;
+	left: 35vw;
 	top: 84vh;
-	font-size: 3.5vh;
+	font-size: 3vh;
 	color: black;
     font-family: "signika_bold";
 }
 
 #date3 {
 	position: absolute;
-	left: 32.5vw;
+	left: 35vw;
 	top: 149vh;
-	font-size: 3.5vh;
+	font-size: 3vh;
 	color: black;
     font-family: "signika_bold";
 }
 
 #date4 {
 	position: absolute;
-	left: 32.5vw;
+	left: 35vw;
 	top: 214vh;
-	font-size: 3.5vh;
+	font-size: 3vh;
 	color: black;
     font-family: "signika_bold";
 }
 
 #date5 {
 	position: absolute;
-	left: 32.5vw;
+	left: 35vw;
 	top: 279vh;
-	font-size: 3.5vh;
+	font-size: 3vh;
 	color: black;
     font-family: "signika_bold";
 }
 
 #date6 {
 	position: absolute;
-	left: 32.5vw;
+	left: 35vw;
 	top: 344vh;
-	font-size: 3.5vh;
+	font-size: 3vh;
 	color: black;
     font-family: "signika_bold";
 }
 
 #date7 {
 	position: absolute;
-	left: 32.5vw;
+	left: 35vw;
 	top: 409vh;
-	font-size: 3.5vh;
+	font-size: 3vh;
 	color: black;
     font-family: "signika_bold";
 }
 
 #date8 {
 	position: absolute;
-	left: 32.5vw;
+	left: 35vw;
 	top: 474vh;
-	font-size: 3.5vh;
+	font-size: 3vh;
 	color: black;
     font-family: "signika_bold";
 }
 
 #date9 {
 	position: absolute;
-	left: 32.5vw;
+	left: 35vw;
 	top: 539vh;
-	font-size: 3.5vh;
+	font-size: 3vh;
 	color: black;
     font-family: "signika_bold";
 }
 
 #date10 {
 	position: absolute;
-	left: 32.5vw;
+	left: 35vw;
 	top: 604vh;
-	font-size: 3.5vh;
+	font-size: 3vh;
 	color: black;
     font-family: "signika_bold";
 }
 
 #image_1 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
+	height: 40vh;
+	left: 35vw;
 	top: 25vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
@@ -118,8 +118,8 @@ html, body {
 
 #image_2 {
 	position: absolute;
-	height: 50vh;
-	right: 32.5vw;
+	height: 40vh;
+	right: 35vw;
 	top: 25vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
@@ -133,8 +133,8 @@ html, body {
 
 #image_3 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
+	height: 40vh;
+	left: 35vw;
 	top: 90vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
@@ -148,8 +148,8 @@ html, body {
 
 #image_4 {
 	position: absolute;
-	height: 50vh;
-	right: 32.5vw;
+	height: 40vh;
+	right: 35vw;
 	top: 90vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
@@ -163,8 +163,8 @@ html, body {
 
 #image_5 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
+	height: 40vh;
+	left: 35vw;
 	top: 155vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
@@ -178,8 +178,8 @@ html, body {
 
 #image_6 {
 	position: absolute;
-	height: 50vh;
-	right: 32.5vw;
+	height: 40vh;
+	right: 35vw;
 	top: 155vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
@@ -193,8 +193,8 @@ html, body {
 
 #image_7 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
+	height: 40vh;
+	left: 35vw;
 	top: 220vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
@@ -208,8 +208,8 @@ html, body {
 
 #image_8 {
 	position: absolute;
-	height: 50vh;
-	right: 32.5vw;
+	height: 40vh;
+	right: 35vw;
 	top: 220vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
@@ -223,8 +223,8 @@ html, body {
 
 #image_9 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
+	height: 40vh;
+	left: 35vw;
 	top: 285vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
@@ -238,8 +238,8 @@ html, body {
 
 #image_10 {
 	position: absolute;
-	height: 50vh;
-	right: 32.5vw;
+	height: 40vh;
+	right: 35vw;
 	top: 285vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
@@ -253,8 +253,8 @@ html, body {
 
 #image_11 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
+	height: 40vh;
+	left: 35vw;
 	top: 350vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
@@ -268,8 +268,8 @@ html, body {
 
 #image_12 {
 	position: absolute;
-	height: 50vh;
-	right: 32.5vw;
+	height: 40vh;
+	right: 35vw;
 	top: 350vh;     	
     border-radius: 2.5vh;
     transition: 0.5s;
@@ -283,8 +283,8 @@ html, body {
 
 #image_13 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
+	height: 40vh;
+	left: 35vw;
 	top: 415vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
@@ -298,8 +298,8 @@ html, body {
 
 #image_14 {
 	position: absolute;
-	height: 50vh;
-	right: 32.5vw;
+	height: 40vh;
+	right: 35vw;
 	top: 415vh;     	
     border-radius: 2.5vh;
     transition: 0.5s;
@@ -314,8 +314,8 @@ html, body {
 
 #image_15 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
+	height: 40vh;
+	left: 35vw;
 	top: 480vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
@@ -329,8 +329,8 @@ html, body {
 
 #image_16 {
 	position: absolute;
-	height: 50vh;
-	right: 32.5vw;
+	height: 40vh;
+	right: 35vw;
 	top: 480vh;     	
     border-radius: 2.5vh;
     transition: 0.5s;
@@ -345,8 +345,8 @@ html, body {
 
 #image_17 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
+	height: 40vh;
+	left: 35vw;
 	top: 545vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
@@ -360,8 +360,8 @@ html, body {
 
 #image_18 {
 	position: absolute;
-	height: 50vh;
-	right: 32.5vw;
+	height: 40vh;
+	right: 35vw;
 	top: 545vh;     	
     border-radius: 2.5vh;
     transition: 0.5s;
@@ -376,8 +376,8 @@ html, body {
 
 #image_19 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
+	height: 40vh;
+	left: 35vw;
 	top: 610vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
@@ -391,8 +391,8 @@ html, body {
 
 #image_20 {
 	position: absolute;
-	height: 50vh;
-	right: 32.5vw;
+	height: 40vh;
+	right: 35vw;
 	top: 610vh;     	
     border-radius: 2.5vh;
     transition: 0.5s;
@@ -407,8 +407,8 @@ html, body {
 
 #image_21 {
 	position: absolute;
-	height: 50vh;
-	left: 32.5vw;
+	height: 40vh;
+	left: 35vw;
 	top: 675vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
@@ -422,8 +422,8 @@ html, body {
 
 #image_22 {
 	position: absolute;
-	height: 50vh;
-	right: 32.5vw;
+	height: 40vh;
+	right: 35vw;
 	top: 675vh;     	
     border-radius: 2.5vh;
     transition: 0.5s;
@@ -441,7 +441,7 @@ html, body {
 	left: 40vw;
     right: auto;
 	margin-top: 610vh;
-	font-size: 2.5vh;
+	font-size: 2.25vh;
 	color: black;
 }
 
@@ -450,8 +450,8 @@ html, body {
 	width: 20vw;
 	left: 40vw;
     right: auto;
-	margin-top: 350vh;
-	font-size: 2.5vh;
+	margin-top: 280vh;
+	font-size: 2.25vh;
 	color: black;
 }
 
@@ -460,8 +460,8 @@ html, body {
 	width: 20vw;
 	left: 40vw;
     right: auto;
-	margin-top: 415vh;
-	font-size: 2.5vh;
+	margin-top: 350vh;
+	font-size: 2.25vh;
 	color: black;
 }
 
@@ -471,7 +471,7 @@ html, body {
 	left: 40vw;
     right: auto;
 	margin-top: 155vh;
-	font-size: 2.5vh;
+	font-size: 2.25vh;
 	color: black;
 }
 
@@ -479,13 +479,13 @@ html, body {
 #arbre_gauche {
 	position: fixed;
 	height: 100vh;
-	left: 8vh;
+	left: 3vh;
 }
 
 #arbre_droite {
 	position: fixed;
 	height: 100vh;
-	right: 8vh;
+	right: 3vh;
 }
 
 
@@ -511,7 +511,7 @@ html, body {
 
 #global {
 	left: 5vh;
-	bottom: 17.5vh;
+	bottom: 15vh;
 	position: fixed;
 	overflow: visible;
 	white-space: nowrap;
@@ -519,7 +519,7 @@ html, body {
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 4vh;
+	font-size: 3.5vh;
 	color: black;
     font-family: "signika_bold";
 }
@@ -530,7 +530,7 @@ html, body {
 
 #objets {
 	left: 5vh;
-	bottom: 12.5vh;
+	bottom: 10vh;
 	position: fixed;
 	overflow: visible;
 	white-space: nowrap;
@@ -538,7 +538,7 @@ html, body {
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 4vh;
+	font-size: 3.5vh;
 	color: black;
     font-family: "signika_bold";
 }
@@ -549,7 +549,7 @@ html, body {
 
 #jeux {
 	left: 5vh;
-	bottom: 7.5vh;
+	bottom: 5vh;
 	position: fixed;
 	overflow: visible;
 	white-space: nowrap;
@@ -557,7 +557,7 @@ html, body {
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 4vh;
+	font-size: 3.5vh;
 	color: black;
     font-family: "signika_bold";
 }
@@ -576,7 +576,7 @@ html, body {
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 4vh;
+	font-size: 3.5vh;
 	color: black;
     font-family: "signika_bold";
 }

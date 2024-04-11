@@ -14,7 +14,7 @@ html, body {
 #arbre_droite {
 	position: fixed;
 	height: 100vh;
-	right: 8vh;
+	right: 3vh;
 }
 
 #soleil_1 {
@@ -60,14 +60,14 @@ html, body {
 	margin-top: 35vh;
 	margin-left: 0;
     min-width:  10vw;
-	max-width: 20vw;
+	max-width: 25vw;
 	position: relative;
 	overflow: auto;
 	color: black;
 }
 
 h1{
-	font-size: 6vh;
+	font-size: 4vh;
 	font-style: normal;
 	font-weight: normal;
 	text-align: left;
@@ -81,22 +81,22 @@ p{
 	font-style: normal;
 	font-weight: normal;
 	top: 0;
-	font-size: 2.25vmin;
+	font-size: 2vmin;
 	margin-right: 2vw
 }
 
 #coordonnees {
-	margin-top: 35vh;
-	margin-left: 22.5vw;
+	margin-top: 55vh;
+	margin-left: 0vw;
     min-width:  10vw;
-	max-width: 20vw;
+	max-width: 25vw;
 	position: absolute;
 	overflow: auto;
 	color: black;
 }
 
 h2 {
-	font-size: 6vh;
+	font-size: 4vh;
 	font-style: normal;
 	font-weight: normal;
 	text-align: left;
@@ -110,22 +110,22 @@ p1 {
 	font-style: normal;
 	font-weight: normal;
 	top: 0;
-	font-size: 2.25vmin;
+	font-size: 2vmin;
 	margin-right: 2vw
 }
 
 #prix {
-	margin-top: 55vh;
+	margin-top: 75vh;
 	margin-left: 0;
     min-width:  10vw;
-	max-width: 20vw;
+	max-width: 25vw;
 	position: absolute;
 	overflow: auto;
 	color: black;
 }
 
 h3 {
-	font-size: 6vh;
+	font-size: 4vh;
 	font-style: normal;
 	font-weight: normal;
 	text-align: left;
@@ -139,22 +139,22 @@ p2 {
 	font-style: normal;
 	font-weight: normal;
 	top: 0;
-	font-size: 2.25vmin;
+	font-size: 2vmin;
 	margin-right: 2vw
 }
 
 #experience {
-	margin-top: 55vh;
-	margin-left: 22.5vw;
+	margin-top: 95vh;
+	margin-left: 0vw;
     min-width:  10vw;
-	max-width: 20vw;
+	max-width: 25vw;
 	position: absolute;
 	overflow: auto;
 	color: black;
 }
 
 h4 {
-	font-size: 6vh;
+	font-size: 4vh;
 	font-style: normal;
 	font-weight: normal;
 	text-align: left;
@@ -168,7 +168,7 @@ p3 {
 	font-style: normal;
 	font-weight: normal;
 	top: 0;
-	font-size: 2.25vmin;
+	font-size: 2vmin;
 	margin-right: 2vw
 }
 
@@ -192,12 +192,13 @@ p3 {
 }
 
 #credit {
-	position: fixed;
-	width: 20vw;
+	position: absolute;
+	top: 135vh;
+	width: 25vw;
 	margin-left: 0;
     right: auto;
 	bottom: 1vh;
-	font-size: 2.5vh;
+	font-size: 2vh;
 	color: rgba(47,47,47,1);
 }
 
