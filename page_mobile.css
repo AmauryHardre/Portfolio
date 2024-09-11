@@ -256,9 +256,13 @@ p1{
 	position: fixed;
 }
 
-
 #arbre_droite {
-	right: -27.5vh;
+	opacity: 0;
+    height: 0px;
+}
+
+#arbre_mobile {
+	right: -25vh;
     top: 0;
 	height: 100vh;
 	position: fixed;

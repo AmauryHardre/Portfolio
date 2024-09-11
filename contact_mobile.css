@@ -155,9 +155,15 @@ p3{
 
 
 #arbre_droite {
+	opacity: 0;
+    height: 0px;
+}
+
+
+#arbre_mobile {
 	position: fixed;
 	height: 100vh;
-	right: -27.5vh;
+	right: -25vh;
     top: 0;
 }
 
