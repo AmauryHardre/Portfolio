@@ -17,6 +17,11 @@ html, body {
 	right: 3vh;
 }
 
+#arbre_mobile {
+	opacity: 0;
+	height: 0px;
+}
+
 #soleil_1 {
     left: 2.5vh;
 	top: 2.5vh;
