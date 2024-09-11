@@ -107,12 +107,12 @@ html, body {
 	top: 25vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
-    box-shadow: 5px 5px 5px grey;  
+    box-shadow: 1px 1px 1px grey;  
 }
 
 
 #image_1:hover{	
-    box-shadow: 10px 10px 10px grey;
+    box-shadow: 5px 5px 5px grey;  
     transition: 0.5s;
 }
 
@@ -123,11 +123,11 @@ html, body {
 	top: 25vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 1px 1px 1px grey; 
 }
 
-#image_2:hover{		
-    box-shadow: 10px 10px 10px grey;
+#image_2:hover{
+    box-shadow: 5px 5px 5px grey;
     transition: 0.5s;
 }
 
@@ -138,11 +138,11 @@ html, body {
 	top: 90vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 1px 1px 1px grey; 
 }
 
-#image_3:hover{		
-    box-shadow: 10px 10px 10px grey;
+#image_3:hover{	
+    box-shadow: 5px 5px 5px grey; 
     transition: 0.5s;
 }
 
@@ -153,11 +153,11 @@ html, body {
 	top: 90vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 1px 1px 1px grey; 
 }
 
 #image_4:hover{		
-    box-shadow: 10px 10px 10px grey;
+    box-shadow: 5px 5px 5px grey; 
     transition: 0.5s;
 }
 
@@ -168,11 +168,11 @@ html, body {
 	top: 155vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 1px 1px 1px grey; 
 }
 
 #image_5:hover{		
-    box-shadow: 10px 10px 10px grey;
+    box-shadow: 5px 5px 5px grey; 
     transition: 0.5s;
 }
 
@@ -183,11 +183,11 @@ html, body {
 	top: 155vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 1px 1px 1px grey; 
 }
 
 #image_6:hover{		
-    box-shadow: 10px 10px 10px grey;
+    box-shadow: 5px 5px 5px grey; 
     transition: 0.5s;
 }
 
@@ -198,11 +198,11 @@ html, body {
 	top: 220vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 1px 1px 1px grey; 
 }
 
 #image_7:hover{		
-    box-shadow: 10px 10px 10px grey;
+    box-shadow: 5px 5px 5px grey; 
     transition: 0.5s;
 }
 
@@ -213,11 +213,11 @@ html, body {
 	top: 220vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 1px 1px 1px grey; 
 }
 
 #image_8:hover{		
-    box-shadow: 10px 10px 10px grey;
+    box-shadow: 5px 5px 5px grey; 
     transition: 0.5s;
 }
 
@@ -228,11 +228,11 @@ html, body {
 	top: 285vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 1px 1px 1px grey; 
 }
 
 #image_9:hover{		
-    box-shadow: 10px 10px 10px grey;
+    box-shadow: 5px 5px 5px grey; 
     transition: 0.5s;
 }
 
@@ -243,11 +243,11 @@ html, body {
 	top: 285vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 1px 1px 1px grey; 
 }
 
-#image_10:hover{		
-    box-shadow: 10px 10px 10px grey;
+#image_10:hover{	
+    box-shadow: 5px 5px 5px grey; 
     transition: 0.5s;
 }
 
@@ -258,11 +258,11 @@ html, body {
 	top: 350vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 1px 1px 1px grey; 
 }
 
-#image_11:hover{		
-    box-shadow: 10px 10px 10px grey;
+#image_11:hover{	
+    box-shadow: 5px 5px 5px grey; 
     transition: 0.5s;
 }
 
@@ -273,11 +273,11 @@ html, body {
 	top: 350vh;     	
     border-radius: 2.5vh;
     transition: 0.5s;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 1px 1px 1px grey; 
 }
 
-#image_12:hover{		
-    box-shadow: 10px 10px 10px grey;
+#image_12:hover{	
+    box-shadow: 5px 5px 5px grey; 
     transition: 0.5s;
 }
 
@@ -288,11 +288,11 @@ html, body {
 	top: 415vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 1px 1px 1px grey; 
 }
 
-#image_13:hover{		
-    box-shadow: 10px 10px 10px grey;
+#image_13:hover{	
+    box-shadow: 5px 5px 5px grey; 
     transition: 0.5s;
 }
 
@@ -303,11 +303,11 @@ html, body {
 	top: 415vh;     	
     border-radius: 2.5vh;
     transition: 0.5s;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 1px 1px 1px grey; 
 }
 
-#image_14:hover{		
-    box-shadow: 10px 10px 10px grey;
+#image_14:hover{	
+    box-shadow: 5px 5px 5px grey; 
     transition: 0.5s;
 }
 
@@ -319,11 +319,11 @@ html, body {
 	top: 480vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 1px 1px 1px grey; 
 }
 
-#image_15:hover{		
-    box-shadow: 10px 10px 10px grey;
+#image_15:hover{	
+    box-shadow: 5px 5px 5px grey; 
     transition: 0.5s;
 }
 
@@ -334,11 +334,11 @@ html, body {
 	top: 480vh;     	
     border-radius: 2.5vh;
     transition: 0.5s;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 1px 1px 1px grey; 
 }
 
-#image_16:hover{		
-    box-shadow: 10px 10px 10px grey;
+#image_16:hover{	
+    box-shadow: 5px 5px 5px grey; 
     transition: 0.5s;
 }
 
@@ -350,11 +350,11 @@ html, body {
 	top: 545vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 1px 1px 1px grey; 
 }
 
-#image_17:hover{		
-    box-shadow: 10px 10px 10px grey;
+#image_17:hover{	
+    box-shadow: 5px 5px 5px grey; 
     transition: 0.5s;
 }
 
@@ -365,11 +365,11 @@ html, body {
 	top: 545vh;     	
     border-radius: 2.5vh;
     transition: 0.5s;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 1px 1px 1px grey; 
 }
 
-#image_18:hover{		
-    box-shadow: 10px 10px 10px grey;
+#image_18:hover{	
+    box-shadow: 5px 5px 5px grey; 
     transition: 0.5s;
 }
 
@@ -381,11 +381,11 @@ html, body {
 	top: 610vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 1px 1px 1px grey; 
 }
 
-#image_19:hover{		
-    box-shadow: 10px 10px 10px grey;
+#image_19:hover{	
+    box-shadow: 5px 5px 5px grey; 
     transition: 0.5s;
 }
 
@@ -396,11 +396,11 @@ html, body {
 	top: 610vh;     	
     border-radius: 2.5vh;
     transition: 0.5s;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 1px 1px 1px grey; 
 }
 
-#image_20:hover{		
-    box-shadow: 10px 10px 10px grey;
+#image_20:hover{
+    box-shadow: 5px 5px 5px grey; 
     transition: 0.5s;
 }
 
@@ -412,11 +412,11 @@ html, body {
 	top: 675vh;    	
     border-radius: 2.5vh;
     transition: 0.5s;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 1px 1px 1px grey; 
 }
 
 #image_21:hover{		
-    box-shadow: 10px 10px 10px grey;
+    box-shadow: 5px 5px 5px grey; 
     transition: 0.5s;
 }
 
@@ -427,11 +427,11 @@ html, body {
 	top: 675vh;     	
     border-radius: 2.5vh;
     transition: 0.5s;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 1px 1px 1px grey; 
 }
 
-#image_22:hover{		
-    box-shadow: 10px 10px 10px grey;
+#image_22:hover{	
+    box-shadow: 5px 5px 5px grey; 
     transition: 0.5s;
 }
 
