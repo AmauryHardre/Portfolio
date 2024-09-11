@@ -297,7 +297,7 @@ html, body {
 	position: fixed;
 }
 
-#arbre_gauche {
+#arbre_mobile {
 	left: -27.5vh;
 	height: 100vh;
 	position: fixed;
@@ -305,6 +305,13 @@ html, body {
 }
 
 #arbre_droite {
+	opacity: 0;
+    height: 0px;
+}
+
+
+
+#arbre_gauche {
 	opacity: 0;
     height: 0px;
 }
