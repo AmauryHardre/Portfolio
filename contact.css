@@ -149,7 +149,7 @@ p2 {
 }
 
 #experience {
-	margin-top: 95vh;
+	margin-top: 105vh;
 	margin-left: 0vw;
     min-width:  10vw;
 	max-width: 25vw;
@@ -198,7 +198,7 @@ p3 {
 
 #credit {
 	position: absolute;
-	top: 135vh;
+	top: 165vh;
 	width: 25vw;
 	margin-left: 0;
     right: auto;
