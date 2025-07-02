@@ -96,6 +96,18 @@ p{
 	color: rgba(47,47,47,1);
 }
 
+#arbre_droite {
+	opacity: 0;
+    height: 0px;
+}
+
+#arbre_mobile {
+	right: -25vh;
+    top: 0;
+	height: 100vh;
+	position: fixed;
+}
+
 #en {
 	right: 5vh;
 	bottom: 3vh;

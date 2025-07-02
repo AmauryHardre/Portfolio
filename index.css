@@ -2,11 +2,12 @@
   padding: 0;}
 html, body {
   height: 100vh;
+    background: #FFFAF0;
 }
 
 @font-face {
     font-family: "signika_bold";
-    src: url("typos/signika/Signika-Bold.ttf") format("truetype");
+    src: url("typos/signika/Signika-Medium.ttf") format("truetype");
 }
 
 
@@ -95,6 +96,24 @@ html, body {
 	position: absolute;
 	left: 35vw;
 	top: 604vh;
+	font-size: 3vh;
+	color: black;
+    font-family: "signika_bold";
+}
+
+#date11 {
+	position: absolute;
+	left: 35vw;
+	top: 669vh;
+	font-size: 3vh;
+	color: black;
+    font-family: "signika_bold";
+}
+
+#date12 {
+	position: absolute;
+	left: 35vw;
+	top: 734vh;
 	font-size: 3vh;
 	color: black;
     font-family: "signika_bold";
@@ -435,12 +454,42 @@ html, body {
     transition: 0.5s;
 }
 
+#image_23 {
+	position: absolute;
+	height: 40vh;
+	right: 35vw;
+	top: 740vh;     	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 1px 1px 1px grey; 
+}
+
+#image_23:hover{	
+    box-shadow: 5px 5px 5px grey; 
+    transition: 0.5s;
+}
+
+#image_24 {
+	position: absolute;
+	height: 40vh;
+	left: 35vw;
+	top: 740vh;     	
+    border-radius: 2.5vh;
+    transition: 0.5s;
+    box-shadow: 1px 1px 1px grey; 
+}
+
+#image_24:hover{	
+    box-shadow: 5px 5px 5px grey; 
+    transition: 0.5s;
+}
+
 #credit {
 	position: absolute;
 	width: 20vw;
 	left: 40vw;
     right: auto;
-	margin-top: 675vh;
+	margin-top: 800vh;
 	font-size: 2.25vh;
 	color: black;
 }

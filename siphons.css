@@ -17,7 +17,12 @@ html, body {
 #arbre_droite {
 	position: fixed;
 	height: 100vh;
-	right: 8vh;
+	right: 3vh;
+}
+
+#arbre_mobile {
+	opacity: 0;
+	height: 0px;
 }
 
 #soleil_1 {
