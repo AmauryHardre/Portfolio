@@ -145,20 +145,6 @@ p1{
 	font-size: 2vmin;	
 }
 
-
-#image_3_bis {
-	position: absolute;
-    width: 30vw;
-	top: 220vh;
-}
-
-#image_3_ombre_bis {
-	top: 220vh;
-    width: 30vw;
-	position: absolute;
-    box-shadow: 5px 5px 5px grey;
-}
-
 #image_4 {
 	position: absolute;
     width: 30vw;
@@ -202,6 +188,44 @@ p1{
     box-shadow: 5px 5px 5px grey;
 }
 
+#texte_3 {
+	position: absolute;
+	min-width:  20vw;
+	max-width: 30vw;
+	top: 460vh;
+	overflow: visible;
+	margin-bottom: 10vh;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	color: black;
+	font-size: 2vmin;	
+}
+
+
+#image_7 {
+	position: absolute;
+    width: 30vw;
+	top: 520vh;
+	overflow: visible;	
+}
+
+
+#image_8 {
+	position: absolute;
+    width: 30vw;
+	top: 580vh;
+	overflow: visible;	
+}
+
+
+#image_9 {
+	position: absolute;
+    width: 30vw;
+	top: 640vh;
+	overflow: visible;	
+}
+
 
 #apropos {
 	right: 5vh;
@@ -235,7 +259,7 @@ p1{
 	position: absolute;
 	width: 20vw;
     right: auto;
-	top: 280vh;
+	top: 260vh;
 	font-size: 2.5vh;
 	color: black;
 }
@@ -244,7 +268,7 @@ p1{
 	position: absolute;
 	width: 20vw;
     right: auto;
-	top: 260vh;
+	top: 300vh;
 	font-size: 2.5vh;
 	color: black;
 }
@@ -253,7 +277,7 @@ p1{
 	position: absolute;
 	width: 20vw;
     right: auto;
-	top: 320vh;
+	top: 380vh;
 	font-size: 2.5vh;
 	color: black;
 }
@@ -262,7 +286,7 @@ p1{
 	position: absolute;
 	width: 20vw;
     right: auto;
-	top: 400vh;
+	top: 460vh;
 	font-size: 2.5vh;
 	color: black;
 }
@@ -271,7 +295,7 @@ p1{
 	position: absolute;
 	width: 20vw;
     right: auto;
-	top: 460vh;
+	top: 680vh;
 	font-size: 2.5vh;
 	color: black;
 }
