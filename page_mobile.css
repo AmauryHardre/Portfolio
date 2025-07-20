@@ -73,6 +73,20 @@ p1{
 	margin-top: 15vh;
 }
 
+
+#video_container {
+	margin-top: 15vh;
+    width: 70vw;
+	margin-left: 2.5vh;
+    position: relative;
+}
+
+#video_container iframe {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16/9;
+}
+
 #image_2_ombre {
 	position: relative;
 	display: block;
