@@ -56,6 +56,12 @@ html, body {
 	opacity: 0;
 }
 
+
+
+#date12 {
+	opacity: 0;
+}
+
 #image_1 {
 	display: block;
     margin-left: auto;
@@ -307,6 +313,32 @@ html, body {
 
 
 #image_22 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:60vh;
+	margin-top: 15vh;
+    margin-bottom: 15vh;    	
+    border-radius: 2.5vh;
+    box-shadow: 5px 5px 5px grey;	
+}
+
+
+
+#image_23 {
+	display: block;
+	margin-left: auto;
+	margin-right: 2.5vh;
+    height:60vh;
+	margin-top: 15vh;
+    margin-bottom: 15vh;    	
+    border-radius: 2.5vh;
+    box-shadow: 5px 5px 5px grey;	
+}
+
+
+
+#image_24 {
 	display: block;
 	margin-left: auto;
 	margin-right: 2.5vh;
