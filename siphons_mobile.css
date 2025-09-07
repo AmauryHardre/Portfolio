@@ -9,44 +9,58 @@ html, body {
   scrollbar-width: none;
 }
 
-#siphons_ensemble_photo {
-	position: relative;
-	display: block;
-	margin-left: auto;
+#image_1 {
+    display: block;
+    margin-left: 2.5vh;
 	margin-right: auto;
-	height: 70vh;
-	margin-top: 15vh;
+    height: 60vh;
+	margin-top: 2.5vh;    	
+    border-radius: 2.5vh;
+    box-shadow: 5px 5px 5px grey;
 }
 
-#siphons_lampe_photo_1 {
+#image_2_1 {
+	position: relative;
 	display: block;
-	margin-left: auto;
+	margin-left: 2.5vh;
 	margin-right: auto;
-        width: 100vw;
+    width: 70vw;
 	height: auto;
-        margin-top: 10vh;
+	margin-top: 15vh;
 	
 }
 
-#siphons_lampe_photo_2 {
+#image_2_1_2 {
 	height: 0px;
 }
 
-#Les_siphons_sont_des_pices_ess 
+#image_2_2 
 {
-    height:40vh;
-	margin-top: 10vh;
-	margin-left: 5vh;
 	position: relative;
-	margin-bottom: 35vh;
+	margin-left: 2.5vh;
+	margin-right: auto;
+    width: 70vw;
+	height: auto;
+	margin-top: 15vh;
+}
+
+#texte_1 
+{
+	
+	margin-top: 10vh;
+    margin-left: 2.5vh;
+	margin-right: auto;
+	position: relative;
+    width: 57.5vw;
+	color: black;
 }
 
 h1{
-	font-size: 2vh;
+	font-size: 6vh;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
 	text-align: left;
+    font-family: "signika_bold";
 }
 
 p{
@@ -55,20 +69,22 @@ p{
 	text-align: left;
 	font-style: normal;
 	font-weight: normal;
-	color: rgba(47,47,47,1);
 	top: 0;
-	font-size: 3vh;
+	font-size: 2vh;
 	margin-right: 5vh;
 }
 
-#siphons_vase_photo {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-        width: 100vw;
-	height: auto;
-        margin-top: 10vh;
+p1{
+	position: relative;
+	overflow: visible;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	top: 0;
+	font-size: 2.5vh;
+	margin-right: 5vh;
 }
+
 
 
 #ah {
@@ -109,6 +125,20 @@ p{
 	right: -25vh;
     top: 0;
 	height: 100vh;
+	position: fixed;
+}
+
+
+
+#soleil_1 {
+	opacity: 0;
+    height: 0px;
+}
+
+#soleil_2 {
+	left: 2vh;
+	top: 2vh;
+    height: 15vh;
 	position: fixed;
 }
 
@@ -158,4 +188,36 @@ p{
 #contact:hover{
 	text-decoration: underline;
 	transition: 0.6s ease;
+}
+
+
+
+#apropos {
+	right: 4vh;
+	top: 4vh;
+	position: fixed;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4vh;
+	color: black;
+    font-family: "signika_bold";
+    text-shadow: 2px 2px 2px white;
+}
+
+
+#credit3 {
+	margin-left: 2.5vh;
+	margin-top: 30vh;
+	position: relative;
+	overflow: visible;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 2vh;
 }
